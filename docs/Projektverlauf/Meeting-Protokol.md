@@ -8,8 +8,6 @@ Wie Aufteilen   | Vorläufig macht jeder ein Kapitel, da diese jeweils ca. 50 Se
 Arbeitsaufteilung   | Wird Online besprochen
 Online-Termin   | Son. 15:00 
 
-#
-#
 
 # 1. Online-Meeting 21.10.2018
 
