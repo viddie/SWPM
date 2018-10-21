@@ -2,7 +2,7 @@
 
 Kapitel | Person
 -------- | -------- 
-IT-Projektmanagement (ganzes Buch)  | Chamoun Simon Safar
+IT-Projektmanagement (ganzes Buch 62 Seiten)  | Chamoun Simon Safar
 Projektmanagement:   | 
 Kap1: Projektmanagement verstehen (40 Seiten)  | Christian Krebel
 Kap2: Projekte definieren (64 Seiten)  | Eugen Klat
