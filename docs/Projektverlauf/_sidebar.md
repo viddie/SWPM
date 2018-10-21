@@ -8,3 +8,4 @@
   * [Aufgabenverteilung](Projektverlauf/Aufgabenverteilung.md)
   * [Projekttagebuch: Jonas Ahrend](Projektverlauf/Jonas Ahrend.md)
   * [Projekttagebuch: Christian Krebel](Projektverlauf/ChristianKrebel.md)
+  * [Projekttagebuch: Julian Wasilewski](Projektverlauf/JulianWasilewski.md)
