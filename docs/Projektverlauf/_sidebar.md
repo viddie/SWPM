@@ -1,6 +1,6 @@
 ﻿* <b> Inhaltsverzeichnis </b>
   * [Home](/)
-  * [Präsentation](/Präsentation/README.md)
+  * [Präsentation](Presentation/ ":ignore title")  
   * [Projektverlauf](/Projektverlauf/README.md)
   
 * <b> Projektverlauf </b>
