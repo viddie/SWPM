@@ -1,4 +1,6 @@
 Datum | Dauer | Tätigkeit
 -------- | -------- | --------
-Inhalt   | Inhalt   | Inhalt
-Inhalt   | Inhalt   | Inhalt
+tt.mm.jj | hh:mm h  | Inhalt
+tt.mm.jj | hh:mm h  | Inhalt
+   |   | 
+Summe | hh:mm h  | 
