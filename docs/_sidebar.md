@@ -1,4 +1,4 @@
 * <b> Inhaltsverzeichnis </b>
   * [Home](/)
-  * [Presentation](/Presentation/README.md)
+  * [Präsentation](/Präsentation/README.md)
   * [Projektverlauf](/Projektverlauf/README.md)
