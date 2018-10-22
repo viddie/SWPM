@@ -16,4 +16,6 @@ Datum | Dauer | Tätigkeit
 21.10.18 | 1:00 h   | 1. Online Meeting
 21.10.18 | 1:30 h   | Remark eingebunden
  | | 
-Summe |  7:55 h  | 
+22.10.18 | 0:20 h   | Jira angeschaut
+ | | 
+Summe |  8:15 h  | 
