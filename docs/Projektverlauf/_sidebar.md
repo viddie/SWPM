@@ -1,9 +1,11 @@
-* <b> Inhaltsverzeichnis </b>
+﻿* <b> Inhaltsverzeichnis </b>
   * [Home](/)
-  * [Presentation](/Presentation/README.md)
+  * [Präsentation](Präsentation/ ":ignore title")  
   * [Projektverlauf](/Projektverlauf/README.md)
   
 * <b> Projektverlauf </b>
   * [Meeting-Protokol](Projektverlauf/Meeting-Protokol.md)
+  * [Aufgabenverteilung](Projektverlauf/Aufgabenverteilung.md)
   * [Projekttagebuch: Jonas Ahrend](Projektverlauf/Jonas Ahrend.md)
   * [Projekttagebuch: Christian Krebel](Projektverlauf/ChristianKrebel.md)
+  * [Projekttagebuch: Julian Wasilewski](Projektverlauf/JulianWasilewski.md)
