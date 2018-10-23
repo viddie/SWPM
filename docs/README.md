@@ -4,7 +4,7 @@
 <center> <b> Von: </b> </center> 
 <p>Jonas Ahrend,
 Eugen Klat,
-Christian Krebel
+Christian Krebel,
 Julian Wasilewski,
 Hannes Rüffer,
 Florian Buller,
