@@ -17,5 +17,15 @@ Datum | Dauer | Tätigkeit
 21.10.18 | 1:30 h   | Remark eingebunden
  | | 
 22.10.18 | 0:20 h   | Jira angeschaut
- | | 
-Summe |  8:15 h  | 
+ | | -
+23.10.18 | 0:45 h | 2. Meeting
+23.10.18 | 0:17 h | Lesen
+23.10.18 | 0:25 h | Remark erweitern & an Git Verzweifeln
+23.10.18 | 0:40 h | SU nachbearbeiten & Zusammenfassung schreiben
+||
+24.10.18 | 0:50 h | Lesen 
+||
+26.10.18 | 2:00 h | Lesen & Toolbox angesehen
+26.10.18 | 0:40 h | Jira versucht zu installieren
+26.10.18 | 0:40 h | Groben Zeitplan erstellt & Projetverlauf verwalted
+Summe |  14:32 h  | 

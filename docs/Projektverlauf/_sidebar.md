@@ -6,7 +6,9 @@
 * <b> Projektverlauf </b>
   * [Meeting-Protokol](Projektverlauf/Meeting-Protokol.md)
   * [Aufgabenverteilung](Projektverlauf/Aufgabenverteilung.md)
+  * [Zeitplan](Projektverlauf/Zeitplan.md)
   * [Einblick: GitHub project boards](Projektverlauf/GithubProjectBoards.md)
   * [Projekttagebuch: Jonas Ahrend](Projektverlauf/Jonas Ahrend.md)
   * [Projekttagebuch: Christian Krebel](Projektverlauf/ChristianKrebel.md)
   * [Projekttagebuch: Julian Wasilewski](Projektverlauf/JulianWasilewski.md)
+  * [Projekttagebuch: Hannes Rueffer](Projektverlauf/HannesRueffer.md)
