@@ -12,4 +12,3 @@
   * [Projekttagebuch: Christian Krebel](Projektverlauf/ChristianKrebel.md)
   * [Projekttagebuch: Julian Wasilewski](Projektverlauf/JulianWasilewski.md)
   * [Projekttagebuch: Hannes Rueffer](Projektverlauf/HannesRueffer.md)
-  
