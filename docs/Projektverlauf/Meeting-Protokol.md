@@ -17,3 +17,14 @@ master- merge Regeln |  Nur pull-Request auf master
 Branch Regel   | Möglichs häufig mit master mergen
 Arbeitsaufteilung   | Aufgeteilt
 Bis nächstes mal   | lesen
+
+
+# 2. Meeting 23.10.2018
+
+Punkt | Entscheidung 
+-------- | -------- 
+Präsenations Struktur   | Zu einer großen zusammenfassen 
+Präsenations Reihenfolge   | Präsentation am besten nicht in Kapitelreihenfolge, sondern möglichst selbst eine zusammenstellen, die man logisch finded
+Präsenations Bewertung   | Testat, keine Note, nur bestehen.
+Präsenations Bestantteile   | Hauptsächlich unser Kapitel, können aber auch andere Quellen anbringen.
+Tools  | Jira einbinden, MS Project & GitHub Project anschaunen und verlgeichen
