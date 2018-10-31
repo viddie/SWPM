@@ -27,4 +27,14 @@ Präsenations Struktur   | Zu einer großen zusammenfassen
 Präsenations Reihenfolge   | Präsentation am besten nicht in Kapitelreihenfolge, sondern möglichst selbst eine zusammenstellen, die man logisch finded
 Präsenations Bewertung   | Testat, keine Note, nur bestehen.
 Präsenations Bestantteile   | Hauptsächlich unser Kapitel, können aber auch andere Quellen anbringen.
-Tools  | Jira einbinden, MS Project & GitHub Project anschaunen und verlgeichen
+Tools  | Jira einbinden, MS Project & GitHub Project anschaunen und verlgeichen  
+
+
+# 3. Meeting 30.10.2018
+
+Punkt | Entscheidung  
+-------- | -------- 
+Tool Besprechung   |  Github Projectst verwenden
+Jira ist kostenpflichtig | Jira anschaun. Verwenden von passender als Github Projects
+Schablone Betrachten | Keine Html Tags verwenden. Dezentes Hintergrundbild verwenden
+Zeitplan besprechen | Chris erstellt Meilensteine in Github Projects
