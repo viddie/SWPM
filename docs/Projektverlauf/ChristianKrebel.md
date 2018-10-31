@@ -8,5 +8,8 @@ Datum | Dauer | Tätigkeit
 21.10.18 | 1:00 h   | 1. Online-Meeting
 23.10.18 | 0:45 h   | 2. Meeting (Neue Aufgabe: GitHub project boards angucken)
 25.10.18 | 2:00 h   | Infos zu GitHub project boards in markdown notiert und in die Docsify-Struktur eingepflegt
+30.10.18 | 0:45 h   | 3. Meeting (Neue Aufgabe: GitHub project board aufsetzen + Milestones hinzufügen)
+31.10.18 | 0:30 h   | Gelesen
+31.10.18 | 1:30 h   | Meilensteine hinzugefügt, GitHub Project Board hinzugefügt
  |   | 
-Summe | 9:10 h  | 
+Summe | 11:55 h  | 
