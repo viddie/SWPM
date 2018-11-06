@@ -17,7 +17,7 @@ Datum | Dauer | Tätigkeit
 21.10.18 | 1:30 h   | Remark eingebunden
  | | 
 22.10.18 | 0:20 h   | Jira angeschaut
- | | -
+ | | 
 23.10.18 | 0:45 h | 2. Meeting
 23.10.18 | 0:17 h | Lesen
 23.10.18 | 0:25 h | Remark erweitern & an Git Verzweifeln
