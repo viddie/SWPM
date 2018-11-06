@@ -28,4 +28,16 @@ Datum | Dauer | Tätigkeit
 26.10.18 | 2:00 h | Lesen & Toolbox angesehen
 26.10.18 | 0:40 h | Jira versucht zu installieren
 26.10.18 | 0:40 h | Groben Zeitplan erstellt & Projetverlauf verwalted
-Summe |  14:32 h  | 
+||
+30.10.18 | 0:45 h  | 3. Meeting
+30.10.18 | 0:30 h  | Meeting nachbearbeitet
+ || 
+31.10.18 | 1:00 h  | git rebase angesehen & verworfen
+ || 
+01.11.18 | 1:10 h | Github Pflege 
+01.11.18 | 2:20 h | Jira Testen 
+01.11.18 | 0:20 h | Issus erstellen 
+ ||
+06.11.18 | 0:45 h | lesen
+||
+Summe |  21:22 h  | 
