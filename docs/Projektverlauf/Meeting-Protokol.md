@@ -46,7 +46,6 @@ Zeitplan besprechen | Chris erstellt Meilensteine in Github Projects
 
 
 Punkt | Entscheidung  
-
 -------- | -------- 
 GH Projects vorstellen | Vorgestellt
 Vorlagen Fortschritt   | Wird hochgeladen  
