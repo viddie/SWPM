@@ -1,4 +1,4 @@
-Datum | Dauer | Tätigkeit
+﻿Datum | Dauer | Tätigkeit
 -------- | -------- | --------
 16.10.18 | 1:30 h   | 1. Meeting
 16.10.18 | 0:10 h   | Mitschriebe nachbearbeiten
@@ -39,5 +39,7 @@ Datum | Dauer | Tätigkeit
 01.11.18 | 0:20 h | Issus erstellen 
  ||
 06.11.18 | 0:45 h | lesen
+06.11.18 | 0:45 h | 4. Meeting
+06.11.18 | 0:45 h | lesen
 ||
-Summe |  21:22 h  | 
+Summe |  22:52 h  | 
