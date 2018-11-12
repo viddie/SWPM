@@ -26,6 +26,6 @@ Sonstiges:
 - Präsentation am besten nicht in Kapitelreihenfolge, sondern möglichst selbst eine zusammenstellen, die man logisch findet
 
 Links:
-[Projektverlauf](https://jonasfhinfo.github.io/SWPM/#/Projektverlauf/README)
-Ausarbeitung (Ausstehend)
-[Präsentation](https://jonasfhinfo.github.io/SWPM/Pr%C3%A4sentation/#1) 
+[Projektverlauf](https://jonasfhinfo.github.io/SWPM/#/Projektverlauf/README)  
+Ausarbeitung (Ausstehend)  
+[Präsentation](https://jonasfhinfo.github.io/SWPM/Pr%C3%A4sentation/#1)   
