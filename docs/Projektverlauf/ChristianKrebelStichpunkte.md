@@ -147,4 +147,85 @@
 >- Projektumfang/-leistung – Project Scope
 
 ## 1.3 In Etappen zum Erfolg – Phasen und Meilensteine
-- 
+- Bewältigung des Projekts in Teilstrecken (Phasen)
+  - haben Hauptaufgaben
+  - und Übergabepunkte (Meilensteine)
+- Baseline (Referenzkonfiguration):
+  - beschreibt Inhalt, Zustand, Zeitpunkt
+  - meist während Meilenstein
+  - nicht änderbar, nur einsehen oder wiederherstellen
+- Erst planen, dann realisieren -> Makrostrategie
+- verschiedene Phasenmodelle (***Abb. 1.5***)
+
+---
+
+- Projektphase:
+  - zeitlicher Abschnitt, sachlich abgegrenzt
+  - repräsentieren vereinbarte Tätigkeiten
+  - Enden mit Meilenstein
+- Meilensteine:
+  - kommen innerhalb und am Ende von Phasen vor
+  - konkrete Liefergegenstände
+  - bestimmter Termin
+  - Unterliegen Prüfung -> vllt. muss man Nacharbeiten
+  - beschreiben **nicht** die Aktivität selbst, wenn nur Anfang / Ende
+  - erleichtern ständige Rückkopplung zum Kunden
+  - dienen der Synchronisation (stellen sicher, dass nächster Bearbeitungsabschnitt erfolgreich beginnen kann)
+  - Bei Zahlungsmeilensteinen gibt es Geld fürs Erreichen von technischen Meilensteinen
+  - Showstopper sind große Probleme, können zu Stillstand führen
+
+---
+
+- Neben allgemeingültigen Phasen (Abb. 1.5) auch Projektspezifische Phasen + sp. Meilensteine (***Abb. 1.6***)
+
+---
+
+- Initiierungsphase:
+  - Business Case nutzen
+  - am Ende der Phase Ergebnis, ob Idee weiterverfolgt werden soll
+  - normalerweise nicht primäre Aufgabe des Projektleiters und Projektteams
+- Definitionsphase:
+  - Projektleitung und Projektteam kommen ins Spiel
+  - Projektauftrag erarbeitet und am Ende der Phase genehmigt
+  - dazu Stakeholdermanagement, Festlegung der Rollen und Verantwortlichkeiten im Team, Teamentwicklung
+- Planungsphase:
+  - Projektplan oder/und Projektmanagementplan erstellen:
+    - Projektplan (Baseline):
+      - Basispläne für die Durchführung des Projekts
+      - Inhalte, Qualität, Termine, Kosten, Ressourcen und Risiken
+    - Projektmanagementplan:
+      - Differenz.: Frage der Gestaltung des Planungsprozesses
+      - bei kleinen Projekten im Projektplan (nicht so bedeutend)
+      - ist Dokument(e), worin festgelegt wird, wie Projekt durchgeführt, überwacht, gesteuert wird
+- Umsetzungsphase:
+   - Steuerungsaktivitäten:
+     - Arbeit voranzubringen, einzusteuern
+     - ermitteln, welcher Arbeitsfortschritt erreicht wurde
+     - Tests durchführen
+     - Ergebnisse prüfen
+     - Pläne anpassen
+   - Produkt fertig
+- Abschlussphase:
+  - Reflexion, Abschlussdokumentation, Lessons Learnt, Archivierung der Ergebnisse etc.
+  - Bewertung des Projekts und der Leistung
+ 
+ ---
+
+- Für einige Branchen existieren spezifische Phasenpläne
+  - Standardphasenmodelle vorhanden -> an Produkt anpassen
+  - können zum globalen Qualitätsstandard werden
+- Start-up-Workshop:
+  - Stakeholder treffen sich, erarbeiten Auftragsklärung
+  - erster grober Ablauf- und Terminplan erstellt
+
+>Wichtige Begriffe
+>- Baseline (Referenzkonfiguration, Basisplan)
+>- Liefergegenstand – Deliverable
+>- Meilenstein – Milestone
+>- Phasenmodel – Phase Model
+>- Projektmanagementplan – Project Management Plan
+>- Projektphase – Project Phase    
+>- Projektplan – Project Plan
+>- Standardphasenmodell
+
+## 1.4 Den Überblick behalten
