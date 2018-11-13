@@ -41,7 +41,7 @@ Projekt auf Kurs halten
 Kap 5 (Noch niemand):
 Projekt abschließen
 
-Alle Buch:
+Alle Buch (Simon):
 - Projektmangement Grundbegriffe [Auch Chris]
 - Alg. Herrausforderung
 - Projektentscheidungen
