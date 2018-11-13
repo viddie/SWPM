@@ -9,5 +9,7 @@
 27.10.18 | 1:30 h   | Buch #1 -> (40%)
 30.10.18 | 0:30 h   | Buch #1 -> (50%)
 11.11.18 | 2:30 h   | Buch #1 fertig
+12.11.18 | 1:30 h   | Buch #3 angefangen (60%)
+13.11.18 | 1:30 h   | Buch #3 fertig
  |   | 
-Summe | 08:40 h  | 
+Summe | 11:40 h  | 
