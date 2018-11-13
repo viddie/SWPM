@@ -20,7 +20,9 @@ Nummerierte Listen
 5. Post
   
   
-![HierVerlinkenWirDochMalEinBild](Vorlagen/Bilder/FlorianBuller/bsp.png)
+
+![HierVerlinkenWirDochMalEinBild](Bilder/FlorianBuller/bsp.jpg)
+
 
 Fall wir noch eine Tabelle in unserer Ausarbeitung brauchen.  
   
