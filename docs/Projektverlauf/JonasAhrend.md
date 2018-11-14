@@ -42,4 +42,13 @@
 06.11.18 | 0:45 h | 4. Meeting
 06.11.18 | 0:45 h | lesen
 ||
-Summe |  22:52 h  | 
+08.11.18 | 2:08 h | lesen
+||
+10.11.18 | 3:00 h | lesen
+||
+13.11.18 | 1:00 h | Besprechung mit Florian
+13.11.18 | 3:00 h | 5. Meeting
+||
+14.11.18 | 1:30 h | lesen
+||
+Summe |  33:30 h  | 
