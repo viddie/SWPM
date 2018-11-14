@@ -1,4 +1,4 @@
-﻿# 1. Meeting 16.10.2018
+# 1. Meeting 16.10.2018
 
 Punkt | Entscheidung 
 -------- | -------- 
@@ -43,11 +43,18 @@ Zeitplan besprechen | Chris erstellt Meilensteine in Github Projects
 
 # 4. Meeting 06.11.2018
 
-
-
 Punkt | Entscheidung  
 -------- | -------- 
 GH Projects vorstellen | Vorgestellt
 Vorlagen Fortschritt   | Wird hochgeladen  
 Hintergrundbild | Fh-Bielfeld Style. Halbrahmen & Logo.
 Präsi Besprechung | 12:30 vor SU Treffen. Is au ok, wenn nur einer deswegen in den SU geht 
+
+# 5. Meeting 13.11.2018
+
+Punkt | Entscheidung  
+-------- | --------  
+Flo stellt Ausarbeitungs- Vorlage vor | Quellenangabe anpassen. Am besten wie bei Wikipedia (Zahl oben, Links unten).   
+Simon stellt Projekt-Vorlage vor | Schriftart anpassen. 
+Jeder stellt sein Kapitel vor | Vorgestellt (siehe Kapitel Vergleich)  
+Reihenfolge überlegen | Bis Sonntag    
