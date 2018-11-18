@@ -14,7 +14,7 @@
   * [Projekttagebuch: Julian Wasilewski](Projektverlauf/JulianWasilewski.md)
   * [Projekttagebuch: Hannes Rueffer](Projektverlauf/HannesRueffer.md)
   * [Projekttagebuch: Chamoun Simon Safar](Projektverlauf/ChamounSimonSafar.md)
-  * [Projekttagebuch: Florian Buller](Projektverlauf/FlorianBullerDiary.md)
+  * [Projekttagebuch: Florian Buller](Projektverlauf/FlorianBuller.md)
   * [Projekttagebuch: Eugen Klat](Projektverlauf/EugenKlat.md)
   
 
