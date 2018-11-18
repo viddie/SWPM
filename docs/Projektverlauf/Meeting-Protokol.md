@@ -58,3 +58,9 @@ Flo stellt Ausarbeitungs- Vorlage vor | Quellenangabe anpassen. Am besten wie be
 Simon stellt Projekt-Vorlage vor | Schriftart anpassen. 
 Jeder stellt sein Kapitel vor | Vorgestellt (siehe Kapitel Vergleich)  
 Reihenfolge überlegen | Bis Sonntag    
+
+# 2. Online-Meeting 18.11.2018
+
+Punkt | Entscheidung  
+-------- | --------  
+Reihenfolge überlegen | Kapitel Reihenfolge des Buchs. 
