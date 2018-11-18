@@ -6,14 +6,13 @@ Projektmangemnet verstehen
 - Erfolg messen
 - Phasen & Meilensteine & Hindernisse
 
-Kap 2 (Eugen):
-Projekt definieren
+Kap 2 (Eugen): Projekt definieren
 - Projekt deffinieren [Auch Chris (Pre-Start Phasen)]
-- Stakholder (sehr viel) [Auch Chris]
+- Projektauftrag – Project Charter
+- Business Case
+- Auftragsklärung (Stakeholder- und Risikoanalyse, Projektbeauftragung, Projekt-Kick-Off-Veranstaltung/Start-up-Workshop)
+- Stakeholder (sehr viel) [Auch Chris]
 - Rollen
-- Mittelverwaltung
-- Projektstart (Kick off)
-- Produkt & Risiken
 - Teams (Teamarten. Optimale Teams) [Auch Simon]
 
 Kap 3 1/2 (Julian):
