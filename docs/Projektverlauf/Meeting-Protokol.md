@@ -64,3 +64,15 @@ Reihenfolge überlegen | Bis Sonntag
 Punkt | Entscheidung  
 -------- | --------  
 Reihenfolge überlegen | Kapitel Reihenfolge des Buchs. 
+
+
+# 6. Meeting 20.11.2018
+
+Punkt | Entscheidung  
+-------- | --------  
+Ausarbeitung Reihenfolge | Kapitel Reiheinfolge is OK
+Ausarbeitung Doppelte Themen | Nur ein Thema
+Ausarbeitung Einleitung Chris | Einleitung OK 
+Ausarbeitung Seiten-Anzahl | Egal. reinschreiben was man relevant findet
+Ausarbeitung Tooling (wie ausführlich) | Selbst bestimmen. Nur GH Project ok. Ggf. Delegieren.
+Bis nächste Woche | Ausarbeitung beginnen & in GitHub haben
