@@ -1,23 +1,43 @@
-# Name_Ausarbeitung
-
-1. [AusarbeitungsThema1](#thema1)
-2. [AusarbeitungsThema2](#thema2)
-3. [AusarbeitungsThema3](#thema3)
-4. [evtlQuellen](#quellen)
-
-## AusarbeitungsThema1 <a name="thema1"></a>
-- TeilAusarbeitung von xy (siehe md von xy, späteres einpflegen in die HauptAusarbeitung.md)  
+﻿## AusarbeitungsThema1 
   
-[Ausarbeitung fbuller](Ausarbeitung_FlorianBuller.md)
+### Unterthema1
 
-## AusarbeitungsThema2 <a name="thema2"></a>
-- TeilAusarbeitung von xy (siehe md von xy, späteres einpflegen in die HauptAusarbeitung)
+Einen Zeilenumbruch erzeugt man, indem man am Ende einer Zeile zwei Leerzeichen dranhängt.  
+Überschriften H1 - H6 mit # bis ######.  
+Für BilderPfade sind keine Leerzeichen im Pfad erlaubt.  
+Kleiner Fließtext als Beispiel für Inhalt der Ausarbeitung. [[1]](#quelle1)  
+- einfache Aufzahlung
+  - Aufzählung verschachtelung (Tabulator ist hier notwendig)
+  
 
-## AusarbeitungsThema3<a name="thema3"></a>
-- TeilAusarbeitung von xy (siehe md von xy, späteres einpflegen in die HauptAusarbeitung)
+Beispiel für Text in **Fettschrift**.  
+Beispiel für Text in *Kursivschrift*.  
+Nummerierte Listen
+1. Pre
+2. Start
+3. Lauf
+4. Ende
+5. Post
+  
+  
+
+![HierVerlinkenWirDochMalEinBild](Bilder/FlorianBuller/bsp.jpg)
 
 
+Fall wir noch eine Tabelle in unserer Ausarbeitung brauchen.  
+  
+Spalte 1 | Spalte 2 | Spalte 3
+-------- | -------- | --------
+Inhalt   | Inhalt   | Inhalt
+Inhalt   | Inhalt   | Inhalt
+  
+  
+> Blockzitate müssen mit einer Leerzeile beginnen und enden
 
-
-## evtlQuellen <a name="quellen"></a>
-[Anzeigetext für Link](http://www.sampleurl.com)
+> Jede Zeile des Zitats beginnt mit einer rechten spitzen Klammer und einem Leerzeichen  
+  
+  
+  
+  
+## Quellen
+#### Quelle1 aus Buch A Seite B von Zeile C bis D <a name="quelle1"></a>
