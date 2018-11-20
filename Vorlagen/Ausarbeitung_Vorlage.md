@@ -21,7 +21,7 @@ Nummerierte Listen
   
   
 
-![HierVerlinkenWirDochMalEinBild](Bilder/FlorianBuller/bsp.jpg)
+![HierVerlinkenWirDochMalEinBild](Bilder_Beispiel/bsp.jpg)
 
 
 Fall wir noch eine Tabelle in unserer Ausarbeitung brauchen.  
