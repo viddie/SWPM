@@ -1,3 +1,3 @@
-# Ausarbeitung
+﻿# Ausarbeitung
  
-<p> Platzhalter f�r Titelbild </p> 
+<p> Platzhalter für Titelbild </p> 
