@@ -13,5 +13,9 @@ Datum | Dauer | Tätigkeit
 11.10.2018 | 01:30 h  | Markdown einarbeitung und AusarbeitungsVorlagen Überlegung
 12.10.2018 | 01:00 h  | AusarbeitungsVorlagen Realisierung
 13.10.2018 | 02:45 h  | Buch 3 Kap4 lesen, Aktualisierung und Besprechung der Ausarbeitungsvorlage
+13.10.2018 | 03:00 h  | Meeting 5 in der Bücherei, Vorlagenpräsentation und Kapitelvorstellung
+15.10.2018 | 01:00 h  | Beginn der Ausarbeitung
+17.10.2018 | 01:00 h  | Ausarbeitung
+19.10.2018 | 01:00 h  | Beginn der Ausarbeitung
    |   | 
-Summe | 14:50 h  | 
+Summe | 20:50 h  | 
