@@ -5,7 +5,7 @@
 Einen Zeilenumbruch erzeugt man, indem man am Ende einer Zeile zwei Leerzeichen dranhängt.  
 Überschriften H1 - H6 mit # bis ######.  
 Für BilderPfade sind keine Leerzeichen im Pfad erlaubt.  
-Kleiner Fließtext als Beispiel für Inhalt der Ausarbeitung.  
+Kleiner Fließtext als Beispiel für Inhalt der Ausarbeitung. [[1]](#quelle1)  
 - einfache Aufzahlung
   - Aufzählung verschachtelung (Tabulator ist hier notwendig)
   
@@ -34,4 +34,10 @@ Inhalt   | Inhalt   | Inhalt
   
 > Blockzitate müssen mit einer Leerzeile beginnen und enden
 
-> Jede Zeile des Zitats beginnt mit einer rechten spitzen Klammer und einem Leerzeichen
+> Jede Zeile des Zitats beginnt mit einer rechten spitzen Klammer und einem Leerzeichen  
+  
+  
+  
+  
+## Quellen
+#### Quelle1 aus Buch A Seite B von Zeile C bis D <a name="quelle1"></a>
