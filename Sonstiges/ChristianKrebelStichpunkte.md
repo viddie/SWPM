@@ -229,3 +229,71 @@
 >- Standardphasenmodell
 
 ## 1.4 Den Überblick behalten
+- Überblick verschaffen und behalten
+  - Überblick & Details nicht übersehen mithilfe von Kernprozessen (***Abb. 1.7***)
+    - Bsp.: Risiko und Chancenmanagement
+    - Stakeholdermanagement
+    - Qualitätsmanagement
+    - Teambildung
+    - usw.
+    ---
+    - In Phasen: Initiierung: Risiken und Chancen auseinandersetzen & wichtige Stakeholder holen
+    - Definition: Teambildung und Qualitätsmanagement im Mittelpunkt
+    - Planung: Ziel ist Baseline erstellen. Prozesse verknüpft, werden in alle Richtungen & Iterationen, Bottom-up usw. ausgeführt. Termin- und Kostenschätzung per Bottom-up
+    - Realisierung/Durchf.: Vieles, Änderungen, Berichte, weitere Risikomaßnahmen
+    - Abschluss: Würdigung der Leistung (in Stakeh.-anal.) & Abschlussdoku der Lessons Learnt
+    - Alle Phasen: Stakeholdermanagement, Risiko- und Chancenmanagement, Qualitätsmanagement, Teambildung
+  - Zoom-in & Zoom-out
+    - Immer derz. Stand und Ziele im Blick haben
+    - von Details auf Gesamtheit schließen
+  - Top-down & Bottom-up
+    - Erst von Grob dann zu Detail Ziele & Lösungen beschreiben
+    - Gegenstromverfahren findet Kompromisse zwischen beiden
+  - Loops & Iterationen
+    - Iteration ist Kreislauf regelmäßig wiederkehrender Schritte im Problemlösezyklus
+    - sind Bottom-up in Gesamtkonzeption eingebunden
+    - Alle Schritte wiederholen sich, wenn einer nicht zufriedenstellend ist
+  - Seq. Vorgehensweise von Abb. 1.7 ist in Praxis nicht vorzufinden, nur teilweise & Phasen überlappen sich, Baseline nicht immer endgültig -> Risiken
+- Projekte sind Kooperationen auf Zeit
+  - Kooperationen brauchen Management, da verschiedene Werte & Vorstellungen
+  - Personen & Organisationen gehen Verpflichtungen ein für gem. Aufwand, Nutzen, Risiken
+  - (***Tab. 1.1***)
+- Schnittstellen gestalten
+  - wichtig, damit System funktioniert (Bsp.: Steckdosen im Ausland)
+  - sind "Verbindungsstellen zwischen Systemen, Projekt zum Projektumfeld" oder "zwischen Systemteilen, z. B. zwischen Arbeitspaketen" (nach Motzel 2010, S. 215)
+  - Vereinbarungen, für wirkungsv. Verbindungen, da Schnittst. nicht glatt sind
+    - Regeln für Übergabe von Ergebnissen
+    - Absprache über Aussehen von Ergebnissen
+    - Klärung der Erwartungen
+  ---
+  - Auftraggeber und Auftragnehmer
+    - Kunde nimmt Kontakt auf NUR mit Projektleiter, einz. Mitarbeiter leiten falls zu Leiter weiter
+  - Projekt und Fachabteilung
+    - konfliktträchtig, sensibel
+    - unternehmensinterne Auftraggeber-Auftragnehmer-Beziehung
+  - Projekt und interner Auftraggeber und andere Projekte
+    - Leiter berichtet regelmäßig Management über Stand (Leistung, Termine, Kosten, Prognosen) in internen Reviews
+  - Projekt und Anwender
+    - oft nicht vorhanden, da Team Anwender oft nicht kennt -> Auftraggeber sollte dann deren Anforderungen ins Lastenheft schreiben
+    - besser: Team darf Kontakt zu Anwender aufnehmen
+  - Projektmanagement und Projektausführung
+    - Je tiefer gegliedert wird, desto genauer sind Schätzungen möglich, aber dazu erhöht sich Anzahl Schnittstellen
+  - Von Arbeitspaket zu Arbeitspaket
+    - alle beteiligt, da wichtig für Projekt, Produkt & Qualität
+    - müssen Fragen beantworten wie:
+      - Welche Schnitst. pro Arbeitspaket?
+      - Welche Ergebnisse wann und wo?
+      - Doppelarbeit?
+      - usw.
+
+>Wichtige Begriffe
+>- Bottom-up
+>- Iteration
+>- Rollierende Planung – Rolling Wave Planning
+>- Schleife – Loop
+>- Schnittstelle – Interface
+>- Top-down 
+>- Zoom-in/Zoom-out
+
+## 1.5 Projektmanagement boomt
+-
