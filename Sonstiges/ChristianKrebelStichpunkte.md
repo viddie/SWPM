@@ -296,4 +296,26 @@
 >- Zoom-in/Zoom-out
 
 ## 1.5 Projektmanagement boomt
--
+- PM stark durch Militär und Raumfahrt geprägt
+  - hier z.B. stellvertretend die Mondlandung 1969
+- Standards und Zertifizierungen
+  - neben DIN noch weitere Fachverbände speziell für PM
+    - IPMA International Project Management Association
+    - PMI Project Management Institute
+  - eigene Zertifizierungssysteme der Verbände
+  - PRINCE2 (Projects In Controlled Environment) Standard durchgesetzt
+  - GPM Deutsche Gesellschaft für Projektmanagement e. V. leistet seit 30 Jahren umfangreiche Dienste in DE
+    - Zweckbetrieb PM-ZERT basierend auf IPMAs Z.-system ist wichtig in DE
+- Projektmanagement traditionell oder agil?
+  - Traditionell
+    - umfangreich planen = Erfolg
+    - Projekt in Phasen & Arbeitspakete teilen
+      - Komplexitäten reduzieren
+    - Schritt für Schritt (manchmal auch parallel)
+    - Ergebnis kann auch nicht gegenständlich sein
+    - immer angepasst an Situation
+  - Agil
+    - kleinere Planungsphasen, dann Umsetzungsphasen (jeweils mehrfach wiederholen)
+    - Flexibilität, auf Kundenwünsche reagieren
+    - kommt aus SW-Entwicklung
+  - Formen vermischen sich auch
