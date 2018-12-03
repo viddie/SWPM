@@ -11,5 +11,8 @@ Datum | Dauer | Tätigkeit
 30.10.18 | 0:45 h   | 3. Meeting (Neue Aufgabe: GitHub project board aufsetzen + Milestones hinzufügen)
 31.10.18 | 0:30 h   | Gelesen
 31.10.18 | 1:30 h   | Meilensteine hinzugefügt, GitHub Project Board hinzugefügt
+06.11.18 | 0:45 h   | 4. Meeting
+10.11.18 | 5:00 h   | Gelesen + Notizen
+11.11.18 | 10:00 h   | Gelesen + Notizen
  |   | 
-Summe | 11:55 h  | 
+Summe | 24:10 h  | 

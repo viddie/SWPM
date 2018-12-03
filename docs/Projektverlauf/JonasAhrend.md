@@ -42,4 +42,28 @@
 06.11.18 | 0:45 h | 4. Meeting
 06.11.18 | 0:45 h | lesen
 ||
-Summe |  22:52 h  | 
+08.11.18 | 2:08 h | lesen
+||
+10.11.18 | 3:00 h | lesen
+||
+13.11.18 | 1:00 h | Besprechung mit Florian
+13.11.18 | 3:00 h | 5. Meeting
+||
+14.11.18 | 1:30 h | lesen
+||
+14.11.18 | 0:30 h | Github Pflege
+||
+18.11.18 | 0:30 h | 2. Online-Meeting
+18.11.18 | 0:15 h | GitHub pflege
+18.11.18 | 2:00 h | lesen
+||
+20.11.18 | 0:30 h | 6. Meeting
+20.11.18 | 0:30 h | GitHub pflege
+||
+23.11.18 | 1:00 h | Projektverlauf Bild (Such nach Lizensfreien Bilder & Anpassungen hat gedauert)
+||
+27.11.18 | 0:15 h | Github Pflege
+||
+03.12.18 | 4:00 h | Ausarbeitung schreiben
+||
+Summe |  43:00 h  | 

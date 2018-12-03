@@ -24,3 +24,8 @@ Sonstiges:
 - Metabuch hat ein gutes Kapitel über Präsentation.
 - Wir können auch andere Quelle einbinden (Mit Quellen Angabe)
 - Präsentation am besten nicht in Kapitelreihenfolge, sondern möglichst selbst eine zusammenstellen, die man logisch findet
+
+Links:  
+- [Projektverlauf](https://jonasfhinfo.github.io/SWPM/#/Projektverlauf/README)  
+- Ausarbeitung (Ausstehend)  
+- [Präsentation](https://jonasfhinfo.github.io/SWPM/Pr%C3%A4sentation/#1)   
