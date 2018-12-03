@@ -51,4 +51,19 @@
 ||
 14.11.18 | 1:30 h | lesen
 ||
-Summe |  33:30 h  | 
+14.11.18 | 0:30 h | Github Pflege
+||
+18.11.18 | 0:30 h | 2. Online-Meeting
+18.11.18 | 0:15 h | GitHub pflege
+18.11.18 | 2:00 h | lesen
+||
+20.11.18 | 0:30 h | 6. Meeting
+20.11.18 | 0:30 h | GitHub pflege
+||
+23.11.18 | 1:00 h | Projektverlauf Bild (Such nach Lizensfreien Bilder & Anpassungen hat gedauert)
+||
+27.11.18 | 0:15 h | Github Pflege
+||
+03.12.18 | 4:00 h | Ausarbeitung schreiben
+||
+Summe |  43:00 h  | 
