@@ -1,8 +1,16 @@
 Datum | Dauer | Tätigkeit
 -------- | -------- | --------
-16.10.18 | 1:30 h   | 1. Meeting
+16.10.18 | 1:30 h   | Meeting
 21.10.18 | 2:30 h   | Bücher Kapitelweise angelesen
 21.10.18 | 1:00 h   | Online Meeting
+23.10.18 | 0:45 h   | 2. Meeting
+27.10.18 | 2:00 h   | MS Project installiert und eingearbeitet
+30.10.2018 | 00:45 h  | Meeting
+02.11.2018 | 02:00 h  | Meta-Buch gelesen
+11.10.2018 | 02:30 h  | Buch 3 -Kapitel 3
+13.10.2018 | 03:00 h  | Meeting in der Bücherei, Vorlagenpräsentation und Kapitelvorstellung
+18.10.2018 | 02:30 h  | Beginn der Ausarbeitung
+25.10.2018 | 02:00 h  | Ausarbeitung
  |   | 
-Summe |  5:00 h  | 
+Summe |  20:30 h  | 
 
