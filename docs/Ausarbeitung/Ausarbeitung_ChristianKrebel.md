@@ -1,43 +1,19 @@
-﻿## AusarbeitungsThema1 
+﻿## Projektmanagement verstehen
   
-### Unterthema1
+### Einleitung
 
-Einen Zeilenumbruch erzeugt man, indem man am Ende einer Zeile zwei Leerzeichen dranhängt.  
-Überschriften H1 - H6 mit # bis ######.  
-Für BilderPfade sind keine Leerzeichen im Pfad erlaubt.  
-Kleiner Fließtext als Beispiel für Inhalt der Ausarbeitung. [[1]](#quelle1)  
-- einfache Aufzahlung
-  - Aufzählung verschachtelung (Tabulator ist hier notwendig)
+Projektmanagement ist allgegenwärtig und gewinnt immer mehr an Bedeutung. 
+Dies sieht man bereits daran, dass sich einzelne Studiengänge darauf spezialisieren oder 
+komplexe Projekte wie die Mondlandung 1969 nur deshalb stattfinden konnten.  
   
-
-Beispiel für Text in **Fettschrift**.  
-Beispiel für Text in *Kursivschrift*.  
-Nummerierte Listen
-1. Pre
-2. Start
-3. Lauf
-4. Ende
-5. Post
+Wie arbeite ich effizient und effektiv im Team? Wie reduziere ich Kosten, aber erhalte dabei Qualität? Wie verhindere ich Missverständnisse, Verzögerungen oder sogar die vorzeitige Beendigung und den Fehlschlag eines Projekts?  
+Auf diese und weitere Fragen gibt das korrekte Projektmanagement eine Antwort.
+Im folgenden möchten wir deswegen darauf eingehen, wie man am besten Projektmanagement versteht und 
+Projekte richtig definiert, plant, auf Kurs hält und zu guter letzt abschließt. 
+Dabei wurden die Lektüren "Projektmanagement: Von der Defnition über die Projektplanung zum erfolgreichen Abschluss" von Helga Meyer und Heinz-Josef Reher als Basis und "IT-Projektmanagement: Effiziente Einführung in das Management von Projekten" von Christian Aichele und Marius Schönberger und **[BUCH 3 EINSETZEN]** als Erweiterungen genutzt.  
   
-  
-
-![HierVerlinkenWirDochMalEinBild](Bilder_Beispiel/bsp.jpg)
-
-
-Fall wir noch eine Tabelle in unserer Ausarbeitung brauchen.  
-  
-Spalte 1 | Spalte 2 | Spalte 3
--------- | -------- | --------
-Inhalt   | Inhalt   | Inhalt
-Inhalt   | Inhalt   | Inhalt
-  
-  
-> Blockzitate müssen mit einer Leerzeile beginnen und enden
-
-> Jede Zeile des Zitats beginnt mit einer rechten spitzen Klammer und einem Leerzeichen  
-  
-  
-  
+### Projekte und ihre Rolle im Produktlebenszyklus
+Bevor man jedoch mit dem Management eines Projekts anfangen kann, sollte man verstehen, was Projekte eigentlich sind. Nach der DIN Norm sind sie Vorhaben, die einmalig durch Bedingungen wie Ziel, Zeit, Finanzen, Personelles und weitere Begrenzungen gekennzeichnet sind [[1]](#quelle1). 
   
 ## Quellen
-#### Quelle1 aus Buch A Seite B von Zeile C bis D <a name="quelle1"></a>
+#### (DIN 69901-5:2009-01, S. 11) <a name="quelle1"></a>
