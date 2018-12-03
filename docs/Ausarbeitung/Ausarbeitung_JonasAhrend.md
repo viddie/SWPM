@@ -1,7 +1,7 @@
-﻿## Tooling
+## Tooling
   
 ### Einleitung
-Es werden Programme zur Unterstützung des Projektverlaufs Vorgestellt. Hierbei wird ein besonderer Fokus auf einbindung von Git gelegt.
+Es werden Programme zur Unterstützung des Projektverlaufs Vorgestellt. Hierbei wird ein besonderer Fokus auf die Einbindung von Git gelegt.
 
 ### GitHub Project
 GitHub Project bietet Dashboards für GitHub Repositories oder auch ganze Organisationen mit mehreren Repositories.  
