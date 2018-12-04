@@ -14,5 +14,9 @@ Datum | Dauer | Tätigkeit
 06.11.18 | 0:45 h   | 4. Meeting
 10.11.18 | 5:00 h   | Gelesen + Notizen
 11.11.18 | 10:00 h   | Gelesen + Notizen
+13.11.18 | 3:00 h   | 5. Meeting
+01.12.18 | 5:00 h   | Gelesen + Notizen
+02.12.18 | 4:00 h   | Gelesen + Notizen
+03.12.18 | 1:00 h   | Ausarbeitung schreiben
  |   | 
-Summe | 24:10 h  | 
+Summe | 37:10 h  | 
