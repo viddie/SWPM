@@ -16,4 +16,4 @@
 20.11.18 | 0:30 h   | 6. Meeting
 03.12.18 | 2:30 h   | Ausarbeitung: Qualität planen fertig
  |   | 
-Summe | 15:55 h  | 
+Summe | 18:25 h  | 
