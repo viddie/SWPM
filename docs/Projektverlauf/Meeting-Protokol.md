@@ -78,7 +78,7 @@ Ausarbeitung Tooling (wie ausführlich) | Selbst bestimmen. Nur GH Project ok. G
 Bis nächste Woche | Ausarbeitung beginnen & in GitHub haben
 
 
-# 7. Meeting 05.12.2018
+# 7. Meeting 04.12.2018
 
 Punkt | Entscheidung  
 -------- | --------  
