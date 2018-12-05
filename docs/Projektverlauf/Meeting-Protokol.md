@@ -76,3 +76,14 @@ Ausarbeitung Einleitung Chris | Einleitung OK
 Ausarbeitung Seiten-Anzahl | Egal. reinschreiben was man relevant findet
 Ausarbeitung Tooling (wie ausführlich) | Selbst bestimmen. Nur GH Project ok. Ggf. Delegieren.
 Bis nächste Woche | Ausarbeitung beginnen & in GitHub haben
+
+
+# 7. Meeting 05.12.2018
+
+Punkt | Entscheidung  
+-------- | --------  
+Florian ist weg | Florians Kapitel(4) macht Simon
+Kapitel 4 | Übernimmt Simon
+Kapitel 5 | Übernimmt Hannes
+Ergänzungen aus IT-Projektmanagement |  Simon sagt allen Anderen wo die signifikanten stellen in IT-Projektmanagement sind und jeder fügt die Ergänzungen selbst ein
+Stand der Ausarbeitung | Keiner ist wie geplanten fertig, bis 10.12.18 wollen/sollen alle fertig sein.
