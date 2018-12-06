@@ -9,7 +9,7 @@ komplexe Projekte wie die Mondlandung 1969 nur deshalb stattfinden konnten.
 Wie arbeite ich effizient und effektiv im Team? Wie reduziere ich Kosten, aber erhalte dabei Qualität? Wie verhindere ich Missverständnisse, Verzögerungen oder sogar die vorzeitige Beendigung und den Fehlschlag eines Projekts?  
 Auf diese und weitere Fragen gibt das korrekte Projektmanagement eine Antwort.
 Im folgenden möchten wir deswegen darauf eingehen, wie man am besten Projektmanagement versteht und Projekte richtig definiert, plant, auf Kurs hält und zu guter letzt abschließt. 
-Dabei wurden die Lektüren *"Projektmanagement: Von der Defnition über die Projektplanung zum erfolgreichen Abschluss"* von Helga Meyer und Heinz-Josef Reher als Basis und *"IT-Projektmanagement: Effiziente Einführung in das Management von Projekten"* von Christian Aichele und Marius Schönberger und *"Projektmanagement im Studium: Vom Projektauftrag bis zur Abschlusspräsentation (2.Auflage)"* von Claudia Stöhler als Erweiterungen genutzt.  
+Dabei wurden die Lektüren *"Projektmanagement: Von der Defnition über die Projektplanung zum erfolgreichen Abschluss"* von Helga Meyer und Heinz-Josef Reher als Basis und *"IT-Projektmanagement: Effiziente Einführung in das Management von Projekten"* von Christian Aichele und Marius Schönberger und *"Projektmanagement im Studium: Vom Projektauftrag bis zur Abschlusspräsentation (2. Auflage)"* von Claudia Stöhler als Erweiterungen genutzt.  
 
 ### Projekte und ihre Rolle im Produktlebenszyklus
 Bevor man jedoch mit dem Management eines Projekts anfangen kann, sollte man verstehen, was Projekte eigentlich sind. Nach der DIN Norm sind sie Vorhaben, die einmalig durch Bedingungen wie Ziel, Zeit, Finanzen, Personelles und weitere Begrenzungen gekennzeichnet sind.  
@@ -39,6 +39,26 @@ Geht man nach Erfolg, so fängt man mit dem Abwicklungserfolg an (*Siehe Abb. 1.
 **Abb. 1.1: Perspektiven des Projekterfolgs  **
 
 
+
+### Mit dem magischen Zieldreieck zum Projekterfolg
+
+Nicht immer gelingt ein Projekt, da das Produkt dem Kunden nicht gefällt. Dabei muss man zwischen Kunde und Nutzer unterscheiden, denn diese sind nicht immer identisch. Kunden kann man als Organisation oder einzelne Person definieren. Er muss der Organisation nicht einmal angehören, sondern nur das Produkt empfangen. Beispiele dafür wären:
+
+- Verbraucher
+- Endanwender
+- Einzelhändler
+- Käufer
+
+Ein Kunde ist zufrieden, wenn seine Anforderungen zum möglichst größten Teil erfüllt worden sind. Natürlich muss aber nicht nur der Kunde zufrieden sein, es sollten möglichst alle Beteiligten zufrieden sein. Mithilfe der *Stakeholderanalyse* findet das Team heraus, wem und wie ein Nutzen gebracht werden soll (mehr dazu in Kapitel 2). 
+
+#### Projekterfolg
+
+Wir gehen noch einmal auf den Erfolg ein, dieses mal aber detaillierter auf den kompletten Projekterfolg. Er basiert auf vier verschiedenen Punkten: Zu einem aus dem Abwicklungserfolg und dem nach dem Projektende stattfindenden Anwendungserfolg, und zum anderen aus der Projekteffizienz und -effektivität (siehe Abb. 1.2).  
+
+![Projekterfolg und Projektqualität nach Bea et al.](Bilder/ChristianKrebel/ProjekterfolgUndProjektqualitaetNachBeaEtAl.png)
+
+Projekteffizienz* bedeutet maximalen Output bei minimalen Input zu generieren, also ein Projekt mit möglichst geringem Aufwand in möglichst kurzer Zeit umzusetzen.  
+*Projekteffektivität* hingegen bezieht sich auf das iterative Bewerten des Anwendungserfolgs während das Projekt läuft, d.h. in der Abwicklungszeit.
 
 ## Quellen
 #### HANNEMANN, Christian, 2018. *Wie unterscheiden sich Abwicklungserfolg und Anwendungserfolg?* [online], Kerpen: Hannemann, Christian, 04.12.2018 [Zugriff am: 04.12.2018]. Verfügbar unter: https://www.karteikarte.com/card/161355/wie-unterscheiden-sich-abwicklungserfolg-und-anwendungserfolg <a name="quelle1"></a>
