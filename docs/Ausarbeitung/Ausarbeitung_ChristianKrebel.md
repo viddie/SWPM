@@ -32,11 +32,10 @@ Möchte man das Gesamtbild verstehen, sollte man den Unterschied zwischen *Produ
 Innerhalb der Wirkungsforschung wird der Product Life Cycle mit der Reihenfolge "Idee, Entwicklung, Produktion, Nutzung, Recycling, Entsorgung" beschrieben, bei der der Project Life Cycle meist nur den Anfangsteil, also den Teil bis einschließlich Entwicklung, ausmacht (*Siehe Abb. 1.1*). Ein Projekt kann nämlich bereits abgeschlossen sein, jedoch noch langzeitige Folgen haben. Zum Beispiel das Erbauen eines Stadions und die Durchführung der Olympischen Spiele dort. Die Langzeitfolgen sind dabei ein erheblicher Teil. Wenn also der Product Life Cycle über den Project Life Cycle hinweg dauert, sollte man zukünftige  Entwicklungen und Nutzungsszenarien erahnen wie z.B. Wartungsbedarf.  
 Um ein Projekt demnach korrekt planen und umsetzen zu können, ist es wichtig, auf die Projektdauer und auf die Nutzung der Projektergebnisse (im Product Life Cycle) zu achten, und wenn nötig bzw. gewollt die Nachhaltigkeit miteinzubeziehen. Trotzdem gilt dabei jedoch immer: je *weiter* die Planung in die Zukunft reicht, desto *komplexer* und *risikoreicher* wird das Projekt.
 
-Geht man nach Erfolg, so fängt man mit dem Abwicklungserfolg an (*Siehe Abb. 1.1*). Dieser beschreibt den Erfolg in Kosten, Termine, Leistung, also dem technischen, der Anwendungserfolg dann den, den der Nutzer hat, wenn er das Produkt nutzt. Ein Projekt kann also erfolgreich durchgeführt worden sein, trotzdem auf dem Markt nicht funktionieren [[1]](#quelle1).
+Geht man nach Erfolg, so fängt man mit dem Abwicklungserfolg an (*Siehe Abb. 1.1*). Dieser beschreibt den Erfolg in Kosten, Termine, Leistung, also dem technischen, der Anwendungserfolg dann den, den der Nutzer hat, wenn er das Produkt nutzt. Ein Projekt kann also erfolgreich durchgeführt worden sein, trotzdem auf dem Markt nicht funktionieren [[1]](#quelle1).  
 
 ![Perspektiven des Projekterfolgs](Bilder/ChristianKrebel/PerspektivenDesProjekterfolgs.png)
-
-**Abb. 1.1: Perspektiven des Projekterfolgs  **
+**Abb. 1.1: Perspektiven des Projekterfolgs**  
 
 
 
@@ -55,10 +54,90 @@ Ein Kunde ist zufrieden, wenn seine Anforderungen zum möglichst größten Teil 
 
 Wir gehen noch einmal auf den Erfolg ein, dieses mal aber detaillierter auf den kompletten Projekterfolg. Er basiert auf vier verschiedenen Punkten: Zu einem aus dem Abwicklungserfolg und dem nach dem Projektende stattfindenden Anwendungserfolg, und zum anderen aus der Projekteffizienz und -effektivität (siehe Abb. 1.2).  
 
-![Projekterfolg und Projektqualität nach Bea et al.](Bilder/ChristianKrebel/ProjekterfolgUndProjektqualitaetNachBeaEtAl.png)
 
-Projekteffizienz* bedeutet maximalen Output bei minimalen Input zu generieren, also ein Projekt mit möglichst geringem Aufwand in möglichst kurzer Zeit umzusetzen.  
-*Projekteffektivität* hingegen bezieht sich auf das iterative Bewerten des Anwendungserfolgs während das Projekt läuft, d.h. in der Abwicklungszeit.
+![Projekterfolg und Projektqualität nach Bea et al.](Bilder/ChristianKrebel/ProjekterfolgUndProjektqualitaetNachBeaEtAl.png)
+**Abb. 1.2: Projekterfolg und Projektqualität nach Bea et al.**  
+
+*Projekteffizienz* bedeutet maximalen Output bei minimalen Input zu generieren, also ein Projekt mit möglichst geringem Aufwand in möglichst kurzer Zeit umzusetzen. *Projekteffektivität* hingegen bezieht sich auf das iterative Bewerten des Anwendungserfolgs während das Projekt läuft, d.h. in der Abwicklungszeit. Zum Beispiel würde man sich bei einer Produktentwicklung (intern) auf die Projekteffizienz konzentrieren, bei einem Bauauftrag wiederum auf die Projekteffektivität.  
+
+#### Projektqualität
+
+Des weiteren gibt es noch die Projektqualität (siehe Abb. 1.2). Diese hängt von den Stakeholdern ab, da sie sie wahr nehmen (subjektiv). Ebenso hängt sie davon ab, inwiefern die vorher definierten Ziele im Bezug auf den Projektablauf als auch auf den -gegenstand (das zu entwickelnde System) erreicht wurden (objektiv). Qualität bedeutet also grob gesagt, wie sehr ein Projekt die Erwartungen erfüllt. Dazu darf man jedoch nicht vergessen, dass Langfristwirkungen auch einen Teil ausmachen.  
+
+#### Wie messe ich nun Erfolg und Qualität?
+
+Es ist immer vorteilhaft zu wissen, woran man messen möchte. Zusammen mit dem Auftraggeber sollte man definieren, was seine Anhaltspunkte für Erfolg und Qualität sind, eventuell sind diese ja schon intern vereinheitlicht worden. Das kann nämlich hilfreich für einen stetigen Lernprozess einer projektdurchführenden Organisation sein, denn das Team sollte auch bewertet werden.  
+Zwei mögliche Bewertungskonzepte sind das *Dimensionsmodell nach Shenhar und Dvir* und das *Project Excellence Modell der GPM* (Deutsche Gesellschaft für Projektmanagement e. V.) (siehe Abb. 1.3).  
+
+![Dimensionsmodell nach Shenhar und Dvir, Project Excellence Modell der GPM](Bilder/ChristianKrebel/DimensionsmodellNachShenharUndDvir_ProjectExcellenceModell.png)
+**Abb. 1.3: Dimensionsmodell nach Shenhar und Dvir, Project Excellence Modell der GPM**  
+
+In dem Dimensionsmodell existieren fünf verschiedene Dimensionen, wobei jede einzelne eine andere Gewichtung je Projekt besitzt. Problem dabei kann der *Geschäftserfolg* sein, dieser kann bei manchen Projekten erst nach Jahren des Abschlusses bewertet werden. Eben gleiches gilt für die *Vorsorge für die Zukunft*, das wichtig für strategische Projekte sein kann, da Risiken und Chancen auftauchen könnten. Fraglich ist auch, ob Projekte überhaupt immer alle Dimensionen ansprechen können. Daher ist dieses Modell also nicht ganz realitätsnah oder praktisch.  
+Das Project Excellence Modell hingegen ist anwendungsbezogener und kann sofort nach dem Abschluss des Projekts zur Bewertung genutzt werden. Dabei werden Punkte verteilt und nach folgenden Kriterien aufgeteilt:  
+
+- Projektprozesse
+- Projektergebnisse
+- Kunden, Mitarbeiter und weitere Stakeholder
+- objektiv gemessene und subjektiv wahrgenommene Zielerfüllung
+
+#### Auftragsklärung
+
+Trotz Regelungen werden Projekte nach ihrem Abschluss oft komplett anders bewertet wie z.B. die Oper in Sidney. Damit dies nicht geschieht, ist es zielführend zu Beginn des Projekts die Auftragsklärung zu verfeinern:
+
+- Kriterien des Projekterfolgs leiten die Handlung und machen Misserfolg erkenntlich
+- Kriterien zur Messung des Projekterfolgs müssen Teil der Planung sein
+- Messungen überwachen und bewerten
+
+#### Ziele
+
+Ziele sind angestrebte Zustände und machen ebenfalls Bewertung möglich. Anhand ihrer können Beteiligte ihr Handeln ausrichten, sie können dabei helfen, Entscheidungen zu treffen und zeigen, ob man auf dem richtigen Weg ist. Aus Zielen werden später Anforderungen, die von der Leitung und dem Team definiert, umgesetzt und getestet werden. Deshalb gibt es folgende **SMART**-Regeln, die Ziele beschreiben sollen:  
+
+- **S**pezifisch
+- **M**essbar
+- **A**chievable (erreichbar) oder auch akzeptiert
+- **R**ealistisch
+- **T**erminiert
+  
+
+Außerdem existiert noch das *magische Zieldreieck*, welches ausdrückt, wie Projektmanagement verantwortungsvoll durchgeführt wird (siehe Abb. 1.4). Dabei ist das Optimum die Balance zwischen Leistung (Projektumfang (Scope)), Zeit und Aufwand (Kosten) zu erreichen. Dies kann man auch mit dem Abwicklungserfolg (s.o.) gleichsetzen. 
+
+![Das magische Zieldreieck](Bilder/ChristianKrebel/MagischesZieldreieck.png)
+**Abb. 1.4: Das magische Zieldreieck**  
+
+##### Projektumfang
+
+Er beschreibt Produkte, Dienstleistungen, Berichte und Zustände zu Zeitpunkten wie z.B. zum Abschluss des Projekts. Dazu werden Dokumente, manchmal auch resultierend aus Methoden, genutzt.
+
+Dokumente:
+- Projektauftrag
+- Lastenheft
+- Pflichtenheft
+
+Methoden:
+- Anforderungsmanagement
+- Projektstrukturplanung
+- Qualitätsplanung
+- Änderungs- und Konfigurationsmanagement
+
+##### Aufwand
+
+Es steht immer eine begrenzte Menge an Einsatzmitteln zur Verfügung. Diese Menge und die Kosten ergeben das Budget, das mit dem Auftraggeber vereinbart wird.
+
+Einsatzmittel:
+- Personalaufwand (wichtig)
+- Kosten für Material, Maschinen, Reisen, Lizenzen etc.
+- Finanzmittel
+
+##### Zeit
+
+Da Zeit ebenfalls immer begrenzt ist, müssen Termine festgelegt werden.
+
+Meilensteine und verschiedene Endtermine:
+- Kunde: Liefertermin
+- Auftraggeber: Endtermin (mit Abschlussbericht)
+  
+Zwischen diesen drei Hauptmerkmalen gibt es noch Austauschbeziehungen bzw. Trade-offs. Projektumfang, Kosten und Termine beeinflussen sich ständig und konkurrieren miteinander. Deshalb sollten Prioritäten gesetzt sein: Was bringt einen größeren Nutzen oder verursacht einen größeren Schaden für das Projekt? Weniger Kosten, aber dafür Termine überschreiten? Früher fertig werden, aber dafür den Umfang reduzieren? Solche fragen sind wichtig, denn sie entscheiden über den Erfolg. Wenn Werbung schon ausgeschildert wird, muss der Termin eingehalten werden oder wenn eine Software erst später released wird, kann sie inaktuell sein und die Konkurrenz bereits im Vorsprung.
+
 
 ## Quellen
 #### HANNEMANN, Christian, 2018. *Wie unterscheiden sich Abwicklungserfolg und Anwendungserfolg?* [online], Kerpen: Hannemann, Christian, 04.12.2018 [Zugriff am: 04.12.2018]. Verfügbar unter: https://www.karteikarte.com/card/161355/wie-unterscheiden-sich-abwicklungserfolg-und-anwendungserfolg <a name="quelle1"></a>
