@@ -52,7 +52,7 @@ Ein Kunde ist zufrieden, wenn seine Anforderungen zum möglichst größten Teil 
 
 #### Projekterfolg
 
-Wir gehen noch einmal auf den Erfolg ein, dieses mal aber detaillierter auf den kompletten Projekterfolg. Er basiert auf vier verschiedenen Punkten: Zu einem aus dem Abwicklungserfolg und dem nach dem Projektende stattfindenden Anwendungserfolg, und zum anderen aus der Projekteffizienz und -effektivität (siehe Abb. 1.2).  
+Wir gehen noch einmal auf den Erfolg ein, dieses mal aber detaillierter auf den kompletten Projekterfolg. Er basiert auf vier verschiedenen Punkten: Zu einem aus dem Abwicklungserfolg und dem nach dem Projektende stattfindenden Anwendungserfolg, und zum anderen aus der Projekteffizienz und -effektivität (*Siehe Abb. 1.2*).  
 
 
 ![Projekterfolg und Projektqualität nach Bea et al.](Bilder/ChristianKrebel/ProjekterfolgUndProjektqualitaetNachBeaEtAl.png)
@@ -62,12 +62,12 @@ Wir gehen noch einmal auf den Erfolg ein, dieses mal aber detaillierter auf den 
 
 #### Projektqualität
 
-Des weiteren gibt es noch die Projektqualität (siehe Abb. 1.2). Diese hängt von den Stakeholdern ab, da sie sie wahr nehmen (subjektiv). Ebenso hängt sie davon ab, inwiefern die vorher definierten Ziele im Bezug auf den Projektablauf als auch auf den -gegenstand (das zu entwickelnde System) erreicht wurden (objektiv). Qualität bedeutet also grob gesagt, wie sehr ein Projekt die Erwartungen erfüllt. Dazu darf man jedoch nicht vergessen, dass Langfristwirkungen auch einen Teil ausmachen.  
+Des weiteren gibt es noch die Projektqualität (*Siehe Abb. 1.2*). Diese hängt von den Stakeholdern ab, da sie sie wahr nehmen (subjektiv). Ebenso hängt sie davon ab, inwiefern die vorher definierten Ziele im Bezug auf den Projektablauf als auch auf den -gegenstand (das zu entwickelnde System) erreicht wurden (objektiv). Qualität bedeutet also grob gesagt, wie sehr ein Projekt die Erwartungen erfüllt. Dazu darf man jedoch nicht vergessen, dass Langfristwirkungen auch einen Teil ausmachen.  
 
 #### Wie messe ich nun Erfolg und Qualität?
 
 Es ist immer vorteilhaft zu wissen, woran man messen möchte. Zusammen mit dem Auftraggeber sollte man definieren, was seine Anhaltspunkte für Erfolg und Qualität sind, eventuell sind diese ja schon intern vereinheitlicht worden. Das kann nämlich hilfreich für einen stetigen Lernprozess einer projektdurchführenden Organisation sein, denn das Team sollte auch bewertet werden.  
-Zwei mögliche Bewertungskonzepte sind das *Dimensionsmodell nach Shenhar und Dvir* und das *Project Excellence Modell der GPM* (Deutsche Gesellschaft für Projektmanagement e. V.) (siehe Abb. 1.3).  
+Zwei mögliche Bewertungskonzepte sind das *Dimensionsmodell nach Shenhar und Dvir* und das *Project Excellence Modell der GPM* (Deutsche Gesellschaft für Projektmanagement e. V.) (*Siehe Abb. 1.3*).  
 
 ![Dimensionsmodell nach Shenhar und Dvir, Project Excellence Modell der GPM](Bilder/ChristianKrebel/DimensionsmodellNachShenharUndDvir_ProjectExcellenceModell.png)
 **Abb. 1.3: Dimensionsmodell nach Shenhar und Dvir, Project Excellence Modell der GPM**  
@@ -99,7 +99,7 @@ Ziele sind angestrebte Zustände und machen ebenfalls Bewertung möglich. Anhand
 - **T**erminiert
   
 
-Außerdem existiert noch das *magische Zieldreieck*, welches ausdrückt, wie Projektmanagement verantwortungsvoll durchgeführt wird (siehe Abb. 1.4). Dabei ist das Optimum die Balance zwischen Leistung (Projektumfang (Scope)), Zeit und Aufwand (Kosten) zu erreichen. Dies kann man auch mit dem Abwicklungserfolg (s.o.) gleichsetzen. 
+Außerdem existiert noch das *magische Zieldreieck*, welches ausdrückt, wie Projektmanagement verantwortungsvoll durchgeführt wird (*Siehe Abb. 1.4*). Dabei ist das Optimum die Balance zwischen Leistung (Projektumfang (Scope)), Zeit und Aufwand (Kosten) zu erreichen. Dies kann man auch mit dem Abwicklungserfolg (s.o.) gleichsetzen. 
 
 ![Das magische Zieldreieck](Bilder/ChristianKrebel/MagischesZieldreieck.png)
 **Abb. 1.4: Das magische Zieldreieck**  
@@ -135,8 +135,62 @@ Da Zeit ebenfalls immer begrenzt ist, müssen Termine festgelegt werden.
 Meilensteine und verschiedene Endtermine:
 - Kunde: Liefertermin
 - Auftraggeber: Endtermin (mit Abschlussbericht)
-  
+
+
 Zwischen diesen drei Hauptmerkmalen gibt es noch Austauschbeziehungen bzw. Trade-offs. Projektumfang, Kosten und Termine beeinflussen sich ständig und konkurrieren miteinander. Deshalb sollten Prioritäten gesetzt sein: Was bringt einen größeren Nutzen oder verursacht einen größeren Schaden für das Projekt? Weniger Kosten, aber dafür Termine überschreiten? Früher fertig werden, aber dafür den Umfang reduzieren? Solche fragen sind wichtig, denn sie entscheiden über den Erfolg. Wenn Werbung schon ausgeschildert wird, muss der Termin eingehalten werden oder wenn eine Software erst später released wird, kann sie inaktuell sein und die Konkurrenz bereits im Vorsprung.
+
+### In Etappen zum Erfolg – Phasen und Meilensteine
+
+Die Bewältigung eines Projekts geschieht in Teilstrecken, die auch Phasen genannt werden. Sie besitzen jeweils Hauptaufgaben, die vereinbart werden, und enden mit Übergabepunkten, Meilensteinen. Meilensteine kommen aber nicht nur am Ende von Phasen vor, sondern auch innerhalb. Sie sind definiert durch konkrete Liefergegenstände und einem bestimmten Termin. Überprüft man sie, merkt man, ob noch nachgearbeitet werden muss, bevor es zur nächsten Phase geht. Wichtig ist, wenn man von Meilensteinen spricht, dass diese **nicht** die Aktivität selbst beschreiben, wenn überhaupt nur den Anfang bzw. das Ende. Außerdem sind sogenannte Zahlungsmeilensteine auch von hoher Wichtigkeit, denn diese erbringen Geld beim Erreichen von technischen, also normalen Meilensteinen. Damit ein Projekt nicht scheitert, sollte man diese möglichst einhalten und besonders *Showstopper* verhindern. Showstopper sind nämlich große Probleme, die bis zum Projektstillstand führen können.  
+Während der Phasen und Übergänge gibt es immer einen Punkt der Referenz, der gültig ist. Dieser Referenzpunkt, auch *Baseline*, enthält Informationen zum Inhalt zu einem gewissen Zeitpunkt, meist während eines Meilensteins. Man kann sie nicht verändern, jedoch ansehen oder auch deren Stand wiederherstellen.  
+Projektmanagement zeichnet aus, dass man vieles vorher gründlich plant und dann ausführt. Daraus resultieren die verschiedenen Phasen mit ihren Aufgaben, damit man bei solch komplexen Projekten den Überblick behält (= Makrostrategie).  
+Es existieren viele verschiedene Phasenmodelle, wobei sie sich alle stark ähneln, da sie allgemeine Phasen für Projekte jeglicher Art besitzen (*Siehe Abb. 1.5*) (Projektspezifische Phasen und Meilensteine existieren natürlich ebenfalls).
+
+![Phasen im Project Life Cycle](Bilder/ChristianKrebel/PhasenImProjectLifeCycle.png)
+**Abb. 1.5: Phasen im Project Life Cycle**  
+
+#### Initiierungsphase
+
+In dieser Phase soll mithilfe des *Business Case* herausgefunden werden, ob die Idee weiterverfolgt werden oder daraus kein Projekt entstehen soll (mehr dazu in Kapitel 2). Dies wird normalerweise nicht vom Projektleiter oder Team durchgeführt, sondern eher von externen Kunden oder bei internen Projekten vom Management der Organisation.
+
+#### Definitionsphase
+
+Ab hier kommt die Projektleitung und das Team dran. Mit ihnen wird der Projektauftrag erarbeitet und am Ende der Phase genehmigt. Dazu kommt das Managen der Stakeholder und das Verteilen der Rollen im Team.
+
+#### Planungsphase
+
+Es gibt unterschiedliche Arten von Plänen, wovon mindestens einer vorkommen sollte (der Projektplan):
+
+##### Projektplan (Baseline)
+
+Der Projektplan enthält die Basispläne für die Durchführung des Projekts und variiert je nach Art des Projekts. Hauptsächlich geht es um Inhalte, Qualität, Termine, Kosten, Ressourcen und Risiken.
+
+##### Projektmanagementplan
+
+Der Projektmanagementplan ist ein Dokument, worin festgelegt wird, wie Projekt durchgeführt, überwacht und gesteuert wird. Er unterscheidet sich zum Projektplan darin, dass der Fokus auf der Gestaltung des Planungsprozesses liegt. Bei größeren Projekten ist er entscheidend, bei kleineren ist er im Projektplan enthalten.
+
+#### Umsetzungsphase
+
+Um ein Projekt auf Kurs zu halten, gibt es sogenannte *Steuerungsaktivitäten*:
+
+- Arbeit voranbringen, steuern
+- ermitteln, welcher Arbeitsfortschritt erreicht wurde
+- Tests durchführen
+- Ergebnisse prüfen
+- Pläne anpassen
+
+Das Ziel der Phase ist, das Produkt fertig zu stellen.
+
+#### Abschlussphase
+
+Die letzte Phase besteht nur darin, das Projekt und die Leistung aller zu bewerten und zu reflektieren. Dazu können Abschlussdokumentationen angefertigt, *Lessons Learnt* angewendet, Ergebnisse archiviert und viele weitere Aktionen durchgeführt werden.  
+  
+
+
+Für einige Branchen existieren bereits spezifische Phasenpläne, die den gleichen Projektgegenstand beachten wie z.B. im Bau. Gibt es dann auch noch ein Standardphasenmodell, das eine Organisation selbst spezifiziert hat, muss dieses nur noch dem Projekt angepasst werden. Dieses Modell kann dann wiederum zum globalen Qualitätsstandard werden (als Vorgehensmodell), was man z.B. in der Automobilindustrie sehen kann, dort werden u. a. Beschreibungen der Aufgabenfelder im Projektablauf geschildert.
+
+### Den Überblick behalten
+
 
 
 ## Quellen
