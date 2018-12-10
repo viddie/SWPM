@@ -277,16 +277,16 @@ Neben der DIN gibt es noch weitere Fachverbände, die sich sogar nur auf Projekt
 
 Wie man an ein Projekt rangeht, muss nicht einseitig sein. *Traditionelles* und *agiles* Vorgehen haben Vor- und Nachteile, man kann sie auch vermischen.  
 
-```markdown
-Traditionell | Agil
--------- | --------
-umfangreich planen => Erfolg   | kleinere Planungsphasen, dann Umsetzungsphasen (jeweils mehrfach wiederholen)
-Projekt in Phasen & Arbeitspakte teilen, um Komplexität zu reduzieren   | Flexibilität, auf Kundenwünsche reagieren
-Schritt für Schritt (manchmal auch parallel)   | kommt aus SW-Entwicklung
-muss immer an Situation angepasst werden   | 
-kann nicht komplette Projektrealität erfassen   | 
-```
+| Traditionell                                                 | Agil                                                         |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| umfangreich planen => Erfolg                                 | kleinere Planungsphasen, dann Umsetzungsphasen (jeweils mehrfach wiederholen) |
+| Projekt in Phasen & Arbeitspakte teilen, um Komplexität zu reduzieren | Flexibilität, auf Kundenwünsche reagieren                    |
+| Schritt für Schritt (manchmal auch parallel)                 | kommt aus SW-Entwicklung                                     |
+| muss immer an Situation angepasst werden                     |                                                              |
+| kann nicht komplette Projektrealität erfassen                |                                                              |
+
 
 
 ## Quellen
+
 #### HANNEMANN, Christian, 2018. *Wie unterscheiden sich Abwicklungserfolg und Anwendungserfolg?* [online], Kerpen: Hannemann, Christian, 04.12.2018 [Zugriff am: 04.12.2018]. Verfügbar unter: https://www.karteikarte.com/card/161355/wie-unterscheiden-sich-abwicklungserfolg-und-anwendungserfolg <a name="quelle1"></a>
