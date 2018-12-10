@@ -18,5 +18,10 @@ Datum | Dauer | Tätigkeit
 01.12.18 | 5:00 h   | Gelesen + Notizen
 02.12.18 | 4:00 h   | Gelesen + Notizen
 03.12.18 | 1:00 h   | Ausarbeitung schreiben
+04.12.18 | 0:30 h   | 7. Meeting
+07.12.18 | 6:00 h   | Ausarbeitung schreiben
+08.12.18 | 7:00 h   | Ausarbeitung schreiben
+09.12.18 | 7:00 h   | Ausarbeitung schreiben
+10.12.18 | 3:00 h   | Ausarbeitung schreiben (fertig)
  |   | 
-Summe | 37:10 h  | 
+Summe | 60:40 h  | 

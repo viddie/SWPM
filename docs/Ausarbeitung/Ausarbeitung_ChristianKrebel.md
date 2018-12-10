@@ -34,7 +34,7 @@ Um ein Projekt demnach korrekt planen und umsetzen zu können, ist es wichtig, a
 
 Geht man nach Erfolg, so fängt man mit dem Abwicklungserfolg an (*Siehe Abb. 1.1*). Dieser beschreibt den Erfolg in Kosten, Termine, Leistung, also dem technischen, der Anwendungserfolg dann den, den der Nutzer hat, wenn er das Produkt nutzt. Ein Projekt kann also erfolgreich durchgeführt worden sein, trotzdem auf dem Markt nicht funktionieren [[1]](#quelle1).  
 
-![Perspektiven des Projekterfolgs](Bilder/ChristianKrebel/PerspektivenDesProjekterfolgs.png)
+![Perspektiven des Projekterfolgs](Bilder/ChristianKrebel/PerspektivenDesProjekterfolgs.png)  
 **Abb. 1.1: Perspektiven des Projekterfolgs**  
 
 
@@ -55,7 +55,7 @@ Ein Kunde ist zufrieden, wenn seine Anforderungen zum möglichst größten Teil 
 Wir gehen noch einmal auf den Erfolg ein, dieses mal aber detaillierter auf den kompletten Projekterfolg. Er basiert auf vier verschiedenen Punkten: Zu einem aus dem Abwicklungserfolg und dem nach dem Projektende stattfindenden Anwendungserfolg, und zum anderen aus der Projekteffizienz und -effektivität (*Siehe Abb. 1.2*).  
 
 
-![Projekterfolg und Projektqualität nach Bea et al.](Bilder/ChristianKrebel/ProjekterfolgUndProjektqualitaetNachBeaEtAl.png)
+![Projekterfolg und Projektqualität nach Bea et al.](Bilder/ChristianKrebel/ProjekterfolgUndProjektqualitaetNachBeaEtAl.png)  
 **Abb. 1.2: Projekterfolg und Projektqualität nach Bea et al.**  
 
 *Projekteffizienz* bedeutet maximalen Output bei minimalen Input zu generieren, also ein Projekt mit möglichst geringem Aufwand in möglichst kurzer Zeit umzusetzen. *Projekteffektivität* hingegen bezieht sich auf das iterative Bewerten des Anwendungserfolgs während das Projekt läuft, d.h. in der Abwicklungszeit. Zum Beispiel würde man sich bei einer Produktentwicklung (intern) auf die Projekteffizienz konzentrieren, bei einem Bauauftrag wiederum auf die Projekteffektivität.  
@@ -69,7 +69,7 @@ Des weiteren gibt es noch die Projektqualität (*Siehe Abb. 1.2*). Diese hängt 
 Es ist immer vorteilhaft zu wissen, woran man messen möchte. Zusammen mit dem Auftraggeber sollte man definieren, was seine Anhaltspunkte für Erfolg und Qualität sind, eventuell sind diese ja schon intern vereinheitlicht worden. Das kann nämlich hilfreich für einen stetigen Lernprozess einer projektdurchführenden Organisation sein, denn das Team sollte auch bewertet werden.  
 Zwei mögliche Bewertungskonzepte sind das *Dimensionsmodell nach Shenhar und Dvir* und das *Project Excellence Modell der GPM* (Deutsche Gesellschaft für Projektmanagement e. V.) (*Siehe Abb. 1.3*).  
 
-![Dimensionsmodell nach Shenhar und Dvir, Project Excellence Modell der GPM](Bilder/ChristianKrebel/DimensionsmodellNachShenharUndDvir_ProjectExcellenceModell.png)
+![Dimensionsmodell nach Shenhar und Dvir, Project Excellence Modell der GPM](Bilder/ChristianKrebel/DimensionsmodellNachShenharUndDvir_ProjectExcellenceModell.png)  
 **Abb. 1.3: Dimensionsmodell nach Shenhar und Dvir, Project Excellence Modell der GPM**  
 
 In dem Dimensionsmodell existieren fünf verschiedene Dimensionen, wobei jede einzelne eine andere Gewichtung je Projekt besitzt. Problem dabei kann der *Geschäftserfolg* sein, dieser kann bei manchen Projekten erst nach Jahren des Abschlusses bewertet werden. Eben gleiches gilt für die *Vorsorge für die Zukunft*, das wichtig für strategische Projekte sein kann, da Risiken und Chancen auftauchen könnten. Fraglich ist auch, ob Projekte überhaupt immer alle Dimensionen ansprechen können. Daher ist dieses Modell also nicht ganz realitätsnah oder praktisch.  
@@ -101,7 +101,7 @@ Ziele sind angestrebte Zustände und machen ebenfalls Bewertung möglich. Anhand
 
 Außerdem existiert noch das *magische Zieldreieck*, welches ausdrückt, wie Projektmanagement verantwortungsvoll durchgeführt wird (*Siehe Abb. 1.4*). Dabei ist das Optimum die Balance zwischen Leistung (Projektumfang (Scope)), Zeit und Aufwand (Kosten) zu erreichen. Dies kann man auch mit dem Abwicklungserfolg (s.o.) gleichsetzen. 
 
-![Das magische Zieldreieck](Bilder/ChristianKrebel/MagischesZieldreieck.png)
+![Das magische Zieldreieck](Bilder/ChristianKrebel/MagischesZieldreieck.png)  
 **Abb. 1.4: Das magische Zieldreieck**  
 
 ##### Projektumfang
@@ -146,7 +146,7 @@ Während der Phasen und Übergänge gibt es immer einen Punkt der Referenz, der 
 Projektmanagement zeichnet aus, dass man vieles vorher gründlich plant und dann ausführt. Daraus resultieren die verschiedenen Phasen mit ihren Aufgaben, damit man bei solch komplexen Projekten den Überblick behält (= Makrostrategie).  
 Es existieren viele verschiedene Phasenmodelle, wobei sie sich alle stark ähneln, da sie allgemeine Phasen für Projekte jeglicher Art besitzen (*Siehe Abb. 1.5*) (Projektspezifische Phasen und Meilensteine existieren natürlich ebenfalls).
 
-![Phasen im Project Life Cycle](Bilder/ChristianKrebel/PhasenImProjectLifeCycle.png)
+![Phasen im Project Life Cycle](Bilder/ChristianKrebel/PhasenImProjectLifeCycle.png)  
 **Abb. 1.5: Phasen im Project Life Cycle**  
 
 #### Initiierungsphase
@@ -193,7 +193,7 @@ Für einige Branchen existieren bereits spezifische Phasenpläne, die den gleich
 
 Wie kann man im Projekt den Überblick behalten, andererseits das Detail nicht übersehen? Projektmanagementaufgaben während des ganzen Projektablaufs sind bei richtiger Anwendung eine Antwort darauf. Diese Aufgaben werden auch *Kernprozesse* genannt. Zu den Beispiel-Kernprozessen gehören Risiko und Chancenmanagement, Stakeholdermanagement, Qualitätsmanagement, Teambildung und viele weitere (*Siehe Abb. 1.6*).  
 
-![Zoom-in und Zoom-out, Loops und Iterationen](Bilder/ChristianKrebel/ZoomInUndZoomOutLoopsUndIterationen.png)
+![Zoom-in und Zoom-out, Loops und Iterationen](Bilder/ChristianKrebel/ZoomInUndZoomOutLoopsUndIterationen.png)  
 **Abb. 1.6: Zoom-in und Zoom-out, Loops und Iterationen, Kernprozesse**  
 
 Um Abbildung 1.6 vollständig verstehen zu können, müssen vorher einige Begriffe geklärt werden:  
@@ -213,24 +213,79 @@ Hat man beide Ergebnisse, kann man sie im *Gegenstromverfahren* vergleichen und 
 #### Loops und Iterationen
 
 In einem *Problemlösezyklus* gibt es verschiedene regelmäßig wiederkehrende Schritte wie z.B. Situationsanalyse und Zielformulierung. Eine Iteration ist ein Kreislauf dieser. Ist das Ergebnis eines Schritts gut genug, geht man zum nächsten, wenn nicht, wiederholt (loop) man den Kreislauf so lange bis es gut genug ist oder man feststellt, dass der Weg nicht  vorteilhaft ist.  
-  
 
+#### Prozesse in den Phasen
 
 Folgende Aufgaben bzw. Prozesse sind in den Projektphasen zielführend:  
 
 - Initiierungsphase:
-  sich mit Risiken und Chancen auseinandersetzen und wichtige Stakeholder holen
+  Man setzt sich mit Risiken und Chancen auseinandersetzen und holt wichtige Stakeholder.
 - Definitionsphase:
-  Teambildung und Qualitätsmanagement stehen im Mittelpunkt
+  Teambildung und Qualitätsmanagement stehen im Mittelpunkt.
 - Planungsphase:
-  Ziel ist es, eine Baseline zu erstellen. Prozesse verknüpft, werden in alle Richtungen & Iterationen, Bottom-up usw. ausgeführt. Termin- und Kostenschätzung per Bottom-up
+  Ziel ist es, eine Baseline zu erstellen. Dabei sind alle Prozesse miteinander verknüpft, werden in alle Richtungen, in  Iterationen und Loops, Bottom-up und Top-down ausgeführt. Termin- und Kostenschätzung werden per Bottom-up durchgeführt.
 - Realisierungs-/Durchführungsphase:
-  Vieles, Änderungen, Berichte, weitere Risikomaßnahmen
+  Es werden Änderungen vorgenommen, Berichte geschrieben, Sitzungen gehalten und weitere Risikomaßnahmen gezogen.
 - Abschlussphase:
-  Würdigung der Leistung (in Stakeh.-anal.) & Abschlussdoku der Lessons Learnt
+  Hier würdigt man der Leistung (in Stakeholdermanagement) und fertigt die Abschlussdokumentation der Lessons Learnt an.
 - Alle Phasen:
-  Stakeholdermanagement, Risiko- und Chancenmanagement, Qualitätsmanagement, Teambildung
+  Die Punkte Stakeholdermanagement, Risiko- und Chancenmanagement, Qualitätsmanagement und Teambildung sind durchgehend auszuführen.
 
+#### Schnittstellen
+
+Arbeiten, Methoden und Personen stehen in Beziehung zueinander. Zwischen ihnen gibt es Schnittstellen zur Überbrückung. Als Metapher kann man sich ein Elektrogerät vorstellen: Ist man im Ausland, passt der Stecker eventuell nicht und das Gerät, das System, funktioniert nicht. Außerdem sind sie Verbindungsstellen zwischen Systemen (Projekt zu Projektumfeld) oder zwischen Systemteilen (z.B. zwischen Arbeitspaketen). Da Schnittstellen nicht glatt sind und sich überlappen, kann es schnell zu Missverständnissen kommen. Um diese zu verhindern, muss man Vereinbarungen treffen:  
+
+- Regeln für Übergabe von Ergebnissen
+- Absprache über Aussehen von Ergebnissen
+- Klärung der Erwartungen
+
+Folgend werden die wichtigsten Schnittstellen aufgelistet:
+
+##### Auftraggeber und Auftragnehmer
+
+Hin und wieder kommt es vor, dass ein Kunde versucht mit einem Mitarbeiter Kontakt aufzunehmen. Das sollte nicht geschehen und der Mitarbeiter sollte ihn sofort zum Projektleiter weiterleiten, denn **nur** dieser steht stellvertretend für das Team und das ganze Projekt. Der Projektleiter ist immer bereit die Fragen des Kunden (Auftraggeber) zu beantworten, da dieser auch bezahlt und zufrieden gestellt werden muss.
+
+##### Projektteam und Fachabteilung
+
+Diese Schnittstelle ist sehr sensibel und artet schnell in Konflikte aus, da sich hier eine unternehmensinterne Auftraggeber-Auftragnehmer-Beziehung bildet. Der Leiter muss hier besonders aufpassen.
+
+##### Projekt und interner Auftraggeber und andere Projekte
+
+Hier berichtet die Leitung regelmäßig dem Management über den derzeitigen Stand (Leistung, Termine, Kosten, Prognosen) in internen Reviews.
+
+##### Projekt und Anwender
+
+Diese Schnittstelle ist oft gar nicht vorhanden, da das Team im Normalfall die Anwender nicht kennt. Deswegen muss der Auftraggeber die Anforderungen der Anwender dem Team mitteilen (im Lastenheft). Besser wäre es jedoch, wenn das Team direkt Kontakt zum Anwender aufnehmen dürfte.
+
+##### Projektmanagement und Projektausführung
+
+Je genauer man alles gliedert, desto genauer sind Schätzungen möglich, aber dazu erhöht sich die Anzahl an Schnittstellen. Dies ist ein Grund, den Detailgrad zu beschränken.
+
+##### Von Arbeitspaket zu Arbeitspaket
+
+Hierbei sind alle Projektmitarbeiter beteiligt, da diese Schnittstelle wichtig für Projekt, Produkt & Qualität sind. Das Team ist dafür verantwortlich Fragen wie *"Welche Schnittstellen gibt es pro Arbeitspaket?"*, *"Welche Ergebnisse müssen wann und wohin geliefert werden?"* oder *"Gibt es doppelte Arbeit?"* zu beantworten.
+
+### Projektmanagement boomt
+
+Projektmanagement existiert noch nicht so lange, die ersten richtigen Anwendungen gab es erst ab der zweiten Hälfte des 20. Jahrhunderts. Dennoch unterlag es großer Entwicklung, besonders wegen des Militärs und der Raumfahrt. Das Paradebeispiel ist hier immer noch die Mondlandung 1969.
+
+#### Standards und Zertifizierungen
+
+Neben der DIN gibt es noch weitere Fachverbände, die sich sogar nur auf Projektmanagement spezialisieren. Darunter die *IPMA* (International Project Management Association) und das *PMI* (Project Management Institute). Diese Verbände haben eigene Zertifizierungssysteme erstellt (die ICB und der PMBOK Guide), doch inzwischen hat sich das *PRINCE2* (Projects In Controlled Environment), ursprünglich für IT-Projekte entwickelt, branchenweit und international durchgesetzt. In Deutschland ist die *GPM* (Deutsche Gesellschaft für Projektmanagement e. V.) auch schon seit 30 Jahren von Bedeutung, denn sie und ihr Zweckbetrieb *PM-ZERT* zertifizieren Projektmanagement Kompetenzen.
+
+#### Projektmanagement traditionell oder agil?
+
+Wie man an ein Projekt rangeht, muss nicht einseitig sein. *Traditionelles* und *agiles* Vorgehen haben Vor- und Nachteile, man kann sie auch vermischen.  
+
+```markdown
+Traditionell | Agil
+-------- | --------
+umfangreich planen => Erfolg   | kleinere Planungsphasen, dann Umsetzungsphasen (jeweils mehrfach wiederholen)
+Projekt in Phasen & Arbeitspakte teilen, um Komplexität zu reduzieren   | Flexibilität, auf Kundenwünsche reagieren
+Schritt für Schritt (manchmal auch parallel)   | kommt aus SW-Entwicklung
+muss immer an Situation angepasst werden   | 
+kann nicht komplette Projektrealität erfassen   | 
+```
 
 
 ## Quellen
