@@ -184,12 +184,52 @@ Das Ziel der Phase ist, das Produkt fertig zu stellen.
 #### Abschlussphase
 
 Die letzte Phase besteht nur darin, das Projekt und die Leistung aller zu bewerten und zu reflektieren. Dazu können Abschlussdokumentationen angefertigt, *Lessons Learnt* angewendet, Ergebnisse archiviert und viele weitere Aktionen durchgeführt werden.  
-  
+
 
 
 Für einige Branchen existieren bereits spezifische Phasenpläne, die den gleichen Projektgegenstand beachten wie z.B. im Bau. Gibt es dann auch noch ein Standardphasenmodell, das eine Organisation selbst spezifiziert hat, muss dieses nur noch dem Projekt angepasst werden. Dieses Modell kann dann wiederum zum globalen Qualitätsstandard werden (als Vorgehensmodell), was man z.B. in der Automobilindustrie sehen kann, dort werden u. a. Beschreibungen der Aufgabenfelder im Projektablauf geschildert.
 
 ### Den Überblick behalten
+
+Wie kann man im Projekt den Überblick behalten, andererseits das Detail nicht übersehen? Projektmanagementaufgaben während des ganzen Projektablaufs sind bei richtiger Anwendung eine Antwort darauf. Diese Aufgaben werden auch *Kernprozesse* genannt. Zu den Beispiel-Kernprozessen gehören Risiko und Chancenmanagement, Stakeholdermanagement, Qualitätsmanagement, Teambildung und viele weitere (*Siehe Abb. 1.6*).  
+
+![Zoom-in und Zoom-out, Loops und Iterationen](Bilder/ChristianKrebel/ZoomInUndZoomOutLoopsUndIterationen.png)
+**Abb. 1.6: Zoom-in und Zoom-out, Loops und Iterationen, Kernprozesse**  
+
+Um Abbildung 1.6 vollständig verstehen zu können, müssen vorher einige Begriffe geklärt werden:  
+
+#### Zoom-in und Zoom-out
+
+Schaut man nur aufs Ganze, kann man essenzielle Details außer Acht lassen. Schaut man nur aufs Detail, kann man den Überblick und das Ziel aus den Augen verlieren. Zoom-in und Zoom-out soll beschreiben, wie man ständig eine Balance hierfür findet. Man sollte stets nie das Ziel außer Acht lassen und immer wissen, was geliefert werden muss. Trotzdem sollte einem der derzeitige Stand und das Erreichte immer bewusst sein. Deshalb informiert sich die Projektleitung auch mal vor Ort und blickt auf das Detail, was aber wieder auf das Gesamte schließen sollte, denn das herauszoomen, also das Projekt als ganzes zu betrachten, wirkt sich schwerwiegend auf den Erfolg aus.  
+
+#### Top-down und Bottom-up
+
+Top-down ist das Vorgehen vom Groben ins Detail. Bottum-up ist das Gegenteil. Als Beispiel:
+
+> "Kostenschätzungen, die im Zuge der Top-down Planung entstehen, sind noch sehr ungenau und die Bottom-up-Schätzungen übersteigen häufig den ursprünglichen Kostenrahmen."
+
+Hat man beide Ergebnisse, kann man sie im *Gegenstromverfahren* vergleichen und auf ein besseres Ergebnis schließen. So verfeinert man das Ergebnis schrittweise.
+
+#### Loops und Iterationen
+
+In einem *Problemlösezyklus* gibt es verschiedene regelmäßig wiederkehrende Schritte wie z.B. Situationsanalyse und Zielformulierung. Eine Iteration ist ein Kreislauf dieser. Ist das Ergebnis eines Schritts gut genug, geht man zum nächsten, wenn nicht, wiederholt (loop) man den Kreislauf so lange bis es gut genug ist oder man feststellt, dass der Weg nicht  vorteilhaft ist.  
+  
+
+
+Folgende Aufgaben bzw. Prozesse sind in den Projektphasen zielführend:  
+
+- Initiierungsphase:
+  sich mit Risiken und Chancen auseinandersetzen und wichtige Stakeholder holen
+- Definitionsphase:
+  Teambildung und Qualitätsmanagement stehen im Mittelpunkt
+- Planungsphase:
+  Ziel ist es, eine Baseline zu erstellen. Prozesse verknüpft, werden in alle Richtungen & Iterationen, Bottom-up usw. ausgeführt. Termin- und Kostenschätzung per Bottom-up
+- Realisierungs-/Durchführungsphase:
+  Vieles, Änderungen, Berichte, weitere Risikomaßnahmen
+- Abschlussphase:
+  Würdigung der Leistung (in Stakeh.-anal.) & Abschlussdoku der Lessons Learnt
+- Alle Phasen:
+  Stakeholdermanagement, Risiko- und Chancenmanagement, Qualitätsmanagement, Teambildung
 
 
 
