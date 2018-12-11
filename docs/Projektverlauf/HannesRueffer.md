@@ -14,6 +14,8 @@
 13.11.18 | 1:30 h   | Buch #3 fertig
 13.11.18 | 3:00 h   | 5. Meeting
 20.11.18 | 0:30 h   | 6. Meeting
-03.12.18 | 2:30 h   | Ausarbeitung: Qualität planen fertig
+03.12.18 | 2:30 h   | Ausarbeitung 3.4 fertig
+09.12.18 | 2:00 h   | Ausarbeitung 3.5 fertig
+11.12.18 | 3:50 h   | Ausarbeitung 3.6 fertig
  |   | 
-Summe | 18:25 h  | 
+Summe | 24:15 h  | 
