@@ -164,4 +164,69 @@ In den meisten Fällen übersteigt die Bottom-up Schätzung die Top-down Schätz
 Anschließend an die Top-down und Bottom-up Schätzungen beginnt der Aushandlungsprozess. Dazu werden sowohl Management, Kunden als auch die Arbeitspaketverantwortlichen herangezogen und es wird über einen iterativen Prozess die Kosten für das Projekt und die Arbeitspakete festgelegt.  
 Ist die Verhandlung abgeschlossen, so wird ein Budget für das Projekt zur Verfügung gestellt, welches als Bezugsgröße für die Kalkulationen, die über das Projekt hinweg wiederholt werden, fungiert. So kann man dann z.B. zu verschiedenen Zeitpunkten des Projekts die Projekteffizienz mit Hilfe der Soll-Ist- und Soll-Wird-Vergleiche testen und vergleichen, wie gut man im Rahmen des Budgets liegt.
 
+#### Schätzmethoden
 
+Im Wesentlichen gibt es zwei Methodiken zur Schätzung:
+- Expertenschätzungen und
+- Berechnung mit Hilfe von mathematischen Gleichungen
+
+**Expertenschätzungen**  
+Die Expertenschätzung wird entweder von der verantwortlichen Person des Arbeitspaketes eine Prognose, basierend auf dessen Erfahrung, eingeholt, oder aber, um Fehleinschätzungen zu minimieren, mehere Beteiligte unabhängig voneinander befragt. Die Befragung mehrerer Personen getrennt voneinander nennt sich Schätzklausur. Sie sind zwar ein größtenteils präziseres Mittel, um den Aufwand von Arbeitspaketen zu schätzen, als die Befragung einer einzelnen Person, jedoch gehen auch erhöhter Organisations- und Zeitaufwand mit diesen einher. Folgendes sind wichtige Punkte einer Schätzklausur:
+- Teilnehmer:
+	- Projektleitung
+	- Experten (also Projektteammitglieder)
+	- Optional: Externe Spezialisten bzw. ein Moderator zur methodischen Unterstützung
+- Vorbereitung:
+	- Einladungen werden ausgesprochen
+	- Arbeitsmaterial/Medien werden bereitgestellt
+	- Eine ungestörte Arbeitsatmosphäre sichergestellt
+	- Pausenversorgung wird organisiert
+	- Methoden und Verantwortliche für die Dokumentation benennen
+	- Ablauf überlegen
+- Durchführung:
+	- Begrüßung
+	- Arbeitspaketverantwortliche stellen ihre jeweiligen Arbeitspakete vor
+	- Teilnehmer schätzen individuell den Zeitaufwand
+	- Abweichungen werden diskutiert
+	- Ggf. finden neue Schätzungen statt und werden protokolliert
+	- Feedbackrunde
+- Nachbereitung:
+	- Dokumentation der Ergebnisse fertigstellen und an die Teilnehmer zurückmelden
+
+
+**Berechnung mit mathematischen Gleichungen**
+In gewissen Fällen kann versucht werden, mathematisch den Aufwand zu berechnen. Auch hier gibt es zwei Verfahren: die Multiplikator Methode und die parametrische Methode.  
+Bei der Multiplikator Methode wird anhand von messbaren Eigenschaften auf die eigene Produktgröße geschlossen. Es wird ein linearer Zusammenhang zwischen Beispielen aus ähnlichen, bereits abgeschlossenen Projekten und dem eigenen hergestellt. Dieses Verfahren ist jedoch relativ ungenau, da lineare Zusammenhänge vielerlei Faktoren nicht berücksichtigen. Wird z.B. ein Haus doppelt so viel kosten, wenn es doppelt so groß ist? Wahrscheinlich nicht, da mit größer werdenden Projekten auch größere Hindernisse auftreten. So könnte ein doppelt so großes Haus eine spezielle Genehmigung erfordern, oder müsste mit speziellen Materialien gebaut werden, um dem Problem der Statik Herr zu werden.  
+Die parametrische Methode hingegen ist geeigneter für komplexere Projekte. Sie untersucht abgeschlossene Projekte mit Hilfe von Regressionsanalyse auf Wirkunszusammenhänge, mit dem Ziel, Algorithmen zu entwickeln, die den Aufwand des eigenen Projekts präziser schätzen können. Das parametrische Modell greift jedoch auch nicht allgemein, da für ein solche Analyse umfangreiche Kostendatenbanken zur Verfügung stehen müssen.
+
+
+#### Kosten kalkulieren
+
+Hat man schlussendlich die einzelnen Aufwandsschätzungen festgelegt, müssen die Kosten für das gesamte Projekt errechnet werden. Da die Schätzungen ohne Reserven vorzunehmen sind, muss man unterscheiden zwischen:
+- Plankosten
+- Risikozuschlägen
+
+Die Plankosten sind die reinen Kosten, unter der Annahme, dass nichts im Projekt schief läuft. Dazu kommen allerdings die Risikozuschläge, die dafür geplant sind, Risiken, die als wahrscheinlich genug für einen Eintritt eingestuft sind, abwenden zu können.  
+Plankosten beziehen sich aber nicht nur auf Personalkosten, sondern auch auf:
+- Materialkosten
+- Sachkosten:
+	- Unteraufträge
+	- Beratungskosten
+	- Lizenzkosten
+	- Mieten
+	- Reisekosten
+	- etc.
+- Betriebsmittelkosten für beispielsweise Maschinen und Anlagen
+- Kapitalkosten:
+	- Abschreibungen
+	- Wagniszuschläge
+	- Steuern
+	- kalkulatorische Zinsen
+
+Die Personalkosten werden in manchen Projekten nochmals in Rollen unterteilt, sodass nicht jedes Arbeitspaket mit gleich viel Geld bewertet wird:
+- Geschäftsführer
+- Projektleiter
+- Techniker
+- Sekretariat
+
+![Mögliche Positionen für die Kalkulation eines Arbeitspakets](Bilder/HannesRueffer/KalkulationArbeitspaket.png)
