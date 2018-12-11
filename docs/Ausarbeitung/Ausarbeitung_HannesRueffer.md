@@ -105,4 +105,63 @@ Auch wenn die Netzplantechnik die Möglichkeit bietet, praktisch jeden Ablauf zu
 
 ### Aufwand schätzen und Kosten kalkulieren
 
-#### WIP
+Damit ein zu erarbeitendes Projekt funktionieren kann, muss die Arbeit entlohnt werden. Zuverlässigkeit und Präzision darf dabei nicht fehlen, weswegen gute Schätzungen des Aufwands und der Kosten wichtig sind.  
+Die Kosten eines Projekts haben auch Einfluss auf die anderen Bereiche des Projekts: Die Leistung und die Zeit. Möchte man sich Kosten sparen wird die Qualität des gesamten Projekts, sowie die Zeiteinplanung darunter leiden.  
+Die Aufwandsschätzung und Kostenplanung erfüllt mehrere Zwecke:
+- Die Kalkulation von "Projektpreisen" bei Auftragsprojekten für externe Kunden
+- Die Sicherstellung der Projekteffizienz
+- Das Life Cycle Costing
+- Die Sicherstellung der Projekteffektivität
+
+#### Kalkulation von "Projektpreisen"
+
+Der Projektpreis ist um Grunde der Preis, den es kostet, das gesamte Projekt von Start bis zur Überlieferung des Endproduktes zu finanzieren. Dieser Preis wird zu Beginn des Projekts zusammen mit dem Auftraggeber ausgehandelt.  
+Aufgrund des großen Wettbewerbs in der Wirtschaft wird meistens eine Preisuntergrenze für Projekte erzwungen: Weniger als dieser Wert geht nicht, sonst würde sich das Projekt nicht für den Auftragnehmer lohnen. Das impliziert allerdings, dass die Entwicklung risikoanfälliger wird, da bei einer Preisuntergrenze, also dem *Mindestwert* des Projekts, kaum oder gar keine Risikozuschläge gewährleistet werden. Läuft alles wie geplant, wird das natürlich keine Probleme machen, jedoch kann auch ein gewisses Maß an Risiko geplant sein, um auf der sicheren Seite zu sein. Da heutzutage die Kunden oftmals die Offenlegung der Kalkulationen erwartet, werden frühzeitig geplante Risikozuschläge oftmals aus der Berechnung herausgenommen.  
+
+#### Projekteffizienz
+
+Bleibt das Projekt innerhalb der erwarteten Kosten, so ist die Effizienz des Projekts hoch. Werden Ziele hinausgezögert, weil zum Beispiel Soll-Ist- und Soll-Wird-Vergleiche Mängel aufweisen, was unvermeidbar zu einer Erhöhung der Kosten führt, so leidet die Projekteffizienz.  
+Regelmäßige Soll-Ist- und Soll-Wird-Vergleiche sollten deshalb durchgeführt werden, um so früh wie möglich Schwachstellen zu finden und sich um sie zu kümmern, bevor sich der Weg verbaut wird.   
+
+#### Life Cycle Costing
+
+Als Life Cycle Costing bezeichnet man alle Ausgaben, die während des Lebenszykluses eines Produkts anfallen. Angefangen auch hier bei der Entwicklung des Produkts, über die Fertigstellung bis hin zur Produktion bzw. Wartung eines Produktes. Dieser Wert wird schon während der Planungsphase festgelegt, und es ist zwingend notwendig, dass auch die langfristige Wirkung des Projekts aus Sicht des Kunden berücksichtigt wird.
+
+#### Projekteffektivität
+
+Die Projekteffektivität misst sich anhand des Wertes, das das Produkt für den Auftraggeber erbringt. Dazu wird eine ökonomische Beurteilung aller wirtschaftlichen Folgen herangezogen. Der Kunde hat meistens schon im Voraus eine gewisse Vorstellung davon, was ein Projekt kostet und wie viel das Produkt am Ende einbringt. Hierbei achtet der Kunde auch darauf, wie hoch die Wartungskosten. Je nachdem, wie groß die Unterschiede zwischen Kosten und Gewinn für den Kunden sind, werden dann manche Projekte anderen vorgezogen.  
+
+#### Zusammenführung
+
+Insgesamt ist es sehr kompliziert, alle Zwecke der Aufwandsschätzung korrekt mit einzubeziehen. Dafür gibt es eine umfangreiche Sammlung an Methoden, die sich der "integrierten Projektkostenplanung" witmen.
+
+#### Schätzungen aufstellen
+
+Schätzungen werden aufgestellt, indem für bestimmte Aufgaben ein bestimmter Zeitrahmen festgelegt und mit Geld bewertet wird. Präzise Schätzungen aufzustellen ist jedoch schwer, da, per Definition eines Projekts, oft neuartige Aufgaben zu bearbeiten sind. Um eine möglichst genaue Schätzung zu erhalten, betrachtet man folgende Einflüsse:
+- Definition der Liefergegenstände
+- Stakeholder- und Risikomanagement
+- Requirements Engineering
+
+Auf diese Themen wird in anderen Abschnitten eingegangen.  
+Die eigentlichen Schätzungen finden in drei Schritten statt:
+- Top-down grobe Schätzung der Kosten
+- Bottom-up Ermittlung der Kosten basierend auf den Arbeitspaketen
+- Zusammenführung der beiden Schätzungen, überführen in einen akzeptierten Kostenplan
+
+#### Top-down Schätzung
+
+Die Top-down Schätzung findet oft in den frühren Projektphasen statt, was jedoch nicht immer vom Vorteil ist. Je früher die Schätzung im Projekt stattfindet, desto ungenauer wird sie sein. Spricht man von Begriffen wie "Kostenrahmen", "Kostenüberschlag" oder "Rough Order of Magnitude" wird davon ausgegangen, dass noch große Änderungen an dem Wert zu erwarten sind.  
+Festgemacht wird die Top-down Schätzung an Erfahrungen aus vorherigen Projekten, global bekannten Daten oder messbaren Größen, die sich im Projekt befinden. So kann man z.B. die Kosten eines Hauses schätzen, indem man sich die Kosten von vergleichbar großen bzw. ausgestatteten Häusern ansieht und auf das eigene Projekt schlussfolgert.  
+Abhängig ist sie dennoch von den Preisvorstellungen des Kunden, sowie der erwarteten Gewinnmarge und den gegebenen Mitteln von Sponsoren.
+
+#### Bottom-up Schätzung
+
+Die Bottom-up Schätzung basiert auf den Arbeitspaketen. Die Arbeitspakete werden individuell abgeschätzt, am besten unter hinzuziehung der Projektmitglieder. Wird sich dann vorher noch über die Kosten aller externen Materialien oder Dienstleistungen informiert, wird eine relativ präzise Schätzung erreicht.  
+In den meisten Fällen übersteigt die Bottom-up Schätzung die Top-down Schätzung, sogar nicht unwahrscheinlich um ein Vielfaches.
+
+#### Zusammenführung
+
+Anschließend an die Top-down und Bottom-up Schätzungen beginnt der Aushandlungsprozess. Dazu werden sowohl Management, Kunden als auch die Arbeitspaketverantwortlichen herangezogen und es wird über einen iterativen Prozess die Kosten für das Projekt und die Arbeitspakete festgelegt.  
+Ist die Verhandlung abgeschlossen, so wird ein Budget für das Projekt zur Verfügung gestellt, welches als Bezugsgröße für die Kalkulationen, die über das Projekt hinweg wiederholt werden, fungiert. So kann man dann z.B. zu verschiedenen Zeitpunkten des Projekts die Projekteffizienz mit Hilfe der Soll-Ist- und Soll-Wird-Vergleiche testen und vergleichen, wie gut man im Rahmen des Budgets liegt.
+
+
