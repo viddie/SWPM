@@ -16,6 +16,7 @@ Bevor man jedoch mit dem Management eines Projekts anfangen kann, sollte man ver
 Des weiteren sind sie von interdisziplinärer Teamarbeit geprägt, denn jeder, der am Projekt teilnimmt, hat unterschiedliche Erfahrungen. Demnach ist Koordination und Arbeitsteilung gefragt. Außerdem gibt es eine gewisse Unsicherheit zu Beginn, die sich aber nach gewissem Fortschritt auflöst, da alles Schritt für Schritt klarer wird.  
 Manchmal liegt auch gar kein Projekt vor, d.h. man sollte die Methoden des Projektmanagements nicht anwenden. Ab wann von einem Projekt die Rede ist, definiert eine Organisation für sich selbst ([mehr dazu in Kapitel 2](./Ausarbeitung_EugenKlat.md)).  
 
+
 Projektmanagement im Detail besteht hauptsächlich aus folgenden Punkten:
 -   Spezifikationen, Pläne und Vorgehensweise an die jeweiligen Erwartungen und Anliegen der verschiedenen Stakeholder (= Interessenten und Beteiligte am Projekt) anpassen.
 -   Klare und erreichbare Ziele definieren und Anforderungen identifizieren.
@@ -48,7 +49,9 @@ Nicht immer gelingt ein Projekt, da das Produkt dem Kunden nicht gefällt. Dabei
 - Einzelhändler
 - Käufer
 
+
 Ein Kunde ist zufrieden, wenn seine Anforderungen zum möglichst größten Teil erfüllt worden sind. Natürlich muss aber nicht nur der Kunde zufrieden sein, es sollten möglichst alle Beteiligten zufrieden sein. Mithilfe der *Stakeholderanalyse* findet das Team heraus, wem und wie ein Nutzen gebracht werden soll ([mehr dazu in Kapitel 2](https://jonasfhinfo.github.io/SWPM/#/Ausarbeitung/Ausarbeitung_EugenKlat?id=stakeholdermanagement)). 
+
 
 #### Projekterfolg
 
@@ -151,7 +154,9 @@ Es existieren viele verschiedene Phasenmodelle, wobei sie sich alle stark ähnel
 
 #### Initiierungsphase
 
+
 In dieser Phase soll mithilfe des *Business Case* herausgefunden werden, ob die Idee weiterverfolgt werden oder daraus kein Projekt entstehen soll ([mehr dazu in Kapitel 2](https://jonasfhinfo.github.io/SWPM/#/Ausarbeitung/Ausarbeitung_EugenKlat?id=der-projektauftrag)). Dies wird normalerweise nicht vom Projektleiter oder Team durchgeführt, sondern eher von externen Kunden oder bei internen Projekten vom Management der Organisation.
+
 
 #### Definitionsphase
 
