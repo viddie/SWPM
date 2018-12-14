@@ -9,12 +9,13 @@ komplexe Projekte wie die Mondlandung 1969 nur deshalb stattfinden konnten.
 Wie arbeite ich effizient und effektiv im Team? Wie reduziere ich Kosten, aber erhalte dabei Qualität? Wie verhindere ich Missverständnisse, Verzögerungen oder sogar die vorzeitige Beendigung und den Fehlschlag eines Projekts?  
 Auf diese und weitere Fragen gibt das korrekte Projektmanagement eine Antwort.
 Im folgenden möchten wir deswegen darauf eingehen, wie man am besten Projektmanagement versteht und Projekte richtig definiert, plant, auf Kurs hält und zu guter letzt abschließt. 
-Dabei wurden die Lektüren *"Projektmanagement: Von der Defnition über die Projektplanung zum erfolgreichen Abschluss"* von Helga Meyer und Heinz-Josef Reher als Basis und *"IT-Projektmanagement: Effiziente Einführung in das Management von Projekten"* von Christian Aichele und Marius Schönberger und *"Projektmanagement im Studium: Vom Projektauftrag bis zur Abschlusspräsentation (2. Auflage)"* von Claudia Stöhler als Erweiterungen genutzt.  
+Dabei wurden die Lektüren *Projektmanagement: Von der Defnition über die Projektplanung zum erfolgreichen Abschluss* von Helga Meyer und Heinz-Josef Reher als Basis und *IT-Projektmanagement: Effiziente Einführung in das Management von Projekten* von Christian Aichele und Marius Schönberger und *Projektmanagement im Studium: Vom Projektauftrag bis zur Abschlusspräsentation (2. Auflage)* von Claudia Stöhler als Erweiterungen genutzt.  
 
 ### Projekte und ihre Rolle im Produktlebenszyklus
 Bevor man jedoch mit dem Management eines Projekts anfangen kann, sollte man verstehen, was Projekte eigentlich sind. Nach der DIN Norm sind sie Vorhaben, die einmalig durch Bedingungen wie Ziel, Zeit, Finanzen, Personelles und weitere Begrenzungen gekennzeichnet sind.  
 Des weiteren sind sie von interdisziplinärer Teamarbeit geprägt, denn jeder, der am Projekt teilnimmt, hat unterschiedliche Erfahrungen. Demnach ist Koordination und Arbeitsteilung gefragt. Außerdem gibt es eine gewisse Unsicherheit zu Beginn, die sich aber nach gewissem Fortschritt auflöst, da alles Schritt für Schritt klarer wird.  
-Manchmal liegt auch gar kein Projekt vor, d.h. man sollte die Methoden des Projektmanagements nicht anwenden. Ab wann von einem Projekt die Rede ist, definiert eine Organisation für sich selbst (mehr dazu in Kapitel 2).  
+Manchmal liegt auch gar kein Projekt vor, d.h. man sollte die Methoden des Projektmanagements nicht anwenden. Ab wann von einem Projekt die Rede ist, definiert eine Organisation für sich selbst ([mehr dazu in Kapitel 2](./Ausarbeitung_EugenKlat.md)).  
+
 
 Projektmanagement im Detail besteht hauptsächlich aus folgenden Punkten:
 -   Spezifikationen, Pläne und Vorgehensweise an die jeweiligen Erwartungen und Anliegen der verschiedenen Stakeholder (= Interessenten und Beteiligte am Projekt) anpassen.
@@ -48,7 +49,9 @@ Nicht immer gelingt ein Projekt, da das Produkt dem Kunden nicht gefällt. Dabei
 - Einzelhändler
 - Käufer
 
-Ein Kunde ist zufrieden, wenn seine Anforderungen zum möglichst größten Teil erfüllt worden sind. Natürlich muss aber nicht nur der Kunde zufrieden sein, es sollten möglichst alle Beteiligten zufrieden sein. Mithilfe der *Stakeholderanalyse* findet das Team heraus, wem und wie ein Nutzen gebracht werden soll (mehr dazu in Kapitel 2). 
+
+Ein Kunde ist zufrieden, wenn seine Anforderungen zum möglichst größten Teil erfüllt worden sind. Natürlich muss aber nicht nur der Kunde zufrieden sein, es sollten möglichst alle Beteiligten zufrieden sein. Mithilfe der *Stakeholderanalyse* findet das Team heraus, wem und wie ein Nutzen gebracht werden soll ([mehr dazu in Kapitel 2](https://jonasfhinfo.github.io/SWPM/#/Ausarbeitung/Ausarbeitung_EugenKlat?id=stakeholdermanagement)). 
+
 
 #### Projekterfolg
 
@@ -151,7 +154,9 @@ Es existieren viele verschiedene Phasenmodelle, wobei sie sich alle stark ähnel
 
 #### Initiierungsphase
 
-In dieser Phase soll mithilfe des *Business Case* herausgefunden werden, ob die Idee weiterverfolgt werden oder daraus kein Projekt entstehen soll (mehr dazu in Kapitel 2). Dies wird normalerweise nicht vom Projektleiter oder Team durchgeführt, sondern eher von externen Kunden oder bei internen Projekten vom Management der Organisation.
+
+In dieser Phase soll mithilfe des *Business Case* herausgefunden werden, ob die Idee weiterverfolgt werden oder daraus kein Projekt entstehen soll ([mehr dazu in Kapitel 2](https://jonasfhinfo.github.io/SWPM/#/Ausarbeitung/Ausarbeitung_EugenKlat?id=der-projektauftrag)). Dies wird normalerweise nicht vom Projektleiter oder Team durchgeführt, sondern eher von externen Kunden oder bei internen Projekten vom Management der Organisation.
+
 
 #### Definitionsphase
 
