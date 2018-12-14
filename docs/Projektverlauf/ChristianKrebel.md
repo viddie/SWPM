@@ -23,5 +23,6 @@ Datum | Dauer | Tätigkeit
 08.12.18 | 7:00 h   | Ausarbeitung schreiben
 09.12.18 | 7:00 h   | Ausarbeitung schreiben
 10.12.18 | 3:00 h   | Ausarbeitung schreiben (fertig)
+14.12.18 | 0:20 h   | 3. Online Meeting + Ausarbeitung update
  |   | 
-Summe | 60:40 h  | 
+Summe | 61:00 h  | 
