@@ -1,4 +1,4 @@
-﻿## Projektmanagement verstehen
+## Projektmanagement verstehen
 
 ### Einleitung
 
@@ -14,7 +14,7 @@ Dabei wurden die Lektüren *Projektmanagement: Von der Defnition über die Proje
 ### Projekte und ihre Rolle im Produktlebenszyklus
 Bevor man jedoch mit dem Management eines Projekts anfangen kann, sollte man verstehen, was Projekte eigentlich sind. Nach der DIN Norm sind sie Vorhaben, die einmalig durch Bedingungen wie Ziel, Zeit, Finanzen, Personelles und weitere Begrenzungen gekennzeichnet sind.  
 Des weiteren sind sie von interdisziplinärer Teamarbeit geprägt, denn jeder, der am Projekt teilnimmt, hat unterschiedliche Erfahrungen. Demnach ist Koordination und Arbeitsteilung gefragt. Außerdem gibt es eine gewisse Unsicherheit zu Beginn, die sich aber nach gewissem Fortschritt auflöst, da alles Schritt für Schritt klarer wird.  
-Manchmal liegt auch gar kein Projekt vor, d.h. man sollte die Methoden des Projektmanagements nicht anwenden. Ab wann von einem Projekt die Rede ist, definiert eine Organisation für sich selbst ([mehr dazu in Kapitel 2](./Ausarbeitung_EugenKlat.md)).  
+Manchmal liegt auch gar kein Projekt vor, d.h. man sollte die Methoden des Projektmanagements nicht anwenden. Ab wann von einem Projekt die Rede ist, definiert eine Organisation für sich selbst ([mehr dazu in Kapitel 2](Ausarbeitung/Ausarbeitung_EugenKlat.md)).  
 
 
 Projektmanagement im Detail besteht hauptsächlich aus folgenden Punkten:
