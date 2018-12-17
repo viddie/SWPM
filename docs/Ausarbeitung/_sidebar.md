@@ -9,7 +9,7 @@
    * [Einleitung](Ausarbeitung/Ausarbeitung_ChristianKrebel#Einleitung)
    * [Projekte und ihre Rolle im Produktlebenszyklus](Ausarbeitung/Ausarbeitung_ChristianKrebel#Projekte-und-ihre-Rolle-im-Produktlebenszyklus)
    * [Mit dem magischen Zieldreieck zum Projekterfolg](Ausarbeitung/Ausarbeitung_ChristianKrebel#Mit-dem-magischen-Zieldreieck-zum-Projekterfolg)
-   * [In Etappen zum Erfolg – Phasen und Meilensteine](Ausarbeitung/Ausarbeitung_ChristianKrebel#In-Etappen-zum-Erfolg-–-Phasen-und-Meilensteine)
+   * [In Etappen zum Erfolg mit Phasen und Meilensteine](Ausarbeitung/Ausarbeitung_ChristianKrebel#In-Etappen-zum-Erfolg-mit-Phasen-und-Meilensteine)
    * [Den Überblick behalten](Ausarbeitung/Ausarbeitung_ChristianKrebel#Den-Überblick-behalten)
    * [Projektmanagement boomt](Ausarbeitung/Ausarbeitung_ChristianKrebel#Projektmanagement-boomt)
   * [Kap. 2: Projekt definieren](Ausarbeitung/Ausarbeitung_EugenKlat.md)
