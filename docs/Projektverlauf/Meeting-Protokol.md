@@ -87,3 +87,19 @@ Kapitel 4 | Übernimmt Simon
 Kapitel 5 | Übernimmt Hannes
 Ergänzungen aus IT-Projektmanagement |  Simon sagt allen Anderen wo die signifikanten stellen in IT-Projektmanagement sind und jeder fügt die Ergänzungen selbst ein
 Stand der Ausarbeitung | Keiner ist wie geplanten fertig, bis 10.12.18 wollen/sollen alle fertig sein.
+
+# 8. Meeting 11.12.2018
+
+Punkt | Entscheidung  
+-------- | --------  
+Stand | Die meisten brauchen noch einen Tag
+Reihnfolge |  Kap 3 1/2 und 2/2 in eine Datei packen
+Online Termin |  14.12.2018
+
+
+# 3. Meeting 14.12.2018
+
+Punkt | Entscheidung  
+-------- | --------  
+Zusammenfügen | Links auf andere Kapitel
+
