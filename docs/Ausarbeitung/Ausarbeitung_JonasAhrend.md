@@ -93,7 +93,7 @@ Geht man nun davon aus, dass Issus jeweils 2x verschoben werden, kommt man auf 9
 Wenn man nun noch den Anlege-Aufwand mitbedenkt, lohnt es sich ab ***250 Issus*** Jira zu verwenden. Fällt die Einarbeitungszeit weg, sind es nur noch 10 Issus.  
 
 ![Vergleichs Diagramm Bild](Bilder/JonasAhrend/VergleichsDiagramm.JPG)  
-Erstellt mithilfe von [desmos](www.desmos.com).
+Erstellt mithilfe von [desmos](https://desmos.com).
 
 
 
