@@ -214,10 +214,11 @@ Plankosten beziehen sich aber nicht nur auf Personalkosten, sondern auch auf:
 	- Steuern
 	- kalkulatorische Zinsen
 
-Die Personalkosten werden in manchen Projekten nochmals in Rollen unterteilt, sodass nicht jedes Arbeitspaket mit gleich viel Geld bewertet wird:
+Die Personalkosten werden in manchen Projekten nochmals in Rollen unterteilt, sodass nicht jedes Arbeitspaket mit gleich viel Geld bewertet wird. Diese Rollen können z.B. sein:
 - Geschäftsführer
 - Projektleiter
 - Techniker
 - Sekretariat
 
 ![Mögliche Positionen für die Kalkulation eines Arbeitspakets](Bilder/HannesRueffer/KalkulationArbeitspaket.png)
+*Mögliche Positionen für die Kalkulation eines Arbeitspakets*
