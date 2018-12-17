@@ -1,6 +1,6 @@
 ﻿### Qualität planen
 
-Die Qualität eines Produktes ist äußerst wichtig und bietet eine Vielzahl an Vorteile, wie zum Beispiel
+Die Qualität eines Produktes ist äußerst wichtig und bietet eine Vielzahl an Vorteile, wie zum Beispiel:
 - das Gewinnen des Vertrauens des Kunden
 - das effizientere Arbeiten
 - das Weiterbilden der Beteiligten
@@ -78,7 +78,7 @@ Der Masterteminplan ist nicht auf den ersten Versuch perfekt, weshalb er in mehr
 Diese Pläne sind sehr variable je nachdem, an wen die Pläne gerichtet sind. Sie enthalten Informationen, die für den jeweiligen Teilhaber von Bedeutung sind, z.B. wann gewisse Teile geliefert, oder wann eine bestimmte Aufgabe erledigt sein muss.  
 Termine aus den Terminplänen für externe und interne Lieferanten bestehen stets ohne die Pufferzeiten, die im Masterterminplan vereinbart wurden. Im Falle von externen Lieferanten werden Aufgaben und Termine durch Verträge und Bestellungen, im Falle von internen Lieferanten in den Arbeitsaufträgen festgehalten, und gegebenfalls aus den Arbeitspaketbeschreibungen abgeleitet.
 
-#### Warum Termintreue
+#### "Warum Termintreue?"
 
 Termintreue ist ein Qualitätsmerkmal. Es steigert die Zusammenarbeit aller Beteiligten des Projekts und hat immer hohe, oft sogar die höchste Priorität in Projekten. Sie stärkt das Vertrauen aller im Innen- sowie Außenverhältnis und das Nichteinhalten von Terminen kann zu dem genauen Gegenteil der positiven Aspekte, sowie starken Imageschäden führen.
 
@@ -87,17 +87,14 @@ Termintreue ist ein Qualitätsmerkmal. Es steigert die Zusammenarbeit aller Bete
 Die Hauptaufgabe der Planung der konkreten Termine hat der Projektcontroller. Dieser legt die den Meilensteinplan zusammen mit dem Kunden bzw. dem Projektcharter fest. Der Masterterminplan wird anschließend zusammen mit allen Beteiligten des Projektteams schrittweise erstellt.  
 Der Projektcontroller ist auch für die Pflege der jeweiligen Terminpläne zuständig - sollten sich Änderungen ergeben. Zur Aufstellung aller Pläne bedient sich der Projektcontroller Modellen wie der Terminliste, den Balkenplänen (auch genannt Gantt-Diagramme) oder der Netzplantechnik.
 
-#### Terminliste
+**Terminliste**  
+Die Terminliste ist das einfachste der drei hier vorgestellten Modelle. Es eignet sich gut für kleinere Projekte, die generell etwas weniger komplexe Planung haben. Hier werden die Aufgaben in der logisch auftretenden Reihenfolge in einer Tabelle dargestellt und zusammen mit den geschätzen Dauern Terminen zugeordnet.
 
-Die Terminliste ist das simpelste der drei hier vorgestellten Modelle. Es eignet sich gut für kleinere Projekte, die generell etwas weniger komplexe Planung haben. Hier werden die Aufgaben in der logisch auftretenden Reihenfolge in einer Tabelle dargestellt und zusammen mit den geschätzen Dauern Terminen zugeordnet.
-
-#### Balkenpläne
-
+**Balkenpläne**
 Die Balkenpläne sind das Mittelmaß der Terminplanung: Sie sind einfach zu erstellen, leicht überschaubar und eignen sich auch für größere Projekte relativ gut. Die Aufgaben werden hier als Balken auf einer Zeitachse dargestellt, wobei sie auch auch untereinander stehen können, wodurch gewisse Überlappungen der Aufgaben möglich sind. Meilensteine werden in Form eines festgelegten Symbols an die entsprechenden Stellen der Balken gezeichnet.  
 Balkenpläne haben jedoch den Nachteil, dass Abhängigkeiten leicht übersehen werden, welcher aber durch die Vernetzung der logischen Abhängigkeiten mit Hilfe von Pfeilen behoben werden kann.
 
-#### Netzplantechnik
-
+**Netzplantechnik**
 Die Netzplantechnik, auch wenn der Name eigentlich nur ein Oberbegriff für vielerlei Methoden ist, ist für komplexe Projekte mit vielerlei Abhängigkeiten geeignet. Mit Hilfe von einem Netz bestehend aus Knoten und Kanten und einem sogenannten **kritischen Weg** lässt sich leicht die mindest erforderliche Laufzeit eines Projektes modellieren. Jegliche Pfade deren Verzögerung den vereinbarten Termin des Projektendes nicht nach hinten verschieben, sofern sie nicht übermäßig verzögern, heißen nichtkritische Vorgänge. Sie sind nicht ausschlaggebend für das Bestehen des Projekts, weshalb sie meistens **KANN**-Vorschläge des Kundens sind.  
 Auch wenn die Netzplantechnik die Möglichkeit bietet, praktisch jeden Ablauf zu modellieren, eignet sie sich nicht für kleinere Projekte, da der Planungsaufwand gegenüber der anderen zwei Methoden erheblich höher ist. Das spontane Ändern der Terminpläne wird somit auch zu einem großen Änderungsaufwand, was in der Praxis dazu führen kann, dass Pläne entstehen, die nicht aktuell sind. Das sollte mit allen Mitteln verhindert werden!
 
@@ -113,22 +110,18 @@ Die Aufwandsschätzung und Kostenplanung erfüllt mehrere Zwecke:
 - Das Life Cycle Costing
 - Die Sicherstellung der Projekteffektivität
 
-#### Kalkulation von "Projektpreisen"
-
+**Kalkulation von "Projektpreisen"**
 Der Projektpreis ist um Grunde der Preis, den es kostet, das gesamte Projekt von Start bis zur Überlieferung des Endproduktes zu finanzieren. Dieser Preis wird zu Beginn des Projekts zusammen mit dem Auftraggeber ausgehandelt.  
 Aufgrund des großen Wettbewerbs in der Wirtschaft wird meistens eine Preisuntergrenze für Projekte erzwungen: Weniger als dieser Wert geht nicht, sonst würde sich das Projekt nicht für den Auftragnehmer lohnen. Das impliziert allerdings, dass die Entwicklung risikoanfälliger wird, da bei einer Preisuntergrenze, also dem *Mindestwert* des Projekts, kaum oder gar keine Risikozuschläge gewährleistet werden. Läuft alles wie geplant, wird das natürlich keine Probleme machen, jedoch kann auch ein gewisses Maß an Risiko geplant sein, um auf der sicheren Seite zu sein. Da heutzutage die Kunden oftmals die Offenlegung der Kalkulationen erwartet, werden frühzeitig geplante Risikozuschläge oftmals aus der Berechnung herausgenommen.  
 
-#### Projekteffizienz
-
+**Projekteffizienz**
 Bleibt das Projekt innerhalb der erwarteten Kosten, so ist die Effizienz des Projekts hoch. Werden Ziele hinausgezögert, weil zum Beispiel Soll-Ist- und Soll-Wird-Vergleiche Mängel aufweisen, was unvermeidbar zu einer Erhöhung der Kosten führt, so leidet die Projekteffizienz.  
 Regelmäßige Soll-Ist- und Soll-Wird-Vergleiche sollten deshalb durchgeführt werden, um so früh wie möglich Schwachstellen zu finden und sich um sie zu kümmern, bevor sich der Weg verbaut wird.   
 
-#### Life Cycle Costing
-
+**Life Cycle Costing**
 Als Life Cycle Costing bezeichnet man alle Ausgaben, die während des Lebenszykluses eines Produkts anfallen. Angefangen auch hier bei der Entwicklung des Produkts, über die Fertigstellung bis hin zur Produktion bzw. Wartung eines Produktes. Dieser Wert wird schon während der Planungsphase festgelegt, und es ist zwingend notwendig, dass auch die langfristige Wirkung des Projekts aus Sicht des Kunden berücksichtigt wird.
 
-#### Projekteffektivität
-
+**Projekteffektivität**
 Die Projekteffektivität misst sich anhand des Wertes, das das Produkt für den Auftraggeber erbringt. Dazu wird eine ökonomische Beurteilung aller wirtschaftlichen Folgen herangezogen. Der Kunde hat meistens schon im Voraus eine gewisse Vorstellung davon, was ein Projekt kostet und wie viel das Produkt am Ende einbringt. Hierbei achtet der Kunde auch darauf, wie hoch die Wartungskosten. Je nachdem, wie groß die Unterschiede zwischen Kosten und Gewinn für den Kunden sind, werden dann manche Projekte anderen vorgezogen.  
 
 #### Zusammenführung
@@ -148,14 +141,12 @@ Die eigentlichen Schätzungen finden in drei Schritten statt:
 - Bottom-up Ermittlung der Kosten basierend auf den Arbeitspaketen
 - Zusammenführung der beiden Schätzungen, überführen in einen akzeptierten Kostenplan
 
-#### Top-down Schätzung
-
+**Top-down Schätzung**
 Die Top-down Schätzung findet oft in den frühren Projektphasen statt, was jedoch nicht immer vom Vorteil ist. Je früher die Schätzung im Projekt stattfindet, desto ungenauer wird sie sein. Spricht man von Begriffen wie "Kostenrahmen", "Kostenüberschlag" oder "Rough Order of Magnitude" wird davon ausgegangen, dass noch große Änderungen an dem Wert zu erwarten sind.  
 Festgemacht wird die Top-down Schätzung an Erfahrungen aus vorherigen Projekten, global bekannten Daten oder messbaren Größen, die sich im Projekt befinden. So kann man z.B. die Kosten eines Hauses schätzen, indem man sich die Kosten von vergleichbar großen bzw. ausgestatteten Häusern ansieht und auf das eigene Projekt schlussfolgert.  
 Abhängig ist sie dennoch von den Preisvorstellungen des Kunden, sowie der erwarteten Gewinnmarge und den gegebenen Mitteln von Sponsoren.
 
-#### Bottom-up Schätzung
-
+**Bottom-up Schätzung**
 Die Bottom-up Schätzung basiert auf den Arbeitspaketen. Die Arbeitspakete werden individuell abgeschätzt, am besten unter hinzuziehung der Projektmitglieder. Wird sich dann vorher noch über die Kosten aller externen Materialien oder Dienstleistungen informiert, wird eine relativ präzise Schätzung erreicht.  
 In den meisten Fällen übersteigt die Bottom-up Schätzung die Top-down Schätzung, sogar nicht unwahrscheinlich um ein Vielfaches.
 
