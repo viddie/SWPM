@@ -26,7 +26,7 @@ Spalten können mit Automatisierungen versehen werden, um Issus und Pull-Request
 
 #### Filter
 Ein Problem von GitHub Project ist, dass es sehr schnell unübersichtlich werden kann, da sich alles über das Dashboard abspielt.  
-Zur besseren Übersicht kann man einen Filter verwenden, der per Testeingabe Funktioniert.  
+Zur besseren Übersicht kann man einen Filter verwenden, der per Texteingabe funktioniert.  
 ![Automatiserung Bild](Bilder/JonasAhrend/GHPFilter.JPG)   
 
 #### Weitere Funktionen
@@ -36,57 +36,53 @@ Zur besseren Übersicht kann man einen Filter verwenden, der per Testeingabe Fun
 
 
 ### Jira (Atlassian)
-Jira bietet mehrere Tools für Projektmangement, diese sind jedoch sehr unübersitchlich gegliedert.  
-Unter anderem kann man 2 Typen von Dashbords (Kanab & Scrum) erstellen und hat über eine Roadmap, eine gute übersicht über den Zeitverlauf.   
+Jira bietet mehrere Tools für das Projektmangement und erlaubt es weitere Programme von Atlassian einzubinden.  
+Der Fokus liegt hierbei jedoch nicht auf der Software Entwicklung, sondern bieted Funktionen für ein breites Spektrum (z.B. Vorlagen für Personalbeschaffung).  
+An Dashboard kann man 2 Typen erstellen (Kanab & Scrum), die auch über eigene Funktionen verfügen.   
+Die Benutzung gestellt sich jedoch als kompliziert, da die Navigation sehr unintuitiv ist und es 10-20sek dauern kann, bis eine neue Seite geladen ist.
+![Projekt Auswahl Bild](Bilder/JonasAhrend/JiraProjektAuswahl.JPG)   
+
+#### Project Anlegen 
+Durch den Umfang und die unübersichtliche Navigation kann es etwas dauern, bis man alles angelegt hat.  
+Besodners bei den ersten malen fällt es schwer die einzelnen Funktionen zu finden, was eine hohe Einarbeitungszeit von ungefähr 2-3h mit sich bringt.  
 ![Anlegen Bild](Bilder/JonasAhrend/JiraBoardAuswahl.JPG)   
 
 
-#### Project Anlegen 
-Durch den Umfang und die unübersichtliche Navigation kann es etwas dauern, bis man alles angelegt hat.
-
-
 #### Issus & Pull-Requests hinzufügen
-Issues und Pull-Requests können eine Vielzahl von Eigenschafften zugeordnet werden. Naben den Eigenschafften die auch von GitHub Projects unterstütz werden, kann man hier unter anderem Prioritäten und eine Geschätzte Zeit festlegen
+Issues und Pull-Requests können eine Vielzahl von Eigenschafften zugeordnet werden. Naben den Eigenschafften die auch von GitHub Projects unterstütz werden, kann man hier unter anderem Prioritäten und eine geschätzte Zeit festlegen.
 ![Objekt Anlegen Bild](Bilder/JonasAhrend/JiraObjektAnlegen.JPG)   
 
 
-  
 #### Automatiserung 
-//? Hat Automatisierung 
-//![Automatiserung Bild](Bilder/JonasAhrend/JAutomatisierung.JPG)   
+Alles spielt sich direkt auf der Board-Seite ab, daher ist keine automatisierung nötig. Pull-Request können nicht in das Board mitaufgenommmen werden. 
 
 #### Filter
 Das Filtern innhalb der Dashbords geht sehr schnell und bequem über Checkboxen und Drop-Down
-//![Automatiserung Bild](Bilder/JonasAhrend/JFilter.JPG)   
+![Filter Bild](Bilder/JonasAhrend/JiraFilter.JPG)   
 
-
-#### Roadmap
-Die Roadmap bieted eine sehr gute Möglichkeit, den Zeitverlauf des Projekts, direkt in Jira, zu visualisieren.   
-//? Kann Roadmap mit Boads gekoppelt werden
 
 #### Git Einbindung
 Ein Problem ist das Einbinden von Git. Hier muss man entweder ein weiteres Programm von Atlassian namens GitBucket verwenden, welches ein schlankes Programm für Online-Repos ist,  
 oder man muss eine Erweiterung verwenden, welche GitHub und Jira verbindet, was jedoch hier leider nicht ging, da die Anleitungen auf beiden Seiten veralted waren. 
 
 #### Weitere Funktionen
+- Rechtesystem vorhanden (wer kann lesen, erstellen usw.)
+- Einbinden von Unterlagen mit dem Unterlagen-Programm "Confluence", welches viele Vorlagen bieted.
+- Erstellen von Diagrammen, um den Projektverlauf nach außen zu zeigen/darzustellen.
 
-#### Weitere Probleme
-- Extrem Langsam (Es dauerte stets 10-20 Sekunden bis Seiten geladen hat)
-
-### MS Project
-Text
 
 ### Vergleich
 Der Vergleich ist aus der Sicht eines kleines Projekts mit 7 Leuten, die bereits erfahrung mit GitHub haben.
 
-*Vergleich*  | GitHub Project | Jira | MS Project
--------- | -------- | -------- | --------
- Anlege-Aufwand*  | 5min  | + 120min |
- Issue Anlegen*  | 45sek  |  | -
-Issue Verschieben* |  15sek |  | -
-Issue schließen*  |  20sek |  | -
- Git Einbindung  | Sofortig | Umständlich über weitere App | Nicht möglich
- Preis  |  Kostenlos  | 10€/Monat | Kostenlos
+*Vergleich*  | GitHub Project | Jira 
+-------- | -------- | -------- 
+ Anlege-Aufwand*  | 5min  | 120min
+ Issue Anlegen*  | 45sek  |  60sek
+Issue Verschieben* |  15sek |  5sek
+Issue schließen*  |  20sek |  5sek
+ Git Einbindung  | Sofortig | Umständlich über weitere App 
+Rechte System  |  Über Organisationen | Intern 
+ Preis  |  Kostenlos  | 10€/Monat
 
 \* Alle Zeitenangaben wurden vom Autoren festgestellt.  
 Die Issue-Messungen wurden in einem Projekt gemacht, dass bereits mit Issues gefüllt wurde, was zusätzliche Zeit für filtern beanspruchte. Als Starpunkt der Messungen wurde die Projektübersicht gewählt.
@@ -96,14 +92,7 @@ Die Issue-Messungen wurden in einem Projekt gemacht, dass bereits mit Issues gef
 ### Abschluss
 GitHub Project ist sehr auf Git spezialisiert und bieted nur das nötigste im Dashboard.  
 Auch fehlt es an einer Visualisierung der Meilensteine in einem Kalender, was externe Lösungen nötig macht.  
-Jira ist sehr weiter gefächer, unübersichtlich & instabiel. Dafür hat man sehr viel Freiheit beim erstellen von Dashboards, die den Projektverlauf sehr gut darstellen & organiseren lassen. 
+Jira ist sehr weiter gefächer, unübersichtlich & langsam. Dafür hat man sehr viel Freiheit beim erstellen von Dashboards, die den Projektverlauf sehr gut darstellen & organiseren lassen. 
   
-Rein aus der Sicht eines auf Git basiernden Projektes, würde sich bei kleinen Projekten GitHub Project und bei großen Jira anbieten, da hier der zu erwantende Pflage-Aufwand, den großen Anlege-Aufwand rechtfertigt.
-// ? Was ist mit MS Project  
+Rein aus der Sicht eines auf Git basierenden Projektes, würde sich bei kleinen Projekten GitHub Project und bei großen Jira anbieten, da hier der zu erwantende Pflage-Aufwand, den großen Anlege-Aufwand rechtfertigt.
 
-
-
-  
-  
-## Quellen
-#### Quelle1 aus Buch A Seite B von Zeile C bis D <a name="quelle1"></a>
