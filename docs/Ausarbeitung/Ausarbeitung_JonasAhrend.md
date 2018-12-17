@@ -76,16 +76,21 @@ Der Vergleich ist aus der Sicht eines kleines Projekts mit 7 Leuten, die bereits
 
 *Vergleich*  | GitHub Project | Jira 
 -------- | -------- | -------- 
- Anlege-Aufwand*  | 5min  | 120min
- Issue Anlegen*  | 45sek  |  60sek
+ Anlege-Aufwand*  | 5min  | 10min (+120min für Einarbeitung)
+ Issue Anlegen*  | 45sek  |  50sek
 Issue Verschieben* |  15sek |  5sek
 Issue schließen*  |  20sek |  5sek
  Git Einbindung  | Sofortig | Umständlich über weitere App 
 Rechte System  |  Über Organisationen | Intern 
  Preis  |  Kostenlos  | 10€/Monat
+ 
+\* *Alle Zeitenangaben wurden vom Autoren festgestellt.  
+Die Issue-Messungen wurden in einem Projekt gemacht, dass bereits mit Issues gefüllt wurde, was zusätzliche Zeit für filtern beanspruchte. Als Starpunkt der Messungen wurde die Projektübersicht gewählt.*
 
-\* Alle Zeitenangaben wurden vom Autoren festgestellt.  
-Die Issue-Messungen wurden in einem Projekt gemacht, dass bereits mit Issues gefüllt wurde, was zusätzliche Zeit für filtern beanspruchte. Als Starpunkt der Messungen wurde die Projektübersicht gewählt.
+Geht man nun davon aus, dass Issus jeweils 2x verschoben werden, kommt man auf 95sek/Issu für Github und 65sek/Issu für Jira.  
+Wenn man nun noch den Anlege-Aufwand mitbedenkt, lohnt es sich ab ***250 Issus*** Jira zu verwenden. Fällt die Einarbeitungzeit weg, sind es nurnoch 10 Issus.  
+
+![Vergleichs Diagramm Bild](Bilder/JonasAhrend/VergleichsDiagramm.JPG)   
 
 
 
