@@ -14,5 +14,15 @@ Datum | Dauer | Tätigkeit
 06.11.18 | 0:45 h   | 4. Meeting
 10.11.18 | 5:00 h   | Gelesen + Notizen
 11.11.18 | 10:00 h   | Gelesen + Notizen
+13.11.18 | 3:00 h   | 5. Meeting
+01.12.18 | 5:00 h   | Gelesen + Notizen
+02.12.18 | 4:00 h   | Gelesen + Notizen
+03.12.18 | 1:00 h   | Ausarbeitung schreiben
+04.12.18 | 0:30 h   | 7. Meeting
+07.12.18 | 6:00 h   | Ausarbeitung schreiben
+08.12.18 | 7:00 h   | Ausarbeitung schreiben
+09.12.18 | 7:00 h   | Ausarbeitung schreiben
+10.12.18 | 3:00 h   | Ausarbeitung schreiben (fertig)
+14.12.18 | 0:20 h   | 3. Online Meeting + Ausarbeitung update
  |   | 
-Summe | 24:10 h  | 
+Summe | 61:00 h  | 
