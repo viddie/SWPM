@@ -36,7 +36,7 @@ Zur besseren Übersicht kann man einen Filter verwenden, der per Texteingabe fun
 - Nicht an weitere Webseite / Dienst gebunden
 
 
-### Jira (Atlassian)
+### Jira
 Jira bietet mehrere Tools für das Projektmanagement und erlaubt es weitere Programme von Atlassian einzubinden.
 Der Fokus liegt hierbei jedoch nicht auf der Software Entwicklung, sondern bietet Funktionen für ein breites Spektrum (z.B. Vorlagen für Personalbeschaffung).  
 An Dashboard kann man 2 Typen erstellen (Kanab & Scrum), die auch über eigene Funktionen verfügen.
