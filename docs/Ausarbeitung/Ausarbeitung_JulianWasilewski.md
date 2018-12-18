@@ -109,7 +109,7 @@ Vorgehensmodelle beschreiben die Planung zur Entwicklung einer Software in aufei
 
 Die Vorgehensmodelle werden in drei Typen klassisch, modern und agil kategorisiert. Zu den klassischen Vorgehensmodellen gehört unter anderem das Wasserfallmodell. Beim Wasserfallmodell verlaufen die acht Phasen sequenziell ab. Zu diesen acht Phasen gehört die Problemanalyse, die Systemspezifikation, der Grobentwurf, der Feinentwurf, die Implementierung, die Integration, die Installation und der Betrieb und die Wartung, die man in der Abbildung X.Y sehen kann. Diese Phasen werden nacheinander in der genanten Reihenfolge abgearbeitet. Der Übergang von Phase A nach Phase B geschieht erst, wenn die Validierung erfolgreich war, sprich es treten keine "erheblichen Mängel auf". Einer der Vorteile der klassischen Vorgehensmodellen ist, dass diese einfach gestrickt sind und für große Projekte geeignet sind. Zudem gibt es eine "hohe Effizienz bei bekannten und konstanten Anforderungen".(IT-Projektmanagement Seite 33 Zeile 17) problematisch und mit hohen Kosten verbunden sind die Änderungen der Anforderungen. Diese können bei den klassischen Vorgehensmodellen meist auch nicht geändert werden. Da die Phasen der klassischen Vorgehensmodelle sequenziell ablaufen, werden Fehler erst im späteren Projektverlauf ausfindig gemacht. Außerdem treten die Risiken auch zum Ende auf. 
 
-![Wasserfall](Bilder/ChamounSimonSafar/Wasserfallmodel.PNG)
+![Wasserfall](Bilder/ChamounSimonSafar/Wasserfallmodell.PNG)
 Abbildung: Wasserfallmodell
 
 **Moderne Vorgehensmodelle**
