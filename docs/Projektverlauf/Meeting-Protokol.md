@@ -103,3 +103,13 @@ Punkt | Entscheidung
 -------- | --------  
 Zusammenfügen | Links auf andere Kapitel
 
+
+# 9. Meeting 18.12.2018
+
+Punkt | Entscheidung  
+-------- | --------  
+Stand | Bis auf Hannes fehelndes Bild, Augenscheinlich nichts zu beanstanden
+Klausur |  Wird über eine vom Dozent erstelltes Zusammenfassung gehen, auf Grundlage aller Ausarbeitungen.
+Ausarbeitung Archivieren | Neues Repo erstellen und dieses Archivieren
+Nächstes Online-Meeting | 03.01.19 um 14:00
+Nächster SU |  07.01.19 um 12:30
