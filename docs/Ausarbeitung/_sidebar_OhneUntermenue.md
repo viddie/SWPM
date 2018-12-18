@@ -9,7 +9,7 @@
   * [Kap. 2: Projekt definieren](Ausarbeitung/Ausarbeitung_EugenKlat.md)
   * [Kap. 3 1/2: Projekt planen.](Ausarbeitung/Ausarbeitung_JulianWasilewski.md)
   * [Kap. 3 2/2: Projekt planen.](Ausarbeitung/Ausarbeitung_HannesRueffer.md)
-  * [Kap. 4: Projekt auf Kurs halten](Ausarbeitung/Ausarbeitung_FlorianBuller.md)
+  * [Kap. 4: Projekt auf Kurs halten](Ausarbeitung/Ausarbeitung_ChamounSimonSafar.md)
   * [Kap. 5: Projekt abschließen](Ausarbeitung/Ausarbeitung_Kap5.md)
   * [Tooling](Ausarbeitung/Ausarbeitung_JonasAhrend.md)
 
