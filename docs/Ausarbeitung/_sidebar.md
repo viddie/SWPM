@@ -17,7 +17,6 @@
    * [Der Projektauftrag](Ausarbeitung/Ausarbeitung_EugenKlat#Der-Projektauftrag)
    * [Stakeholdermanagement](Ausarbeitung/Ausarbeitung_EugenKlat#Stakeholdermanagement)
    * [Rollen im Projektmanagement](Ausarbeitung/Ausarbeitung_EugenKlat#Rollen-im-Projektmanagement)
-   * [Das Team](Ausarbeitung/Ausarbeitung_EugenKlat#Das-Team)
    
   * [Kap. 3 1/2: Projekt planen.](Ausarbeitung/Ausarbeitung_JulianWasilewski.md)
    * [Anforderungen messbar definieren](Ausarbeitung/Ausarbeitung_JulianWasilewski#Anforderungen-messbar-definieren)
