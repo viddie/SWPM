@@ -2,7 +2,7 @@
 **Zusammenfassung**
 Um ein Projekt auf Kurs zu halten, ist eine gültige Konfiguration notwendig. Während des Projekts können Änderungen auftreten. Diese sind mit Maßnahmen zu korrigieren, ob nun ein Projekt vom Kurs abgekommen ist, lässt sich durch Soll-Ist-Vergleich und Prognosen am besten sagen. Weiterhin vermeiden regelmäßige Reviews und Statusberichte Abweichungen. 
 
-# Konfiguration und Änderungen während des Projekts
+### Konfiguration und Änderungen während des Projekts
 Unter einer Konfiguration verstehet man eine Auswahl an Komponenten, die in einem System zum Einsatz kommen. Hier muss geachtet werden, dass ein Zusammenspiel der Komponenten funktioniert. Während eines Projektes beziehungsweise in all seinen Phasen besteht die Möglichkeit, dass es zu Änderungswünschen kommt, dass die geplante Konfiguration fehlerhaft ist oder dass durch die Umwelt die aktuelle Konfiguration umgedacht werden muss. Änderungen können schon früh erscheinen. In frühen Phasen sind die Kosten geringen als in Späteren. Änderungen haben zu kontrolliert werden. Da ansonsten Deadlines nicht eingehalten werden können, Budgets überschritten werden oder die Leistung/Anforderungen des Produkts/Projekts nicht erfüllt werden. Auch muss bestimmt werden, ob diese Änderungen auch durchgeführt werden sollen und wer diese Änderungen finanziert. Zudem ist eine versionierte Dokumentation der Änderung erforderlich, weil sonst die Projektmitarbeiter mit unterschiedlichen Versionsständen von Dokumenten arbeiten. Dies kann zu Fehlern führen. Konfigurations- und Änderungsmanagement sollen hier helfen. Der Zuständige für beiden ist meist der Qualitätsmanager.
 
 **Konfigurationsmanagement** hat das Ziel die  *Leistungserstellung durch eine Abfolge von Änderungen gegenüber den Vorgaben, Planwerten und Zwischenergebnissen aufzufassen.* Dieser Prozess wird auch Konfigurationsdokumente begleitet. Konfigurationsdokumente sind Beschreibungen von Produkten und Liefergegenstände des Projekts. Das Ziel wird erreicht, indem die Dokumente sowie die Spezifikationen gesteuert, aktualisiert und miteinander verbindet werden.
@@ -39,7 +39,7 @@ Der fünfte Prozess vergleicht, ob die Anforderungen des Produkts mit den Produk
 **Gründe für Konfigurations- und Änderungsmanagement**
 Ohne ein Änderungs- und Konfigurationsmanagement, besteht die Wahrscheinlichkeit auf den folgenden Problemen. Funktionalitäten können beeinträchtigt werde, weil die Schnittstellen nicht ausreichend abgestimmt wurden. Die Projektmitarbeiter arbeiten mit verschiedenen Baselines. Aus Änderungen folgen meist zusätzliche Aufwand, daraus folgt zusätzliche Kosten. Es wird kein Abkommen getroffen, wer für diese Kosten der Änderung aufkommt. Durch den zusätzlichen Aufwand können die Deadlines nicht eingehalten werden, resultiert eine Terminverschiebung. Scope Creep entsteht, das heißt es werden Funktionalitäten im Projekt implementiert beziehungsweise die Leistung des Projekts steigt, ohne das der Auftraggeber und der Auftragnehmer dies genehmigt haben. Es treten neue Risiken für das Projektteam auf, da bei Mängeln und fehlerhaften Teilen eine Nachverfolgung nicht möglich ist. Der Aufwand steigt, um Fehler zu beseitigen. All diese Probleme lassen sich durch Konfigurations- und Änderungsmanagement vermeiden. 
 
-# Projektfortschritt messen und Prognosen errechnen
+### Projektfortschritt messen und Prognosen errechnen
 **Einleitung**
 Um das Projekt auf Kurs zu halten, ist es notwendig zu wissen, was der aktuelle Stand ist. Kann die Deadline für das Projekt eingehalten werden. Hierfür benötigt man Prognosen. Um diese Fragen zu beantworten, gibt es verschiedene Methode, die im Folgenden zusammengefasst werden.
 
@@ -110,7 +110,7 @@ In der **Nachbereitung** werden die die Action Item verfolgt und die Dokumentati
 
 Der **Statusbericht** beinhaltet die in den Reviews oder Statussitzungen Daten zur *Fortschrittskontrolle*. Es enthält zudem Aussagen zu Terminen, Kosten, Leistungen, Risiken, Problemen und gegeben falls Kennzahlen zur Bewertung der Projektprozesse.
 
-# Steuerungsmaßnahmen
+### Steuerungsmaßnahmen
 Tritt eine Abweichung auf, muss das Projekt durch eine Maßnahme wieder auf Kurs gesetzt werden. Dabei ist auf die Auswirkungen der Maßnahme zu achten. Abweichungen werden in den zwei Klassen Klasse 1 und Klasse 2 klassifiziert. Unter der Klasse 1 sind die bedeutende Abweichung zu verstehen. Diese haben Auswirkungen auf die Funktionalitäten des Systems. Zu den Abweichungen in der Klasse 2 spricht man von unbedeutenden Abweichungen, die zum Beispiel rein äußerlich sind und keine Beeinträchtigungen auf das System haben. In Abhängigkeit mit der Vereinbarung mit dem Kunden, ist der Kunde zu informieren bei Abweichungen der Klasse 1. Bei Abweichungen der Klasse 2 ist dies nicht der Fall.
 
 **Erhöhung der Personalkapazität**
