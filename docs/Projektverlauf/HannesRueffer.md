@@ -17,5 +17,7 @@
 03.12.18 | 2:30 h   | Ausarbeitung 3.4 fertig
 09.12.18 | 2:00 h   | Ausarbeitung 3.5 fertig
 11.12.18 | 3:50 h   | Ausarbeitung 3.6 fertig
+17.12.18 | 1:00 h   | Ausarbeitung Kap. 3 Formatierung & Grammatik
+18.12.18 | 1:30 h   | Ausarbeitung 5 fertig
  |   | 
-Summe | 24:15 h  | 
+Summe | 26:45 h  | 
