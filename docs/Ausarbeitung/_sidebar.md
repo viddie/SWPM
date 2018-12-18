@@ -20,8 +20,8 @@
    
   * [Kap. 3 1/2: Projekt planen.](Ausarbeitung/Ausarbeitung_JulianWasilewski.md)
    * [Anforderungen messbar definieren](Ausarbeitung/Ausarbeitung_JulianWasilewski#Anforderungen-messbar-definieren)
-   * [Vorgehensmodelle](Ausarbeitung/Ausarbeitung_JulianWasilewski#Vorgehensmodelle)
    * [Die Projektstruktur gestalten](Ausarbeitung/Ausarbeitung_JulianWasilewski#Die-Projektstruktur-gestalten)
+   * [Risiken abschätzen und managen](Ausarbeitung/Ausarbeitung_JulianWasilewski#Risiken-abschätzen-und-managen)
    
   * [Kap. 3 2/2: Projekt planen.](Ausarbeitung/Ausarbeitung_HannesRueffer.md)
    * [Qualität planen](Ausarbeitung/Ausarbeitung_HannesRueffer#Qualität-planen)
