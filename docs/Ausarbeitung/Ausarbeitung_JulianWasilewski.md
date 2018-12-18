@@ -1,8 +1,8 @@
-# Projekte planen
+## Projekte planen
 ##### Zusammenfassung
 Mit Beginn der Planungsphase müssen die Anforderungen für die im Projektauftrag formulierten  Ziele  und  Lieferobjekte  messbar  beschrieben  werden.  Hierzu  werden, aufbauend auf den Produktbaum, Anforderungen ermittelt, analysiert, verhandelt, gewichtet und spezifiziert und schließlich notwendige Maßnahmen und Tests zur Verifikation und Validierung geplant. Der Plan der Pläne ist der Projektstrukturplan, der im anschließenden Kapitel erläutert wird. Weitere wichtige Themen der Projektplanung sind Risikomanagement, Qualitätsplanung, Ablauf- und Terminplanung und schließlich die Aufwands- und Kostenschätzung, die jeweils in den darauffolgenden Kapiteln behandelt werden. Den Abschluss bildet die Baseline.(H. Meyer, H.-J. Reher, Projektmanagement,  2016, S. 107)  
 
-## Anforderungen messbar definieren
+### Anforderungen messbar definieren
 
 ##### Anforderungen ermitteln, verhandeln und beschreiben
 
@@ -102,7 +102,7 @@ prozess einzubinden (INCOSE 2012, S. 127).
 Dabei ist zu beachten, das diese Anforderungen eindeutig und messbar sein sollen.
  
  **Wie wird Verifikation und Validierung in Projekten gehandhabt?**
-### Vorgehensmodelle
+#### Vorgehensmodelle
 
 Vorgehensmodelle beschreiben die Planung zur Entwicklung einer Software in aufeinanderfolgenden begrenzten Phasen. Die meisten Vorgehensmodelle lassen sich in die Phasen Problemanalyse, Sollkonzept, Programmierung, Test, Inbetriebnahme und Wartung unterteilen. In der Problemanalysephase wird die Problemstellung untersucht. Beim Sollkonzept werden die Zielvorgaben definiert sowie Zwischenschritte und Endzustand beschrieben. Mit dem Sollkonzept lässt sich ein Anforderungsprofil beziehungsweise ein Pflichtenheft erstellen. In der Phase Programmierung wird die eigentliche Arbeit absolviert, die Software wird geschrieben. Die Testphase überprüft die Funktionalität der Software. Hierfür werden geeignete Testfälle bedacht. Während der Phase Inbetriebnahme wird die Software ausgeteilt und "ins Produktivsystem" (IT-Projektmanagement, Seite 31, Zeile 3) eingespielt.Unter realen Bedingungen wird die Software in Betrieb genommen. Zum Schluss folgt die Phase Wartung. In dieser Phase werden die Fehler, die Unteranderem während der Inbetriebnahme erschienen sind, behoben. Gegebenenfalls werden neue Anforderungen sowie neue Funktionalitäten dem Projekt angefügt und bearbeitet. 
 
@@ -137,7 +137,7 @@ Abbildung: Scrum
 Für die Planung vom Verifizieren und Validieren ist der Systemarchitekt zuständig, dabei leisten Projektleitung, Qualitätsmanager und die verschiedenen Fachabteilungen unterstützung.
  
  
-## Die Projektstruktur gestalten
+### Die Projektstruktur gestalten
 
 #### Der Projektstrukturplan
 
