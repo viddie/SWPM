@@ -75,4 +75,11 @@
 17.12.18 | 0:15 h | Ausarbeitungs Titelbild
 17.12.18 | 8:25 h | Ausarbeitung fertiggestellt
 ||
-Summe |  57:30 h  | 
+18.12.18 | 2:00 h | Letzte Formatierungen
+18.12.18 | 0:45 h | 9. Meeting
+18.12.18 | 0:30 h | Präsentation Aufbau Beprochen
+18.12.18 | 0:15 h | 9. Meeting Nachberabeiten
+||
+26.12.18 | 0:40 h | GitHub Pflege & Kommunikation
+||
+Summe |  61:40 h  | 
