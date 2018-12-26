@@ -9,7 +9,6 @@
   * [Aufgabenverteilung](Projektverlauf/Aufgabenverteilung.md)
   * [Kapitel Vergleich](Projektverlauf/KapitelVergleich.md)
   * [Zeitplan](Projektverlauf/Zeitplan.md)
-  * [Einblick: GitHub project boards](Projektverlauf/GithubProjectBoards.md)
   * [Projekttagebuch: Jonas Ahrend](Projektverlauf/JonasAhrend.md)
   * [Projekttagebuch: Christian Krebel](Projektverlauf/ChristianKrebel.md)
   * [Projekttagebuch: Julian Wasilewski](Projektverlauf/JulianWasilewski.md)

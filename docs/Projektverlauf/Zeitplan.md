@@ -1,3 +1,8 @@
+﻿# Pre-GitHubProjects- Zeitplan
+
+<font color=#FF0000>Seit KW 45 veraltet</font>
+
+
 KW | Alle | Jonas | Eugen | Christian | Hannes | Julian | Florian | Chamoun
 -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- 
 41|  Namen in .html schreiben/commiten  | GitHub Repo aufsetzen | | | | | | 
