@@ -1,15 +1,25 @@
-﻿<h1 align="center"> Titel </h1>
-* AussageA
-* AussageB
-* AussageC
+name: templateSlide
+class: top, center
 
+# PRÄSENTATION!!!
 
-Zu Präsi Vorlage hinzufuegen:
-- Vorlage für mehrere Seiten in einer Datei (Durch --- getrennt)
-- Welche Überschrifft für was
-- Größen für Bilder (Klein = 500x250 Groß = 1000x500 oder so)
- 	
-	
+.left[text links: Scroll to move on!]  
+
+[Markdown Syntax](https://github.com/gnab/remark/wiki/Markdown)  
+
 .footnote[
 	Quellenangabe:  Quellen
 ]
+---
+template: templateSlide
+count: false
+class:left
+* Text rechts: Sieser Text wird am Slide mit dem Namen templateSlide angehängt. Dies geschieht durch template:Name
+.center[Text mitte: Mit "count:bool" wird der Seitenzähler nicht erhöht]
+--
+
+.left[mit "--" wird die letzte Folie wird ergänzt]
+.left[mit ??? können Notizen für den Redner erstellt werden]
+
+???
+Ein paar Präsentationsnotizen
