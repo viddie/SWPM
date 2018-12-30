@@ -41,5 +41,9 @@ Datum | Dauer | Tätigkeit
 16.12.18 | 7:30 h   | Ausarbeitung
 17.12.18 | 12:00 h  | Ausarbeitung
 18.12.18 | 5:00 h   | Ausarbeitung
+20.12.18 | 0:30 h   | angefange Präsentationsvorlage zu erstellt
+26.12.18 | 0:15 h   | Weiter an der vorlage gearbeitet
+29.12.18 | 0:30 h   | Vorlage erstellt
+30.12.18 | 0:15 h   | Feedback zur Vorlage umgesetzt
    |   |  
-Summe | 69:00 h  |
+Summe | 70:30 h  |
