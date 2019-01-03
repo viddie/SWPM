@@ -1,4 +1,4 @@
-# 1. Meeting 16.10.2018
+﻿# 1. Meeting 16.10.2018
 
 Punkt | Entscheidung 
 -------- | -------- 
@@ -97,7 +97,7 @@ Reihnfolge |  Kap 3 1/2 und 2/2 in eine Datei packen
 Online Termin |  14.12.2018
 
 
-# 3. Meeting 14.12.2018
+# 3. Online-Meeting 14.12.2018
 
 Punkt | Entscheidung  
 -------- | --------  
@@ -113,3 +113,14 @@ Klausur |  Wird über eine vom Dozent erstelltes Zusammenfassung gehen, auf Grun
 Ausarbeitung Archivieren | Neues Repo erstellen und dieses Archivieren
 Nächstes Online-Meeting | 03.01.19 um 14:00
 Nächster SU |  07.01.19 um 12:30
+
+# 4. Online-Meeting 03.01.2019
+
+Punkt | Entscheidung  
+-------- | --------  
+Präsi Vorlage | Allgemeine Vorlage & Vorlage für Punkte hinzufügen auf selber Seite.
+Präsi Länge | Eigener Teile nicht länger als 25 Seiten.
+Präsi Texte | Folien-Texte möglichst nur als Orientierungshilfe der Zuhörer und möglichst kurz.
+Präsi Kommentare | Ausführlicheres, was man selbst zum Vortragen braucht, als Kommentare oder auf eigene Zettel.
+Präsi Bilder | Bilder in Präsi-Bilder-Ordner, selsbt wenn es bereits im Ausarbeitungs-Bilder-Ordner liegt.
+Online Meeting | Sa/So iwann.
