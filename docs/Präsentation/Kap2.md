@@ -4,13 +4,14 @@
 .left[Links] 
 .right[Rechts] 
 .center[Mitte]
-top, middle, bottom geht für Texte nicht
+top, middle, bottom geht fÃ¼r Texte nicht
 
 [Markdown Syntax](https://github.com/gnab/remark/wiki/Markdown) 
 
 .footnote[
 	Quellenangabe: Quellen
 ]
+
 ---
 
 ### n.2 Bilder
@@ -20,8 +21,8 @@ top, middle, bottom geht für Texte nicht
 .right[![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")]
 
 .left[
-#### Bildergröße
-Bilder sollen eine Höhe von max n haben
+#### BildergrÃ¶ÃŸe
+Bilder sollen eine HÃ¶he von max n haben
 und eine Breite von m haben.
 ]
 
