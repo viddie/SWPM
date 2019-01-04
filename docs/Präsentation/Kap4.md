@@ -1,30 +1,98 @@
-﻿## Kap4: Dein Thema
+## Kapitel 4: Projekt auf Kurs halten
 
-### n.1 Text Ausrichten
-.left[Links] 
-.right[Rechts] 
-.center[Mitte]
-top, middle, bottom geht für Texte nicht
+.left[1. Konfiguration und Änderungen während des Projekts
 
-[Markdown Syntax](https://github.com/gnab/remark/wiki/Markdown) 
+2. Projektfortschritt messen und Prognosen errechnen
 
-.footnote[
-	Quellenangabe: Quellen
-]
+3. Reviews und Statussitzungen
+
+4. Steuerungsmaßnahmen]
 ---
 
-### n.2 Bilder
+## Konfiguration und  Änderungen während des Projekts
 
-.left[![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")]
-.center[![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")]
-.right[![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")]
+--
+* Was ist eine Konfiguration ?
 
-.left[
-#### Bildergröße
-Bilder sollen eine Höhe von max n haben
-und eine Breite von m haben.
-]
+--
 
-.footnote[
-	Quellenangabe: Quellen
-]
+ * Auswahl an Komopenten, die in einem System zusammenspielen
+
+???
+Beispiel PC besteht aus Einzelteilen die abgestimmt sind. Falsche Graka -> Fehlender Anschluss für Monitor
+
+--
+
+* Was ist Konfigurationsmanagement ?
+  
+--
+
+ * Ziel: Die Leistungserstellung durch eine Abfolge von Änderungen gegenüber den Vorgaben, Planwerten und Zwischenergebnissen aufzufassen.
+
+--
+
+ * Konfigurationsdokumente begleiten diesen Prozess 
+
+--
+
+* Die Baseline/Bezugskonfiguration ist das Kernelement
+---
+## Prozesse des Konfigurationsmanagements 
+
+--
+
+* Konfigurationsmanagementplanung
+
+--
+
+* Konfigurationsidentifizierung
+
+--
+
+* Änderungslenkung
+
+--
+
+* Konfigurationsbuchführung
+
+--
+
+* Konfigurationsaudit
+
+---
+## Änderungsmanagement
+
+--
+* Definition:
+
+--
+
+ * Beschäftigt sich um Änderungen, die während eines Projektes stattfinden.
+ 
+
+--
+ * Ist ein Teilgebiet des Konfigurationsmanagements.
+
+
+--
+* Ursachen für Änderungen:
+
+--
+
+ * Umwelt
+
+???
+Beispiel Regierung Gesetze
+
+--
+
+ * Neue Anforderungen
+
+--
+
+ * Anforderungen entfallen
+
+--
+
+ * Auf Wunsch des Stakeholders
+
