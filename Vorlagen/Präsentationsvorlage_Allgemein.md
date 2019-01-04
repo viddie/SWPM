@@ -21,8 +21,8 @@ top, middle, bottom geht für Texte nicht
 
 .left[
 #### Bildergröße
-Bilder sollen eine Höhe von max n haben
-und eine Breite von m haben.
+Bilder sollen eine Höhe von max 450 haben
+und eine Breite von 750 haben.
 ]
 
 .footnote[
