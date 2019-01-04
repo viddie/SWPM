@@ -6,12 +6,13 @@
 4. Den Überblick behalten
 5. Projektmanagement boomt
 
+---
 ## Projekte und ihre Rolle im Produktlebenszyklus
 
 - komplexe Projekte wie *Mondlandung 1969* nur dank PM möglich
 
 --
-- allgegenwärtig & sehr verschieden
+- allgegenwärtig & sehr verschieden  
 
 --
 Projekt nach DIN Norm:
@@ -19,18 +20,17 @@ Projekt nach DIN Norm:
  - Ziel
  - Zeit
  - Finanzielles
- - Personelles
+ - Personelles  
 
 --
 Nach verschiedenen Autoren:
-- Interdisziplinäre Teamarbeit (Da alle versch. Erfahrung haben)  
-???
-&rightarrow; Koordination & Arbeitsteilung gefragt
+- Interdisziplinäre Teamarbeit (Da alle versch. Erfahrung haben)
 
 --
 - Neuartigkeit, fortschreitende Konkretisierung (Zu Beginn Unsicherheit)
 ???
-+ Projekt definieren: wann soll PM-Methodik genutzt werden? (je nach Organisation speziell)
+&rightarrow; Koordination & Arbeitsteilung gefragt
+- Projekt definieren: wann soll PM-Methodik genutzt werden? (je nach Organisation speziell)
 
 ---
 ## Projekte und ihre Rolle im Produktlebenszyklus
@@ -57,7 +57,7 @@ Nach verschiedenen Autoren:
 - Wenn Product Life Cycle > Project Life Cycle, dann zukünftige Entwicklungen und Nutzungsszenarien erahnen wie z.B. Wartungsbedarf
 
 ---
-![Perspektiven des Projekterfolgs](Bilder/ChristianKrebel/PerspektivenDesProjekterfolgs.png "Perspektiven des Projekterfolgs")
+![Perspektiven des Projekterfolgs](Bilder/Christian Krebel/PerspektivenDesProjekterfolgs.png "Perspektiven des Projekterfolgs")
 
 ---
 - Projekt planen:
@@ -86,7 +86,7 @@ Nach verschiedenen Autoren:
 - Kunde zufrieden, wenn seine Anforderungen zum möglichst größten Teil erfüllt
 
 ---
-![Projekterfolg und Projektqualität nach Bea et al.](Bilder/ChristianKrebel/ProjekterfolgUndProjektqualitaetNachBeaEtAl.png "Projekterfolg und Projektqualität nach Bea et al.")
+![Projekterfolg und Projektqualität nach Bea et al.](Bilder/Christian Krebel/ProjekterfolgUndProjektqualitaetNachBeaEtAl.png "Projekterfolg und Projektqualität nach Bea et al.")
 
 ---
 - Projekteffizienz: max. Output bei min. Input
