@@ -1,20 +1,40 @@
 ﻿## Kapitel 1: Projektmanagement verstehen
 
-### 1.1 Projekte und ihre Rolle im Produktlebenszyklus
+1. Projekte und ihre Rolle im Produktlebenszyklus
+2. Mit dem magischen Zieldreieck zum Projekterfolg
+3. In Etappen zum Erfolg – Phasen und Meilensteine
+4. Den Überblick behalten
+5. Projektmanagement boomt
 
-- komplexe Projekte wie die Mondlandung 1969 nur dank PM möglich
-- Projekte sind allgegenwärtig & können sehr verschieden sein
-- Projekt nach DIN Norm:
-  - Vorhaben, einmalig durch Bedingungen wie Ziel, Zeit, Finanzielles, Personelles usw. definiert
+## Projekte und ihre Rolle im Produktlebenszyklus
+
+- komplexe Projekte wie *Mondlandung 1969* nur dank PM möglich
+
+--
+- allgegenwärtig & sehr verschieden
+
+--
+Projekt nach DIN Norm:
+- Vorhaben, einmalig durch:
+ - Ziel
+ - Zeit
+ - Finanzielles
+ - Personelles
+
+--
+Nach verschiedenen Autoren:
+- Interdisziplinäre Teamarbeit (Da alle versch. Erfahrung haben)  
+???
+&rightarrow; Koordination & Arbeitsteilung gefragt
+
+--
+- Neuartigkeit, fortschreitende Konkretisierung (Zu Beginn Unsicherheit)
+???
++ Projekt definieren: wann soll PM-Methodik genutzt werden? (je nach Organisation speziell)
 
 ---
-- Weitere Merkmale nach verschiedenen Autoren:
-  - Interdisziplinäre Teamarbeit (Da alle versch. Erfahrung haben)
-    &rightarrow; Koordination & Arbeitsteilung gefragt
-  - Neuartigkeit, fortschreitende Konkretisierung (Zu Beginn Unsicherheit)
-- Projekt definieren: wann soll PM-Methodik genutzt werden? (je nach Organisation speziell)
+## Projekte und ihre Rolle im Produktlebenszyklus
 
----
 - Projektmanagement besteht aus:
   - Spezifikationen, Pläne und Vorgehensweise an Erwartungen und Anliegen der Stakeholder anpassen
   - Klare und erreichbare Ziele definieren und Anforderungen identifizieren
@@ -37,7 +57,7 @@
 - Wenn Product Life Cycle > Project Life Cycle, dann zukünftige Entwicklungen und Nutzungsszenarien erahnen wie z.B. Wartungsbedarf
 
 ---
-![alt text](https://jonasfhinfo.github.io/SWPM/Ausarbeitung/Bilder/ChristianKrebel/PerspektivenDesProjekterfolgs.png "Perspektiven des Projekterfolgs")
+![Perspektiven des Projekterfolgs](Bilder/ChristianKrebel/PerspektivenDesProjekterfolgs.png "Perspektiven des Projekterfolgs")
 
 ---
 - Projekt planen:
@@ -55,4 +75,20 @@
 ---
 ### 1.2 Mit dem magischen Zieldreieck zum Projekterfolg
 
-- 
+- Kunde & Nutzer nicht immer identisch
+  - Kunde kann Organisation oder einzelne Person sein, Beispiele:
+    - Verbraucher
+    - Endanwender
+    - Einzelhändler
+    - Käufer
+- Nicht nur Kunde, Alle (auch Stakeholder) sollen zufrieden sein
+???
+- Kunde zufrieden, wenn seine Anforderungen zum möglichst größten Teil erfüllt
+
+---
+![Projekterfolg und Projektqualität nach Bea et al.](Bilder/ChristianKrebel/ProjekterfolgUndProjektqualitaetNachBeaEtAl.png "Projekterfolg und Projektqualität nach Bea et al.")
+
+---
+- Projekteffizienz: max. Output bei min. Input
+  &rightarrow; Projekt mit möglichst geringem Aufwand in möglichst kurzer Zeit umsetzen
+- Projekteffektivität: iteratives Bewerten des Anwendungserfolgs während das Projekt läuft
