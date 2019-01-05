@@ -12,23 +12,29 @@
 * komplexe Projekte wie *Mondlandung 1969* nur dank PM möglich  
 
 --
+
 * allgegenwärtig & sehr verschieden  
 
 --
+
 * Projekt (nach DIN): Vorhaben, einmalig durch:
- * Ziel
- * Zeit
- * Finanzielles
- * Personelles  
+  * Ziel
+  * Zeit
+  * Finanzielles
+  * Personelles  
 
 --
+
 * Nach verschiedenen Autoren:
   * Interdisziplinäre Teamarbeit (Da alle versch. Erfahrung haben)  
+
 ???
 &rightarrow; Koordination & Arbeitsteilung gefragt
 
 --
+
   * Neuartigkeit, fortschreitende Konkretisierung (Zu Beginn Unsicherheit)  
+
 ???
 * Projekt definieren: wann soll PM-Methodik genutzt werden? (je nach Organisation speziell)
 
