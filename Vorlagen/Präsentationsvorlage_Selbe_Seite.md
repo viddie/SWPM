@@ -5,12 +5,13 @@
 	Quellenangabe:  Quellen
 ]
 --
-
+count: false
 * Auf der Folie bleiben:  -- statt --- verwenden
+* count: false verhindert, dass der Seitenzähler hochgeht.
 
 
 --
-
+count: false
 * Notitzen hinzufügen: Drei Fragenzeichen ??? und darunter den Text schreiben
 Notitzen sieht man, wenn man während er Präsi *P* drückt.
 
