@@ -135,7 +135,8 @@ wie z.B. Wartungsbedarf
 
 --
 
-  - Anwendungserfolg: Erfolg des Nutzers beim Nutzen  
+  - Anwendungserfolg: Mittel-/langfristige Folgen, Erfolg des Nutzers beim Nutzen  
+
     &rightarrow; Projekt kann erfolgreich durchgeführt sein, aber auf Markt nicht ankommen
 
 ---
@@ -163,13 +164,14 @@ wie z.B. Wartungsbedarf
 
 ---
 
-## Projekte und ihre Rolle im Produktlebenszyklus
+## Mit dem magischen Zieldreieck zum Projekterfolg
 
 ![Projekterfolg und Projektqualität nach Bea et al.](Bilder/Christian Krebel/ProjekterfolgUndProjektqualitaetNachBeaEtAl.png "Projekterfolg und Projektqualität nach Bea et al.")
 
 ---
 
-## Projekte und ihre Rolle im Produktlebenszyklus
+## Mit dem magischen Zieldreieck zum Projekterfolg
+### Projekterfolg
 
 - Projekteffizienz: max. Output bei min. Input  
 
@@ -180,5 +182,49 @@ wie z.B. Wartungsbedarf
 --
 
 - Projekteffektivität: iteratives Bewerten des Anwendungserfolgs während das Projekt läuft
+
 ???
-= in Abwicklungszeit
+= in Abwicklungszeit (Prognose, ob nach Abschluss so bleibt)
+Z. Bsp.: würde man sich bei einer Produktentwicklung (intern) auf die Projekteffizienz konzentrieren, bei einem Bauauftrag aber auf die Projekteffektivität.
+
+--
+
+### Projektqualität
+
+- Qualität: wie sehr Erwartungen erfüllt werden
+
+???
+& Umfassende Qualität: Bewertung der Langfristwirkungen
+
+--
+
+- Zufriedenheit aller Stakeholder (subjektiv)
+
+--
+
+- Zielerreichung (objektiv)
+
+---
+
+## Mit dem magischen Zieldreieck zum Projekterfolg
+
+![Dimensionsmodell nach Shenhar und Dvir, Project Excellence Modell](Bilder/Christian Krebel/DimensionsmodellNachShenharUndDvir_ProjectExcellenceModell.png "Dimensionsmodell nach Shenhar und Dvir, Project Excellence Modell")
+
+???
+- mit Auftraggeber definieren, was Anhaltspunkte für Erfolg und Qualität sind  
+&rightarrow; sind vllt. schon intern vereinheitlicht worden  
+
+- jede Dim. hat andere Gewichtigung  
+- Problem: z. Bsp. Geschäftserfolg manchmal erst nach Jahren bewertbar
+- nicht ganz realitätsnah (nicht immer alle Dim. pro Projekt)  
+
+- GPM anwendungsbezogener & sofort nach Beendigung nutzbar
+- Punkte verteilt nach: 
+  - Projektprozesse
+  - Projektergebnisse
+  - Kunden, Mitarbeiter und weitere Stakeholder
+  - objektiv gemessene und subjektiv wahrgenommene Zielerfüllung
+
+---
+
+## Mit dem magischen Zieldreieck zum Projekterfolg
