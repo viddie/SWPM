@@ -419,7 +419,8 @@ Meilensteine:
 ## In Etappen zum Erfolg mit Phasen und Meilensteine
 ### Umsetzungsphase
 
-- Steuerungsaktivitäten &rightarrow; Projekt auf Kurs halten:
+- Steuerungsaktivitäten &rightarrow; Projekt auf Kurs halten:  
+
   - Arbeit voranbringen, steuern
 
 ???
@@ -443,14 +444,12 @@ Meilensteine:
 
 --
 
-## Abschlussphase
+### Abschlussphase
 
-- Bewertung des Projekts und der Leistung:
+- Bewertung des Projekts und der Leistung
 
---
-
-  - Reflexion
-  - Abschlussdokumentation
-  - Lessons Learnt
-  - Archivierung der Ergebnisse
-  - etc.
+???
+- Reflexion
+- Abschlussdokumentation
+- Lessons Learnt
+- Archivierung der Ergebnisse usw.
