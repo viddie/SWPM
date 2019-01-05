@@ -1,9 +1,13 @@
 ﻿## Kapitel 1: Projektmanagement verstehen
 
 1. Projekte und ihre Rolle im Produktlebenszyklus
+
 2. Mit dem magischen Zieldreieck zum Projekterfolg
+
 3. In Etappen zum Erfolg – Phasen und Meilensteine
+
 4. Den Überblick behalten
+
 5. Projektmanagement boomt
 
 ---
@@ -184,7 +188,7 @@ wie z.B. Wartungsbedarf
 - Projekteffektivität: iteratives Bewerten des Anwendungserfolgs während das Projekt läuft
 
 ???
-= in Abwicklungszeit (Prognose, ob nach Abschluss so bleibt)
+= in Abwicklungszeit (Prognose, ob nach Abschluss so bleibt)  
 Z. Bsp.: würde man sich bei einer Produktentwicklung (intern) auf die Projekteffizienz konzentrieren, bei einem Bauauftrag aber auf die Projekteffektivität.
 
 --
@@ -213,11 +217,11 @@ Z. Bsp.: würde man sich bei einer Produktentwicklung (intern) auf die Projektef
 ???
 - mit Auftraggeber definieren, was Anhaltspunkte für Erfolg und Qualität sind  
 &rightarrow; sind vllt. schon intern vereinheitlicht worden  
-
+  
 - jede Dim. hat andere Gewichtigung  
 - Problem: z. Bsp. Geschäftserfolg manchmal erst nach Jahren bewertbar
 - nicht ganz realitätsnah (nicht immer alle Dim. pro Projekt)  
-
+  
 - GPM anwendungsbezogener & sofort nach Beendigung nutzbar
 - Punkte verteilt nach: 
   - Projektprozesse
@@ -228,3 +232,81 @@ Z. Bsp.: würde man sich bei einer Produktentwicklung (intern) auf die Projektef
 ---
 
 ## Mit dem magischen Zieldreieck zum Projekterfolg
+### Ziele
+
+- angestrebte Zustände
+
+???
+- machen Bewertung möglich
+
+--
+
+- helfen bei Entscheidungen, zeigen den richtigen Weg
+
+--
+
+- werden später zu Anforderungen
+
+???
+- die von Leitung und Team definiert, umgesetzt und getestet werden
+
+--
+
+- **SMART**-Regeln, die Ziele beschreiben:
+
+--
+
+  - **S**pezifisch
+  - **M**essbar
+  - **A**chievable oder **A**kzeptiert
+  - **R**ealistisch
+  - **T**erminiert
+
+---
+
+## Mit dem magischen Zieldreieck zum Projekterfolg
+
+![Magisches Zieldreieck](Bilder/Christian Krebel/MagischesZieldreieck.png "Magisches Zieldreieck")
+
+- Optimum: Balance
+
+???
+- beschreibt wie Projektmanagement verantwortungsvoll durchgeführt wird
+- Balance zwischen Leistung (Projektumfang (Scope)), Zeit und Aufwand (Kosten)
+- auch mit Abwicklungserfolg gleichsetzbar
+
+- Projektumfang  
+Er beschreibt Produkte, Dienstleistungen, Berichte und Zustände zu Zeitpunkten wie z.B. zum Abschluss des Projekts. Dazu werden Dokumente, manchmal auch resultierend aus Methoden, genutzt.  
+
+Dokumente:  
+
+- Projektauftrag
+- Lastenheft
+- Pflichtenheft  
+
+Methoden:
+
+- Anforderungsmanagement
+- Projektstrukturplanung
+- Qualitätsplanung
+- Änderungs- und Konfigurationsmanagement  
+
+- Aufwand:  
+Es steht immer eine begrenzte Menge an Einsatzmitteln zur Verfügung. Diese Menge und die Kosten ergeben das Budget, das mit dem Auftraggeber vereinbart wird.  
+
+Einsatzmittel:  
+
+- Personalaufwand (wichtig)
+- Kosten für Material, Maschinen, Reisen, Lizenzen etc.
+- Finanzmittel  
+
+- Zeit:  
+Da Zeit ebenfalls immer begrenzt ist, müssen Termine festgelegt werden.  
+
+Meilensteine und verschiedene Endtermine:  
+
+- Kunde: Liefertermin
+- Auftraggeber: Endtermin (mit Abschlussbericht)
+
+--
+
