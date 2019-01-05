@@ -414,8 +414,9 @@ Meilensteine:
 - bei kleinen Projekten im Projektplan enthalten
 - ist Dokument, worin festgelegt wird, wie Projekt durchgeführt, überwacht, gesteuert wird
 
---
+---
 
+## In Etappen zum Erfolg mit Phasen und Meilensteine
 ### Umsetzungsphase
 
 - Steuerungsaktivitäten &rightarrow; Projekt auf Kurs halten:
@@ -440,9 +441,8 @@ Meilensteine:
 
   - Pläne anpassen
 
----
+--
 
-## In Etappen zum Erfolg mit Phasen und Meilensteine
 ## Abschlussphase
 
 - Bewertung des Projekts und der Leistung:
