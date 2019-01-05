@@ -269,44 +269,189 @@ Z. Bsp.: würde man sich bei einer Produktentwicklung (intern) auf die Projektef
 ![Magisches Zieldreieck](Bilder/Christian Krebel/MagischesZieldreieck.png "Magisches Zieldreieck")
 
 - Optimum: Balance
+- Prioritäten setzen (z.B. Wie schlimm, wenn Termin überschritten?)
 
 ???
 - beschreibt wie Projektmanagement verantwortungsvoll durchgeführt wird
 - Balance zwischen Leistung (Projektumfang (Scope)), Zeit und Aufwand (Kosten)
-- auch mit Abwicklungserfolg gleichsetzbar
+- gleichbedeutend mit Abwicklungserfolg  
 
-- Projektumfang  
-Er beschreibt Produkte, Dienstleistungen, Berichte und Zustände zu Zeitpunkten wie z.B. zum Abschluss des Projekts. Dazu werden Dokumente, manchmal auch resultierend aus Methoden, genutzt.  
+Projektumfang:  
+Er beschreibt Produkte, Dienstleistungen, Berichte und Zustände zu Zeitpunkten wie z.B. zum Abschluss des Projekts. Dazu werden Dokumente resultierend aus Methoden genutzt.  
 
-Dokumente:  
+- Dokumente:
+  - Projektauftrag
+  - Lastenheft
+  - Pflichtenheft  
 
-- Projektauftrag
-- Lastenheft
-- Pflichtenheft  
+- Methoden:
+  - Anforderungsmanagement
+  - Projektstrukturplanung
+  - Qualitätsplanung
+  - Änderungs- und Konfigurationsmanagement  
 
-Methoden:
-
-- Anforderungsmanagement
-- Projektstrukturplanung
-- Qualitätsplanung
-- Änderungs- und Konfigurationsmanagement  
-
-- Aufwand:  
+Aufwand:  
 Es steht immer eine begrenzte Menge an Einsatzmitteln zur Verfügung. Diese Menge und die Kosten ergeben das Budget, das mit dem Auftraggeber vereinbart wird.  
 
-Einsatzmittel:  
+- Einsatzmittel:
+  - Personalaufwand (wichtig)
+  - Kosten für Material, Maschinen, Reisen, Lizenzen etc.
+  - Finanzmittel  
 
-- Personalaufwand (wichtig)
-- Kosten für Material, Maschinen, Reisen, Lizenzen etc.
-- Finanzmittel  
-
-- Zeit:  
-Da Zeit ebenfalls immer begrenzt ist, müssen Termine festgelegt werden.  
-
+Zeit:  
+Da Zeit begrenzt, Termine festlegen.  
 Meilensteine und verschiedene Endtermine:  
-
 - Kunde: Liefertermin
 - Auftraggeber: Endtermin (mit Abschlussbericht)
 
+---
+
+## In Etappen zum Erfolg mit Phasen und Meilensteine
+
+- Bewältigung des Projekts in Teilstrecken (Phasen)
+
 --
 
+  - haben Hauptaufgaben
+
+  - und Übergabepunkte (Meilensteine)
+
+--
+
+- Baseline (Referenzkonfiguration)
+
+--
+
+  - beschreibt Inhalt, Zustand, Zeitpunkt
+
+--
+
+  - meist während Meilenstein
+
+--
+
+  - nicht änderbar, nur einsehen oder wiederherstellen
+
+--
+
+- Erst planen, dann realisieren = Makrostrategie
+
+---
+
+## In Etappen zum Erfolg mit Phasen und Meilensteine
+
+![Phasen im Project Life Cycle](Bilder/Christian Krebel/PhasenImProjectLifeCycle.png "Phasen im Project Life Cycle")
+
+???
+- viele verschiedene Phasenmodelle
+  - können zu globalen Qualitätsstandard werden  
+
+Meilensteine:
+- kommen innerhalb und am Ende von Phasen vor
+- konkrete Liefergegenstände
+- bestimmter Termin
+- Unterliegen Prüfung &rightarrow; vllt. muss man Nacharbeiten
+- beschreiben nicht die Aktivität selbst, wenn nur Anfang / Ende
+- dienen der Synchronisation (stellen sicher, dass nächster Bearbeitungsabschnitt erfolgreich beginnen kann)
+- Bei Zahlungsmeilensteinen gibt es Geld fürs Erreichen von technischen Meilensteinen
+- Showstopper sind große Probleme, können zu Stillstand führen
+
+---
+
+## In Etappen zum Erfolg mit Phasen und Meilensteine
+### Initiierungsphase
+
+- Business Case nutzen
+
+--
+
+- am Ende der Phase Ergebnis, ob Idee weiterverfolgt werden soll
+
+--
+
+- normalerweise nicht primäre Aufgabe des Projektleiters & Projektteams  
+
+--
+
+### Definitionsphase
+
+- Projektleitung & Projektteam kommen ins Spiel
+
+--
+
+- Projektauftrag erarbeitet und am Ende der Phase genehmigt
+
+--
+
+- Stakeholdermanagement
+
+--
+
+- Festlegung der Rollen & Verantwortlichkeiten im Team  
+
+--
+
+### Planungsphase
+
+- Projektplan (und Projektmanagementplan) erstellen
+
+--
+
+- Projektplan (Baseline)
+  - Basispläne für die Durchführung des Projekts
+
+--
+
+  - Inhalte, Qualität, Termine, Kosten, Ressourcen und Risiken
+
+--
+
+- Projektmanagementplan:
+  - Frage der Gestaltung des Planungsprozesses
+
+???
+- bei kleinen Projekten im Projektplan enthalten
+- ist Dokument, worin festgelegt wird, wie Projekt durchgeführt, überwacht, gesteuert wird
+
+---
+
+## In Etappen zum Erfolg mit Phasen und Meilensteine
+### Umsetzungsphase
+
+- Steuerungsaktivitäten &rightarrow; Projekt auf Kurs halten:
+  - Arbeit voranbringen, steuern
+
+--
+
+  - ermitteln, welcher Arbeitsfortschritt erreicht wurde
+
+--
+
+  - Tests durchführen
+
+--
+
+  - Ergebnisse prüfen
+
+--
+
+  - Pläne anpassen
+
+--
+
+
+- Ziel: Produkt fertigstellen
+
+--
+
+## Abschlussphase
+
+- Bewertung des Projekts und der Leistung:
+
+--
+
+  - Reflexion
+  - Abschlussdokumentation
+  - Lessons Learnt
+  - Archivierung der Ergebnisse
+  - etc.
