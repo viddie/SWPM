@@ -9,28 +9,28 @@
 ---
 ## Projekte und ihre Rolle im Produktlebenszyklus
 
-- komplexe Projekte wie *Mondlandung 1969* nur dank PM möglich
+* komplexe Projekte wie *Mondlandung 1969* nur dank PM möglich  
 
 --
-- allgegenwärtig & sehr verschieden  
+* allgegenwärtig & sehr verschieden  
 
 --
-- Projekt (nach DIN): Vorhaben, einmalig durch:
- - Ziel
- - Zeit
- - Finanzielles
- - Personelles  
+* Projekt (nach DIN): Vorhaben, einmalig durch:
+ * Ziel
+ * Zeit
+ * Finanzielles
+ * Personelles  
 
 --
-- Nach verschiedenen Autoren:
-  - Interdisziplinäre Teamarbeit (Da alle versch. Erfahrung haben)
+* Nach verschiedenen Autoren:
+  * Interdisziplinäre Teamarbeit (Da alle versch. Erfahrung haben)  
 ???
 &rightarrow; Koordination & Arbeitsteilung gefragt
 
 --
-  - Neuartigkeit, fortschreitende Konkretisierung (Zu Beginn Unsicherheit)
+  * Neuartigkeit, fortschreitende Konkretisierung (Zu Beginn Unsicherheit)  
 ???
-- Projekt definieren: wann soll PM-Methodik genutzt werden? (je nach Organisation speziell)
+* Projekt definieren: wann soll PM-Methodik genutzt werden? (je nach Organisation speziell)
 
 ---
 ## Projekte und ihre Rolle im Produktlebenszyklus
@@ -91,9 +91,10 @@ wie z.B. Wartungsbedarf
   - auf Projektdauer & Nutzung der Projektergebnisse (im Product Life Cycle) achten
 
 --
-  - wenn gewollt auch Nachhaltigkeit einbeziehen  
+  - wenn gewollt auch Nachhaltigkeit einbeziehen
 
 --
+
 > "Je weiter die Planung in die Zukunft reicht, desto komplexer und risikoreicher wird das Projekt."
 
 ---
@@ -102,8 +103,8 @@ wie z.B. Wartungsbedarf
   - Abwicklungserfolg: Kosten, Termine, Leistung (= technischer Erfolg)
 
 --
-  - Anwendungserfolg: Erfolg des Nutzers beim Nutzen
-  &rightarrow; Projekt kann erfolgreich durchgeführt sein, aber auf Markt nicht ankommen
+  - Anwendungserfolg: Erfolg des Nutzers beim Nutzen  
+    &rightarrow; Projekt kann erfolgreich durchgeführt sein, aber auf Markt nicht ankommen
 
 ---
 ## Mit dem magischen Zieldreieck zum Projekterfolg
@@ -111,13 +112,13 @@ wie z.B. Wartungsbedarf
 - Kunde & Nutzer nicht immer identisch
 
 --
-  - Kunde kann Organisation oder einzelne Person sein, Beispiele:
+- Kunde kann Organisation oder einzelne Person sein, Beispiele:
 
 --
-    - Verbraucher
-    - Endanwender
-    - Einzelhändler
-    - Käufer
+  - Verbraucher
+  - Endanwender
+  - Einzelhändler
+  - Käufer
 
 --
 - Nicht nur Kunde, Alle (auch Stakeholder) sollen zufrieden sein
@@ -130,10 +131,10 @@ wie z.B. Wartungsbedarf
 
 ---
 ## Projekte und ihre Rolle im Produktlebenszyklus
-- Projekteffizienz: max. Output bei min. Input
+- Projekteffizienz: max. Output bei min. Input  
 
 --
-  &rightarrow; Projekt mit möglichst geringem Aufwand in möglichst kurzer Zeit umsetzen
+  &rightarrow; Umsetzung mit möglichst geringem Aufwand in möglichst kurzer Zeit  
 
 --
 - Projekteffektivität: iteratives Bewerten des Anwendungserfolgs während das Projekt läuft
