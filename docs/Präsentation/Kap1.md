@@ -365,7 +365,7 @@ Meilensteine:
 
 --
 
-- am Ende der Phase Ergebnis, ob Idee weiterverfolgt werden soll
+- Ergebnis: ob Idee weiterverfolgt werden soll
 
 --
 
@@ -389,8 +389,9 @@ Meilensteine:
 
 - Festlegung der Rollen & Verantwortlichkeiten im Team  
 
---
+---
 
+## In Etappen zum Erfolg mit Phasen und Meilensteine
 ### Planungsphase
 
 - Projektplan (und Projektmanagementplan) erstellen
@@ -413,13 +414,15 @@ Meilensteine:
 - bei kleinen Projekten im Projektplan enthalten
 - ist Dokument, worin festgelegt wird, wie Projekt durchgeführt, überwacht, gesteuert wird
 
----
+--
 
-## In Etappen zum Erfolg mit Phasen und Meilensteine
 ### Umsetzungsphase
 
 - Steuerungsaktivitäten &rightarrow; Projekt auf Kurs halten:
   - Arbeit voranbringen, steuern
+
+???
+- Ziel: Produkt fertigstellen
 
 --
 
@@ -437,13 +440,9 @@ Meilensteine:
 
   - Pläne anpassen
 
---
+---
 
-
-- Ziel: Produkt fertigstellen
-
---
-
+## In Etappen zum Erfolg mit Phasen und Meilensteine
 ## Abschlussphase
 
 - Bewertung des Projekts und der Leistung:
