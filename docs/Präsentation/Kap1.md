@@ -19,7 +19,8 @@
 
 - allgegenwärtig & sehr verschieden  
 
--- count: false
+--
+count: false
 
 - Projekt (nach DIN): Vorhaben, einmalig durch:
   - Ziel
@@ -476,7 +477,7 @@ Meilensteine:
 
 --
 
-## Top-down & Bottum-up
+### Top-down & Bottum-up
 
 > "Kostenschätzungen, die im Zuge der Top-down Planung entstehen, sind noch sehr ungenau und die Bottom-up-Schätzungen übersteigen häufig den ursprünglichen Kostenrahmen."
 
@@ -617,7 +618,7 @@ Folgende Aufgaben bzw. Prozesse sind in den Projektphasen zielführend:
 
 --
 
-  - je genauere Gliederungen, desto genauere Schätzungen
+  - je genauere Gliederungen, desto genauere Schätzungen  
   &rightarrow; dafür mehr Schnittstellen
   
 ???
@@ -635,6 +636,7 @@ Folgende Aufgaben bzw. Prozesse sind in den Projektphasen zielführend:
 - wichtig für Projekt, Produkt & Qualität
 
 --
+
   - Team beantwortet Fragen wie "Gibt es doppelte Arbeit?"
 
 ???
@@ -682,7 +684,14 @@ Folgende Aufgaben bzw. Prozesse sind in den Projektphasen zielführend:
 | Traditionell                                                 | Agil                                                         |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | umfangreich planen => Erfolg                                 | kleinere Planungsphasen, dann Umsetzungsphasen (jeweils mehrfach wiederholen) |
-| Projekt in Phasen & Arbeitspakte teilen, um Komplexität zu reduzieren | Flexibilität, auf Kundenwünsche reagieren                    |
+|                                                              |                                                              |
+| Projekt in Phasen & Arbeitspakte teilen, um Komplexität zu reduzieren | Flexibilität, auf Kundenwünsche reagieren            
+|                                                              |                                                              |        |
 | Schritt für Schritt (manchmal auch parallel)                 | kommt aus SW-Entwicklung                                     |
+|                                                              |                                                              |
 | muss immer an Situation angepasst werden                     |                                                              |
+|                                                              |                                                              |
 | kann nicht komplette Projektrealität erfassen                |                                                              |
+
+???
+- können auch vermischt werden
