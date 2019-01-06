@@ -96,3 +96,106 @@ Beispiel Regierung Gesetze
 
  * Auf Wunsch des Stakeholders
 
+---
+## Projektfortschritt messen
+
+--
+
+* Soll-Ist Vergleich
+
+-- 
+
+ * Eckpunkte des Projektzieldreiecks zum Stichtag
+
+--
+
+  * Termine:
+
+--
+
+   * geplante Termine <-> erreichte Termine
+
+--
+
+  * Kosten:
+
+--
+
+   * Sollkosten <-> Istkosten bzw. Fertigstellungsgrad
+
+--
+
+  * Leistung:
+
+--
+
+   * geplante Leistungen <-> vollbrachte Leistungen
+
+--
+
+* Kosten- und Terminvergleiche sind nicht aussagekräftig
+????????? Hier fehlt eine Lösng
+
+---
+
+## Gründe für Vergleiche und Prognosen
+
+--
+
+* Um zu ermitteln, ob Anforderungen realisiert werden können
+
+--
+
+-> Falls nicht: müssen Maßnahmen eingeleitet werden ?
+
+--
+
+-> Welche Auswirkungen/Konsequenzen haben die Maßnahmen/Abweichungen?
+
+--
+
+* Auftraggeber und Management wollen am laufenden bleiben
+
+---
+
+## Methoden zu Messung des Istzustands
+
+--
+
+* 50-50-Methode:
+
+--
+
+ * Zu Beginn eines Arbeitspakets -> Fertigstellung = 50 %  
+
+ * Arbeitspaket fertig -> Fertigstellungsgrad = 100 %
+
+--
+
+* Meilensteinmethode:
+
+--
+
+ * Das Arbeitspaket wird in mehrere Zwischenergebnisse aufgeteilt
+
+ * Fertigstellungsgrad wird proportional erhöht.
+
+--
+ 
+* Mengenproportionalität:
+
+--
+
+ * Arbeitspaket ist albzählbar
+  
+  -> Fertigstellungsgrad im proportional zur abgearbeiteten Menge
+
+--
+
+* Sekundärproportionalität:
+
+--
+
+ * Fortschrittsgrad des Arbeitspaketes in Abhängigkeit eines anderen
+
+--- 
