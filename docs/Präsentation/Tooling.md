@@ -1,4 +1,4 @@
-﻿## Tooling
+## Tooling
 
 * Kurzvorstellung
 * GitHub Project
@@ -17,7 +17,7 @@
 
 ???
 * Direkt im GitHub Repo.
-* Bietet Dashboard, mit Issus & Milestones
+* Bietet Dashboard, mit Issues & Milestones
 
 ---
 
@@ -53,15 +53,15 @@
 
 ???
 * Erlaub es Dashbords anzulegen
-* Verwendet Issus (mit Labels + Zuteilung)
+* Verwendet Issues (mit Labels + Zuteilung)
 * Milestone Balken oben-links
 
 ---
-### GitHub Project: Issus
+### GitHub Project: Issues
 ![GHP Bild fehlt](Bilder/Jonas Ahrend/GHPObjektAnlegen.JPG)
 
 ???
-* Issus zum Project Zuteilen 
+* Issues zum Project Zuteilen 
 
 
 ---
@@ -96,12 +96,12 @@
 * Erlaub umfangreichere Dashboads
 * Projektmangement Einbinden (zb Confluence, BitBucket)
 * Sehr unübersichtlich
-* FRAGEN wo man glaubt neue Issus anzulegen.
+* FRAGEN wo man glaubt neue Issues anzulegen.
 * _
-* Umfangreiche Dashboards -> Umfangreichere Issus
+* Umfangreiche Dashboards -> Umfangreichere Issues
 
 ---
-### Jira: Issus
+### Jira: Issues
 
 ![Jira Bild fehlt](Bilder/Jonas Ahrend/JiraObjektAnlegen.JPG)
 
@@ -129,7 +129,7 @@
 ???
 - Lange Einarbeitung
 - Zeitarsparniss durch Filter & Alles auf einer Seite
-- Lohnt sich ab 10/250 Issus
+- Lohnt sich ab 10/250 Issues
 
 
 ---
