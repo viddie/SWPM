@@ -1,5 +1,12 @@
 ## Kap n: Eine Folie sollte immer mit "##" und dem Titel anfangen oder mit genügend Leerzeilen, ansonsten gibt es Probleme mit der Darstellung gibt.
 
+1. ...
+
+2. ...
+
+3. ...
+
+---
 ### n.1 Text Ausrichten
 .left[Links] 
 .right[Rechts] 
