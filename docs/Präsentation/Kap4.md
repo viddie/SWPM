@@ -134,7 +134,7 @@ Beispiel Regierung Gesetze
 --
 
 * Kosten- und Terminvergleiche sind nicht aussagekräftig
-????????? Hier fehlt eine Lösng
+
 
 ---
 
