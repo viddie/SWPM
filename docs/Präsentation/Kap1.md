@@ -16,6 +16,7 @@
 - komplexe Projekte wie *Mondlandung 1969* nur dank PM möglich  
 
 --
+count: false
 
 - allgegenwärtig & sehr verschieden  
 
@@ -29,6 +30,7 @@ count: false
   - Personelles  
 
 --
+count: false
 
 - Nach verschiedenen Autoren:
   - Interdisziplinäre Teamarbeit (Da alle versch. Erfahrung haben)  
@@ -37,6 +39,7 @@ count: false
 &rightarrow; Koordination & Arbeitsteilung gefragt
 
 --
+count: false
 
   - Neuartigkeit, fortschreitende Konkretisierung (Zu Beginn Unsicherheit)  
 
@@ -55,6 +58,7 @@ count: false
 - an Erwartungen und Anliegen der Stakeholder anpassen
 
 --
+count: false
 
   - Ziele definieren & Anforderungen identifizieren
 
@@ -62,6 +66,7 @@ count: false
 - Klare & erreichbare Ziele
 
 --
+count: false
 
   - Termine & Kosten
 
@@ -69,10 +74,12 @@ count: false
 - planen und einhalten
 
 --
+count: false
 
   - Liefergegenstände in geforderten Qualität liefern
 
 --
+count: false
 
   - Das Projekt mit Gewinn abschließen
 
@@ -96,12 +103,14 @@ count: false
   - Entsorgung
 
 --
+count: false
 
 - Project Life Cycle meist nur kleiner Teil des Product Life Cycle
 
   - Wenn Produkt fertig und geliefert &rightarrow; Projekt zuende
 
 --
+count: false
 
 - Wenn Product Life Cycle > Project Life Cycle &rightarrow; zukünftige Entwicklungen und Nutzungsszenarien erahnen
 
@@ -123,10 +132,12 @@ wie z.B. Wartungsbedarf
   - auf Projektdauer & Nutzung der Projektergebnisse (im Product Life Cycle) achten
 
 --
+count: false
 
   - wenn gewollt auch Nachhaltigkeit einbeziehen
 
 --
+count: false
 
 > "Je weiter die Planung in die Zukunft reicht, desto komplexer und risikoreicher wird das Projekt."
 
@@ -139,6 +150,7 @@ wie z.B. Wartungsbedarf
   - Abwicklungserfolg: Kosten, Termine, Leistung (= technischer Erfolg)
 
 --
+count: false
 
   - Anwendungserfolg: Mittel-/langfristige Folgen, Erfolg des Nutzers beim Nutzen  
 
@@ -150,10 +162,12 @@ wie z.B. Wartungsbedarf
 - Kunde & Nutzer nicht immer identisch
 
 --
+count: false
 
 - Kunde kann Organisation oder einzelne Person sein, Beispiele:
 
 --
+count: false
 
   - Verbraucher
   - Endanwender
@@ -161,6 +175,7 @@ wie z.B. Wartungsbedarf
   - Käufer
 
 --
+count: false
 
 - Nicht nur Kunde, Alle (auch Stakeholder) sollen zufrieden sein
 
@@ -181,10 +196,12 @@ wie z.B. Wartungsbedarf
 - Projekteffizienz: max. Output bei min. Input  
 
 --
+count: false
 
   &rightarrow; Umsetzung mit möglichst geringem Aufwand in möglichst kurzer Zeit  
 
 --
+count: false
 
 - Projekteffektivität: iteratives Bewerten des Anwendungserfolgs während das Projekt läuft
 
@@ -193,6 +210,7 @@ wie z.B. Wartungsbedarf
 Z. Bsp.: würde man sich bei einer Produktentwicklung (intern) auf die Projekteffizienz konzentrieren, bei einem Bauauftrag aber auf die Projekteffektivität.
 
 --
+count: false
 
 ### Projektqualität
 
@@ -202,10 +220,12 @@ Z. Bsp.: würde man sich bei einer Produktentwicklung (intern) auf die Projektef
 & Umfassende Qualität: Bewertung der Langfristwirkungen
 
 --
+count: false
 
 - Zufriedenheit aller Stakeholder (subjektiv)
 
 --
+count: false
 
 - Zielerreichung (objektiv)
 
@@ -241,10 +261,12 @@ Z. Bsp.: würde man sich bei einer Produktentwicklung (intern) auf die Projektef
 - machen Bewertung möglich
 
 --
+count: false
 
 - helfen bei Entscheidungen, zeigen den richtigen Weg
 
 --
+count: false
 
 - werden später zu Anforderungen
 
@@ -252,10 +274,12 @@ Z. Bsp.: würde man sich bei einer Produktentwicklung (intern) auf die Projektef
 - die von Leitung und Team definiert, umgesetzt und getestet werden
 
 --
+count: false
 
 - **SMART**-Regeln, die Ziele beschreiben:
 
 --
+count: false
 
   - **S**pezifisch
   - **M**essbar
@@ -312,28 +336,34 @@ Meilensteine und verschiedene Endtermine:
 - Bewältigung des Projekts in Teilstrecken (Phasen)
 
 --
+count: false
 
   - haben Hauptaufgaben
 
   - und Übergabepunkte (Meilensteine)
 
 --
+count: false
 
 - Baseline (Referenzkonfiguration)
 
 --
+count: false
 
   - beschreibt Inhalt, Zustand, Zeitpunkt
 
 --
+count: false
 
   - meist während Meilenstein
 
 --
+count: false
 
   - nicht änderbar, nur einsehen oder wiederherstellen
 
 --
+count: false
 
 - Erst planen, dann realisieren = Makrostrategie
 
@@ -365,28 +395,34 @@ Meilensteine:
 - Business Case nutzen
 
 --
+count: false
 
 - Ergebnis: ob Idee weiterverfolgt werden soll
 
 --
+count: false
 
 - normalerweise nicht primäre Aufgabe des Projektleiters & Projektteams  
 
 --
+count: false
 
 ### Definitionsphase
 
 - Projektleitung & Projektteam kommen ins Spiel
 
 --
+count: false
 
 - Projektauftrag erarbeitet und am Ende der Phase genehmigt
 
 --
+count: false
 
 - Stakeholdermanagement
 
 --
+count: false
 
 - Festlegung der Rollen & Verantwortlichkeiten im Team  
 
@@ -398,15 +434,18 @@ Meilensteine:
 - Projektplan (und Projektmanagementplan) erstellen
 
 --
+count: false
 
 - Projektplan (Baseline)
   - Basispläne für die Durchführung des Projekts
 
 --
+count: false
 
   - Inhalte, Qualität, Termine, Kosten, Ressourcen und Risiken
 
 --
+count: false
 
 - Projektmanagementplan:
   - Frage der Gestaltung des Planungsprozesses
@@ -428,22 +467,27 @@ Meilensteine:
 - Ziel: Produkt fertigstellen
 
 --
+count: false
 
   - ermitteln, welcher Arbeitsfortschritt erreicht wurde
 
 --
+count: false
 
   - Tests durchführen
 
 --
+count: false
 
   - Ergebnisse prüfen
 
 --
+count: false
 
   - Pläne anpassen
 
 --
+count: false
 
 ### Abschlussphase
 
@@ -469,6 +513,7 @@ Meilensteine:
 - nie das Ziel außer Acht lassen und immer wissen, was geliefert werden muss
 
 --
+count: false
 
 - Stand & Erreichtes sollte immer bewusst sein
 
@@ -476,6 +521,7 @@ Meilensteine:
 - deshalb informiert sich Leitung auch mal vor Ort
 
 --
+count: false
 
 ### Top-down & Bottum-up
 
@@ -486,6 +532,7 @@ Meilensteine:
 - Bottum-up ist Gegenteil
 
 --
+count: false
 
 - beide Ergebnisse im *Gegenstromverfahren* vergleichen
 
@@ -503,10 +550,12 @@ Meilensteine:
 - wie z.B. Situationsanalyse und Zielformulierung
 
 --
+count: false
 
 - Iteration = Kreislauf der Schritte
 
 --
+count: false
 
 - Ergebnis eines Schritts gut &rightarrow; gehe zum nächsten  
 
@@ -544,14 +593,18 @@ Folgende Aufgaben bzw. Prozesse sind in den Projektphasen zielführend:
 - zur Überbrückung
 
 --
+count: false
 
 - wichtig, damit System funktioniert (Bsp.: Steckdosen im Ausland)
 
 --
+count: false
 
-- nicht glatt, überlappen sich &rightarrow; schnell Missverständnisse
+- nicht glatt, überlappen sich  
+  &rightarrow; schnell Missverständnisse
 
 --
+count: false
 
 - Vereinbarungen:
   - Regeln für Übergabe von Ergebnissen
@@ -567,6 +620,7 @@ Folgende Aufgaben bzw. Prozesse sind in den Projektphasen zielführend:
 - Auftraggeber & Auftragnehmer
 
 --
+count: false
 
   - Projektleiter ist immer bereit für Fragen des Kunden (Auftraggeber)
   - Leiter steht stellvertretend für Team & Projekt
@@ -575,10 +629,12 @@ Folgende Aufgaben bzw. Prozesse sind in den Projektphasen zielführend:
 - Wenn Kunde Kontakt mit Mitarbeiter aufnehmen will &rightarrow; weiterleiten zu Leiter
 
 --
+count: false
 
 - Projektteam & Fachabteilung
 
 --
+count: false
 
   - unternehmensinterne Auftraggeber-Auftragnehmer-Beziehung  
   &rightarrow; schnell Konflikte
@@ -587,10 +643,12 @@ Folgende Aufgaben bzw. Prozesse sind in den Projektphasen zielführend:
 - Leiter muss besonders aufpassen
 
 --
+count: false
 
 - Projekt & interner Auftraggeber & andere Projekte
 
 --
+count: false
 
   - interne Reviews von Leitung zu Management über Stand
 
@@ -604,19 +662,23 @@ Folgende Aufgaben bzw. Prozesse sind in den Projektphasen zielführend:
 - Projekt & Anwender
 
 --
+count: false
 
   - oft nicht vorhanden, da Team meist Anwender nicht kennt  
   &rightarrow; Anforderungen der Anwender im Lastenheft
   
 --
+count: false
 
   - besser: Team darf direkt Kontakt aufnehmen
 
 --
+count: false
 
 - Projektmanagement & Projektausführung
 
 --
+count: false
 
   - je genauere Gliederungen, desto genauere Schätzungen  
   &rightarrow; dafür mehr Schnittstellen
@@ -625,10 +687,12 @@ Folgende Aufgaben bzw. Prozesse sind in den Projektphasen zielführend:
 - ist Grund, Detailgrad zu beschränken
 
 --
+count: false
 
 - Von Arbeitspaket zu Arbeitspaket
 
 --
+count: false
 
   - alle Projektmitarbeiter beteiligt
 
@@ -636,6 +700,7 @@ Folgende Aufgaben bzw. Prozesse sind in den Projektphasen zielführend:
 - wichtig für Projekt, Produkt & Qualität
 
 --
+count: false
 
   - Team beantwortet Fragen wie "Gibt es doppelte Arbeit?"
 
@@ -649,16 +714,19 @@ Folgende Aufgaben bzw. Prozesse sind in den Projektphasen zielführend:
 - erste richtige Anwundungen von PM erst ab 1950
 
 --
+count: false
 
 - große Entwicklung dank Militär und Raumfahrt
 
 --
+count: false
 
 ### Standards und Zertifizierungen
 
 - Neben DIN auch Fachverbände nur für PM
 
 --
+count: false
 
   - IPMA mit ICB
   - PMI mit PMBOK Guide  
@@ -670,6 +738,7 @@ Folgende Aufgaben bzw. Prozesse sind in den Projektphasen zielführend:
   &rightarrow; Projects In Controlled Environment
 
 --
+count: false
 
   - GPM und ihr Zweckbetrieb PM-Zert
 
@@ -683,15 +752,15 @@ Folgende Aufgaben bzw. Prozesse sind in den Projektphasen zielführend:
 
 | Traditionell                                                 | Agil                                                         |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| umfangreich planen => Erfolg                                 | kleinere Planungsphasen, dann Umsetzungsphasen (jeweils mehrfach wiederholen) |
+| - umfangreich planen => Erfolg                                 | - kleinere Planungsphasen, dann Umsetzungsphasen (jeweils mehrfach wiederholen) |
 |                                                              |                                                              |
-| Projekt in Phasen & Arbeitspakte teilen, um Komplexität zu reduzieren | Flexibilität, auf Kundenwünsche reagieren            
+| - Projekt in Phasen & Arbeitspakte teilen, um Komplexität zu reduzieren | - Flexibilität, auf Kundenwünsche reagieren            
 |                                                              |                                                              |        |
-| Schritt für Schritt (manchmal auch parallel)                 | kommt aus SW-Entwicklung                                     |
+| - Schritt für Schritt (manchmal auch parallel)                 | - kommt aus SW-Entwicklung                                     |
 |                                                              |                                                              |
-| muss immer an Situation angepasst werden                     |                                                              |
+| - muss immer an Situation angepasst werden                     |                                                              |
 |                                                              |                                                              |
-| kann nicht komplette Projektrealität erfassen                |                                                              |
+| - kann nicht komplette Projektrealität erfassen                |                                                              |
 
 ???
 - können auch vermischt werden
