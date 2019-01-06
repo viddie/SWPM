@@ -124,3 +124,12 @@ Präsi Texte | Folien-Texte möglichst nur als Orientierungshilfe der Zuhörer u
 Präsi Kommentare | Ausführlicheres, was man selbst zum Vortragen braucht, als Kommentare oder auf eigene Zettel.
 Präsi Bilder | Bilder in Präsi-Bilder-Ordner, selsbt wenn es bereits im Ausarbeitungs-Bilder-Ordner liegt.
 Online Meeting | Sa/So iwann.
+
+# 5. Online-Meeting 06.01.2019
+
+Punkt | Entscheidung  
+-------- | --------
+Stand | Morgen alle fertig
+Inhalt der 1. eigenen Seite | 1. 2. 3. Übersichtliste der Inhalte
+Überschrifften der Unterpunkt-Seiten | Ohne Nummern 
+Schrifftart | Lies sich doch ändern
