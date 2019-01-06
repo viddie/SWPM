@@ -19,7 +19,7 @@
 
 - allgegenwärtig & sehr verschieden  
 
---
+-- count: false
 
 - Projekt (nach DIN): Vorhaben, einmalig durch:
   - Ziel
@@ -450,6 +450,239 @@ Meilensteine:
 
 ???
 - Reflexion
+
 - Abschlussdokumentation
+
 - Lessons Learnt
+
 - Archivierung der Ergebnisse usw.
+
+---
+
+## Den Überblick behalten
+### Zoom-in & Zoom-out
+
+- aufs Ganze schauen, aber Details nicht vergessen
+
+???
+- nie das Ziel außer Acht lassen und immer wissen, was geliefert werden muss
+
+--
+
+- Stand & Erreichtes sollte immer bewusst sein
+
+???
+- deshalb informiert sich Leitung auch mal vor Ort
+
+--
+
+## Top-down & Bottum-up
+
+> "Kostenschätzungen, die im Zuge der Top-down Planung entstehen, sind noch sehr ungenau und die Bottom-up-Schätzungen übersteigen häufig den ursprünglichen Kostenrahmen."
+
+???
+- Top-down ist Vorgehen vom Groben ins Detail
+- Bottum-up ist Gegenteil
+
+--
+
+- beide Ergebnisse im *Gegenstromverfahren* vergleichen
+
+???
+- verfeinert Ergebnis schrittweise
+
+---
+
+## Den Überblick behalten
+### Loops & Iterationen
+
+- Für Problem(-lösezyklus) regelmäßig wiederkehrende Schritte nutzen
+
+???
+- wie z.B. Situationsanalyse und Zielformulierung
+
+--
+
+- Iteration = Kreislauf der Schritte
+
+--
+
+- Ergebnis eines Schritts gut &rightarrow; gehe zum nächsten  
+
+- Ergebnis nicht gut genug &rightarrow; Kreislauf wiederholen (loop)
+
+???
+- wiederholen bis gut genug oder feststellen, dass Weg nicht vorteilhaft
+
+---
+
+## Den Überblick behalten
+
+![Zoom-in und Zoo-out, Loops und Iterationen, Kernprozesse](Bilder/Christian Krebel/ZoomInUndZoomOutLoopsUndIterationen.png "Zoom-in und Zoo-out, Loops und Iterationen, Kernprozesse")
+
+???
+Folgende Aufgaben bzw. Prozesse sind in den Projektphasen zielführend:
+
+- Initiierungsphase: man setzt sich mit Risiken und Chancen auseinander & holt wichtige Stakeholder.
+- Definitionsphase: Teambildung und Qualitätsmanagement
+- Planungsphase: Ziel: Baseline erstellen. Dabei sind alle Prozesse miteinander verknüpft, werden in alle Richtungen, in Iterationen und Loops, Bottom-up und Top-down ausgeführt. Termin- und Kostenschätzung werden per Bottom-up durchgeführt.
+- Realisierungs-/Durchführungsphase: Änderungen vorgenommen, Berichte geschrieben, Sitzungen gehalten & weitere Risikomaßnahmen
+- Abschlussphase: würdigt Leistung (in Stakeholdermanagement) und fertigt Abschlussdokumentation der Lessons Learnt an.
+
+- Alle Phasen: Die Punkte Stakeholdermanagement, Risiko- und Chancenmanagement, Qualitätsmanagement und Teambildung sind durchgehend auszuführen.
+
+---
+
+## Den Überblick behalten
+### Schnittstellen
+
+- Arbeiten, Methoden und Personen stehen in Beziehung zueinander  
+  &rightarrow; dazwischen Schnittstellen
+
+???
+- zur Überbrückung
+
+--
+
+- wichtig, damit System funktioniert (Bsp.: Steckdosen im Ausland)
+
+--
+
+- nicht glatt, überlappen sich &rightarrow; schnell Missverständnisse
+
+--
+
+- Vereinbarungen:
+  - Regeln für Übergabe von Ergebnissen
+  - Absprache über Aussehen von Ergebnissen
+  - Klärung der Erwartungen
+
+---
+
+## Den Überblick behalten
+
+### Die wichtigsten Schnittstellen
+
+- Auftraggeber & Auftragnehmer
+
+--
+
+  - Projektleiter ist immer bereit für Fragen des Kunden (Auftraggeber)
+  - Leiter steht stellvertretend für Team & Projekt
+
+???
+- Wenn Kunde Kontakt mit Mitarbeiter aufnehmen will &rightarrow; weiterleiten zu Leiter
+
+--
+
+- Projektteam & Fachabteilung
+
+--
+
+  - unternehmensinterne Auftraggeber-Auftragnehmer-Beziehung  
+  &rightarrow; schnell Konflikte
+
+???
+- Leiter muss besonders aufpassen
+
+--
+
+- Projekt & interner Auftraggeber & andere Projekte
+
+--
+
+  - interne Reviews von Leitung zu Management über Stand
+
+???
+- regelmäßig über Leistung, Termine, Kosten, Prognosen
+
+---
+
+## Den Überblick behalten
+
+- Projekt & Anwender
+
+--
+
+  - oft nicht vorhanden, da Team meist Anwender nicht kennt  
+  &rightarrow; Anforderungen der Anwender im Lastenheft
+  
+--
+
+  - besser: Team darf direkt Kontakt aufnehmen
+
+--
+
+- Projektmanagement & Projektausführung
+
+--
+
+  - je genauere Gliederungen, desto genauere Schätzungen
+  &rightarrow; dafür mehr Schnittstellen
+  
+???
+- ist Grund, Detailgrad zu beschränken
+
+--
+
+- Von Arbeitspaket zu Arbeitspaket
+
+--
+
+  - alle Projektmitarbeiter beteiligt
+
+???
+- wichtig für Projekt, Produkt & Qualität
+
+--
+  - Team beantwortet Fragen wie "Gibt es doppelte Arbeit?"
+
+???
+- oder "Welche Schnittstellen gibt es pro Arbeitspaket?" oder "Welche Ergebnisse müssen wann und wohin geliefert werden?"
+
+---
+
+## Projektmanagement boomt
+
+- erste richtige Anwundungen von PM erst ab 1950
+
+--
+
+- große Entwicklung dank Militär und Raumfahrt
+
+--
+
+### Standards und Zertifizierungen
+
+- Neben DIN auch Fachverbände nur für PM
+
+--
+
+  - IPMA mit ICB
+  - PMI mit PMBOK Guide  
+    &rightarrow; PRINCE2 branchenweit und international durchgesetzt
+
+???
+- International Project Management Association
+- Project Management Institute  
+  &rightarrow; Projects In Controlled Environment
+
+--
+
+  - GPM und ihr Zweckbetrieb PM-Zert
+
+???
+- Deutsche Gesellschaft für Projektmanagement e. V.
+- zertifizieren Projektmanagement Kompetenzen
+
+---
+
+## Den Überblick behalten
+
+| Traditionell                                                 | Agil                                                         |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| umfangreich planen => Erfolg                                 | kleinere Planungsphasen, dann Umsetzungsphasen (jeweils mehrfach wiederholen) |
+| Projekt in Phasen & Arbeitspakte teilen, um Komplexität zu reduzieren | Flexibilität, auf Kundenwünsche reagieren                    |
+| Schritt für Schritt (manchmal auch parallel)                 | kommt aus SW-Entwicklung                                     |
+| muss immer an Situation angepasst werden                     |                                                              |
+| kann nicht komplette Projektrealität erfassen                |                                                              |
