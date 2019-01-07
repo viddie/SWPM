@@ -1,4 +1,4 @@
-# IT-Projektmanagement & Projektmanagement
+# Projektmanagement
 
 
 .center[Von:]
