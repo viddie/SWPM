@@ -1,30 +1,174 @@
-﻿## Kap 5: Dein Thema
+﻿## Projekt abschließen
 
-### n.1 Text Ausrichten
-.left[Links] 
-.right[Rechts] 
-.center[Mitte]
-top, middle, bottom geht für Texte nicht
+Abschlussphase
 
-[Markdown Syntax](https://github.com/gnab/remark/wiki/Markdown) 
+--
 
-.footnote[
-	Quellenangabe: Quellen
-]
+- Letzte Phase im Projekt
+
+--
+
+- Produkt ist bereits übergeben
+
+--
+
+- Abschließenden Aufgaben fangen an:
+
+--
+
+  - Beziehungsebene
+  - Sachebene
+
+---
+## Projekt abschließen
+
+Beziehungsebene
+
+--
+
+- Neuorientieren
+
+--
+
+- Bilanzieren
+
+--
+
+- Sich-Besinnen
+
+--
+
+- Erfahrungen austauschen
+
+--
+
+- Abschied nehmen
+
+---
+## Projekt abschließen
+
+Sachebene
+
+--
+
+![Aufgaben auf der Sachebene](Bilder/HannesRueffer/resized_ChecklisteAbschluss.png "Aufgaben auf der Sachebene")
+
+---
+## Projekt abschließen
+
+--
+
+- Projektauswertung
+
+--
+
+- Projektnachkalkulation
+
+--
+
+- Abschlussbericht
+
 ---
 
-### n.2 Bilder
+## Projekt abschließen
 
-.left[![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")]
-.center[![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")]
-.right[![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")]
+Projektauswertung
 
-.left[
-#### Bildergröße
-Bilder sollen eine Höhe von max n haben
-und eine Breite von m haben.
-]
+--
 
-.footnote[
-	Quellenangabe: Quellen
-]
+- Frage: Wurden Ziele erreicht?
+
+???
+- Beziehungseben und Sacheben einbeziehen
+
+--
+
+- Sachebene: Kosten, Zeit, Leistungsumfang, Qualität &rightarrow; eingehalten?
+
+--
+
+- Beziehungseben: Meinungen wichtiger Stakeholder einholen
+
+---
+## Projekt abschließen
+
+Projektnachkalkulation
+
+???
+- Beurteilung der Wirtschaftlichkeit des Projekts
+- wertvolle Erfahrungen und Informationen für zukünftige Projekte
+
+--
+
+- Budget
+
+--
+
+- Mehrleistung
+
+--
+
+- Minderleistungen
+
+--
+
+- Revidiertes Budget
+
+--
+
+- Ist-Kosten
+
+--
+
+- Abweichung
+
+--
+
+- Begründung
+
+---
+## Projekt abschließen
+
+Abschlussbericht
+
+???
+- Alle Informationen die Erfolgschancen zukünfitger Projekte steigern könnten
+
+--
+
+- Erweiterung o. Neuanlegung von Checklisten
+
+--
+
+- Identifizieren neuer Risiken o. Stakeholder
+
+--
+
+
+- Anpassungen von Standardphasenplänen, -strukturplänen, -berichten, -formaten
+
+--
+
+
+- Verbesserungen der Qualitätsziele
+
+---
+## Projekt abschließen
+
+Die Zukunft
+
+--
+
+- Einpflege der Änderungen
+
+--
+
+&rightarrow; Projektmanagementoffice
+
+???
+- sorgfältig erfüllt: Zukunft gesichert
+- Iterative Verbesserung
+
+--
+
+- Systematische Verbesserung von Projektmanagement selbst

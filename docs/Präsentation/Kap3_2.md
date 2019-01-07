@@ -637,6 +637,7 @@ Expertenschätzung durch Schätzklausur
 --
 
 - Teilnehmer:
+
   - Projektleitung
   - Arbeitspaketverantwortliche
   - (externe Spezialisten)
@@ -659,6 +660,7 @@ Expertenschätzung durch Schätzklausur
 Expertenschätzung durch Schätzklausur
 
 - Durchführung:
+
   - Begrüßung
   - Arbeitspaketverantwortliche stellen Arbeitspaket vor
   - Teilnehmer schätzen Zeitaufwand individuell
