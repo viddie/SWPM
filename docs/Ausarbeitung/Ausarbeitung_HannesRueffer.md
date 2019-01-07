@@ -22,7 +22,7 @@ Die Produktqualität wird also im Verlauf des Projekts aufgebaut, angefangen mit
 Das Qualitätsmanagement jedes Projektes übernimmt entweder der Qualitätsbeauftragte oder das Qualitätshandbuch.  
 Jedes Unternehmen, das schon Erfahrung mit Projekten hat, wird ein Qualitätshandbuch haben, in welchem alle Qualitätsziele definiert sind. Ist es jedoch das oder eines der ersten Projekte eines Unternehmens kann es auch sein, dass noch kein Qualitätshandbuch vorhanden ist. In dem Fall muss ein Qualitätsbeauftragter festgelegt werden, der die Qualitätsziele definiert.
 Durch die Qualitätsziele wird eindeutig:
-- Wie soll im Porjekt gearbeitet werden?
+- Wie soll im Projekt gearbeitet werden?
 - Welche Prioritäten werden gesetzt?
 - An welchen Kriterien wird Qualität gemessen?
 
