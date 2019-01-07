@@ -82,4 +82,12 @@
 ||
 26.12.18 | 0:40 h | GitHub Pflege & Kommunikation
 ||
-Summe |  61:40 h  | 
+03.01.2019 | 1:00 h | Online-Meetings
+03.01.2019 | 1:00 h | Präsi Vorlage
+03.01.2019 | 0:30 h | Meeting Nachbereitung
+||
+05.01.2019 | 8:00 h | Präsi machen
+||
+06.01.2019 | 1:00 h | Online-Meeting
+||
+Summe |  73:10 h  | 

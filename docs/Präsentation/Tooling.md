@@ -1,9 +1,9 @@
-## Tooling
+﻿## Tooling
 
-* Kurzvorstellung
-* GitHub Project
-* Jira
-* Zeit Vergleich
+1. Kurzvorstellung
+2. GitHub Project
+3. Jira
+4. Zeit Vergleich
 
 ???
 * GitHub Project & Jira Vortellen
