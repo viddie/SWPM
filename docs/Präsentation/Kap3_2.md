@@ -773,8 +773,7 @@ Plankosten
   - Unteraufträge
   - Beratungskosten
   - Lizenzkosten
-  - Mieten
-  - Reisekosten
+  - Mieten/Reisekosten
 
 --
 
@@ -785,8 +784,7 @@ Plankosten
 - Kapitalkosten:
   - Abschreibungen
   - Wagniszuschläge
-  - Steuern
-  - Kalkulatorische Zinsen
+  - Steuern/Zinsen
 
 ---
 ## Aufwand schätzen und Kosten kalkulieren
