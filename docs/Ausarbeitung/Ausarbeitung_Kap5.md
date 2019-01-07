@@ -1,43 +1,53 @@
-## AusarbeitungsThema1 
-  
-### Unterthema1
+﻿## Projekt abschließen
 
-Einen Zeilenumbruch erzeugt man, indem man am Ende einer Zeile zwei Leerzeichen dranhängt.  
-Überschriften H1 - H6 mit # bis ######.  
-Für BilderPfade sind keine Leerzeichen im Pfad erlaubt.  
-Kleiner Fließtext als Beispiel für Inhalt der Ausarbeitung. [[1]](#quelle1)  
-- einfache Aufzahlung
-  - Aufzählung verschachtelung (Tabulator ist hier notwendig)
-  
+Die Abschlussphase eines Projektes stellt die letzte Phase dar. In dieser Phase ist das Produkt bereits ausgeliefert und geht in die Nutzungsphase über, während die letzten, abschließenden Aufgaben erledigt werden. Die Aktivität der Teammitgleider sinkt, da Aufgaben auf der Beziehungsebene im Vordergrund stehen:
+- Neuorientieren
+- Bilanzieren
+- Sich-Besinnen
+- Erfahrungen austauschen
+- Abschied nehmen
 
-Beispiel für Text in **Fettschrift**.  
-Beispiel für Text in *Kursivschrift*.  
-Nummerierte Listen
-1. Pre
-2. Start
-3. Lauf
-4. Ende
-5. Post
-  
-  
+Aufgrund dessen ist es von Vorteil, Aufgaben der Beziehungsebene von Aufgaben auf der Sachebene zu trennen. Um die Abarbeitung der Aufgaben der Sachebene so einfach wie möglich zu gestalten, nutzt man eine Checkliste an Fragen:
 
-![HierVerlinkenWirDochMalEinBild](Bilder_Beispiel/bsp.jpg)
+![Checkliste mit abschließenden Aufgaben](Bilder/HannesRueffer/ChecklisteAbschluss.png)
 
+#### Abschließende Aktivitäten planen
 
-Fall wir noch eine Tabelle in unserer Ausarbeitung brauchen.  
-  
-Spalte 1 | Spalte 2 | Spalte 3
--------- | -------- | --------
-Inhalt   | Inhalt   | Inhalt
-Inhalt   | Inhalt   | Inhalt
-  
-  
-> Blockzitate müssen mit einer Leerzeile beginnen und enden
+Sind diese Aufgaben zufriedenstellend erfüllt, beginnen die restlichen abschließenden Aufgaben:
+- Planung, Vorbereitung und Durchführung von Projektabschlusssitzungen mit dem Kernteam. Dabei wird unterschieden:
+  - Eine Sitzung zur Würdigung der Arbeit
+  - Ein Workshop zur Auswertung der Erfahrungen
+- Nachkalkulation und Analyse der Projektkosten
+- Systematische Archivierung sämtlicher Projektdokumente
+- Bewertung des Projekts und ggf. auch der Projektmitarbeiter
+- Erfassung, Auswertung und Dokumentation der gesammelten Erfahrungen
+- Formale Auflösung der Projektorganisation
+- Auflösung des Projektbüros
+- Informationen bezüglich des Projektabschlusses an den Kunden, interne Auftraggeber und das Team weiterleiten
+- Dank an alle Projektmitgleider aussprechen, möglichst persönlich.
 
-> Jede Zeile des Zitats beginnt mit einer rechten spitzen Klammer und einem Leerzeichen  
-  
-  
-  
-  
-## Quellen
-#### Quelle1 aus Buch A Seite B von Zeile C bis D <a name="quelle1"></a>
+#### Projektauswertung und Abschlussbericht
+
+**Projektauswertung**  
+Das Ziel der Projektauswertung ist es, zu bestimmen, inwiefern die angestrebten Projektziele erreicht wurden. Zur Beurteilung werden Daten sowohl von der Beziehungsebene als auch von der Sachebene:
+- Beziehungsebene: Wichtige Stakeholder teilen Ihre Meinungen mit, z. B. durch Fragebögen.
+- Sachebene: Es wird ermittelt, ob Kosten, Zeit, Leistungsumfang und Qualität so eingehalten wurden, wie es die Projektziele vorausgesetzt haben.
+
+Die Projektnachkalkulation dient der Beurteilung der Wirtschaftlichkeit des Projekts und bietet wertvolle Erfahrungen und Informationen für zukünftige Projekte. Aspekte, die bei der Projektnachkalkulation beachtet werden sollten, sind:
+- Kostenplan (Budget)
+- Mehrleistung
+- Minderleistung
+- Revidiertes Budget
+- Istkosten
+- Abweichung
+- Begründung
+
+**Abschlussbericht**  
+In dem Abschlussbericht werden alle wichtigen Informationen, die zum Erfolg zukünftiger Projekte beisteuern könnten, zusammengefasst und aufgeschrieben. Enhalten sein können Ergebnisse wie:
+- Erweiterte oder neue Checklisten zur Identifizierung von Risiken oder zur Identifikation von Stakeholdern.
+- Vorschläge zu Anpassungen von Standardphasenplänen, -strukturplänen, -berichten und -formaten.
+- Vorschläge für neue oder verbesserte Qualitätsziele
+
+#### Die Zukunft
+Damit die zusammengetragenen Verbesserungsvorschläge in kommenden Projekten übernommen werden, muss es einen Verantwortlichen geben, der sich um die Einpflegung dieser kümmert. In Unternehmen gibt es dafür das Projektmanagementoffice.
+Wird diese Aufgabe sorgfältig erfüllt, ist systematisch gesichert, dass jedes kommende Projekt iterativ das Projektmanagement selber verbessert.

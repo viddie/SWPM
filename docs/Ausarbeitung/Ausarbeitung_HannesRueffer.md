@@ -48,14 +48,14 @@ Neben der objektiven Bewertung, ob die Ziele erreicht wurden, werden auch die su
 In jedem Projekt muss zu Beginn der Ablauf geplant werden, das heißt, dass sich Gedanken darüber gemacht wird, was in welcher Reihenfolge erledigt werden muss. Dabei muss aber zwischen mehreren Arten von Terminplänen unterschieden werden:
 - Meilensteinplan, auch genannt Vertragsterminplan
 - Masterteminplan
-- Terminpläne für externe und interne Lieferanten
+- Terminpläne für externe und interne Lieferanten.
 
 #### Der Meilensteinplan
 Der Meilensteinplan wird in Kooperation mit dem Kunden aufgestellt und umfasst die wichtigsten Meilensteine aus der Sicht des Kunden. Diese Meilensteine sind generell:
 - Kick-off-Veranstaltung
 - Wichtige Projektphasen wie Entwicklung oder Durchführung
 - Termine für Reviews und Übergabe der Liefergegenstände
-- Ende des Projekts
+- Ende des Projekts.
 
 Desweiteren kann der Meilensteinplan wichtige kundenbezogene, technische oder finanzielle Meilensteine enthalten, z.B. wann der Kunde wie viel Prozent des Gesamtpreises bezahlt oder Termine für Überprüfungen, angestrebte Genehmigungen, Probeläufe, Abnahme und Übergabe.  
 Ist der Meilensteinplan erst einmal vereinbart, ist eine Änderung nur unter Bestätigung des Kunden möglich.

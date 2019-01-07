@@ -36,7 +36,7 @@ Zur besseren Übersicht kann man einen Filter verwenden, der per Texteingabe fun
 - Nicht an weitere Webseite / Dienst gebunden
 
 
-### Jira (Atlassian)
+### Jira
 Jira bietet mehrere Tools für das Projektmanagement und erlaubt es weitere Programme von Atlassian einzubinden.
 Der Fokus liegt hierbei jedoch nicht auf der Software Entwicklung, sondern bietet Funktionen für ein breites Spektrum (z.B. Vorlagen für Personalbeschaffung).  
 An Dashboard kann man 2 Typen erstellen (Kanab & Scrum), die auch über eigene Funktionen verfügen.
@@ -93,7 +93,7 @@ Geht man nun davon aus, dass Issus jeweils 2x verschoben werden, kommt man auf 9
 Wenn man nun noch den Anlege-Aufwand mitbedenkt, lohnt es sich ab ***250 Issus*** Jira zu verwenden. Fällt die Einarbeitungszeit weg, sind es nur noch 10 Issus.  
 
 ![Vergleichs Diagramm Bild](Bilder/JonasAhrend/VergleichsDiagramm.JPG)  
-Erstellt mithilfe von [desmos](www.desmos.com).
+Erstellt mithilfe von [desmos](https://www.desmos.com).
 
 
 

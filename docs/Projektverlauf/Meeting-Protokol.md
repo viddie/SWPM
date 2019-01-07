@@ -1,4 +1,4 @@
-# 1. Meeting 16.10.2018
+﻿# 1. Meeting 16.10.2018
 
 Punkt | Entscheidung 
 -------- | -------- 
@@ -87,3 +87,49 @@ Kapitel 4 | Übernimmt Simon
 Kapitel 5 | Übernimmt Hannes
 Ergänzungen aus IT-Projektmanagement |  Simon sagt allen Anderen wo die signifikanten stellen in IT-Projektmanagement sind und jeder fügt die Ergänzungen selbst ein
 Stand der Ausarbeitung | Keiner ist wie geplanten fertig, bis 10.12.18 wollen/sollen alle fertig sein.
+
+# 8. Meeting 11.12.2018
+
+Punkt | Entscheidung  
+-------- | --------  
+Stand | Die meisten brauchen noch einen Tag
+Reihnfolge |  Kap 3 1/2 und 2/2 in eine Datei packen
+Online Termin |  14.12.2018
+
+
+# 3. Online-Meeting 14.12.2018
+
+Punkt | Entscheidung  
+-------- | --------  
+Zusammenfügen | Links auf andere Kapitel
+
+
+# 9. Meeting 18.12.2018
+
+Punkt | Entscheidung  
+-------- | --------  
+Stand | Bis auf Hannes fehelndes Bild, Augenscheinlich nichts zu beanstanden
+Klausur |  Wird über eine vom Dozent erstelltes Zusammenfassung gehen, auf Grundlage aller Ausarbeitungen.
+Ausarbeitung Archivieren | Neues Repo erstellen und dieses Archivieren
+Nächstes Online-Meeting | 03.01.19 um 14:00
+Nächster SU |  07.01.19 um 12:30
+
+# 4. Online-Meeting 03.01.2019
+
+Punkt | Entscheidung  
+-------- | --------  
+Präsi Vorlage | Allgemeine Vorlage & Vorlage für Punkte hinzufügen auf selber Seite.
+Präsi Länge | Eigener Teile nicht länger als 25 Seiten.
+Präsi Texte | Folien-Texte möglichst nur als Orientierungshilfe der Zuhörer und möglichst kurz.
+Präsi Kommentare | Ausführlicheres, was man selbst zum Vortragen braucht, als Kommentare oder auf eigene Zettel.
+Präsi Bilder | Bilder in Präsi-Bilder-Ordner, selsbt wenn es bereits im Ausarbeitungs-Bilder-Ordner liegt.
+Online Meeting | Sa/So iwann.
+
+# 5. Online-Meeting 06.01.2019
+
+Punkt | Entscheidung  
+-------- | --------
+Stand | Morgen alle fertig
+Inhalt der 1. eigenen Seite | 1. 2. 3. Übersichtliste der Inhalte
+Überschrifften der Unterpunkt-Seiten | Ohne Nummern 
+Schrifftart | Lies sich doch ändern

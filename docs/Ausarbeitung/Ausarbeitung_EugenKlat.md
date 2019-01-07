@@ -9,15 +9,16 @@ die detaillierte Beschreibung des Projekts, Festlegung der Termine, grobe Einsch
 des Aufwandes. Als nächster Punkt muss das Projektumfeld geklärt werden, indem Teammitglieder  
 und die Stakeholder identifiziert, analysiert und angemessen in das Projekt eingebunden werden.  
 Rollen und Verantwortlichkeiten müssen geklärt und bestimmt werden, weil die Teammitglieder  
-sich einer neuen Aufgabe stellen, für die es bislang keine Verantwortungsbereiche gibt.
+sich einer neuen Aufgabe stellen, für die es bislang keine Verantwortungsbereiche gibt.  
+(H. Meyer, H.-J. Reher, Projektmanagement, 2016, S. 41)
 
 ### Der Projektauftrag
 
 **Was ist ein Projektauftrag – Project Charter?**
-> **Projektauftrag – Project Charter** „Ein Dokument, das vom Initiator oder Sponsor des
-Projekts herausgegeben wird, der die Existenz eines Projekts formell genehmigt, und das
-den Projektmanager berechtigt, Ressourcen der Organisation für Projektvorgänge einzusetzen“
-(PMI 2013b, S. 549).
+> **Projektauftrag – Project Charter** Die Aufgaben eines Projektauftrages sind, die Arbeiten  
+im Projekt zu autorisieren und sicherstelle, dass der Auftraggeber die Projekte steuern kann.  
+Die Grundlage der Projektdurchführung sollte klar und deutlich definiert werden, denn das  
+sorgt für Reibungsloses arbeiten der Projektbeteiligte.
 
 **Welche Aufgabe hat ein interner Projektauftrag?**
 Der interne Projektauftrag hält die wichtigen Eckdaten zum Projekt schriftlich fest und
@@ -33,8 +34,7 @@ Ausführung von Arbeitsleistungen des Auftragnehmers interessiert ist und dafür
 Ressourcen für das Projekt freigibt.
 
 **Wie entsteht der interne Projektauftrag?**
-Ausgangspunkt für den internen Projektauftrag ist die Projektbegründung, auch Business
-Case genannt. (H. Meyer, H.-J. Reher, Projektmanagement, 2016, S. 43)
+Mit der Gründung eines **Business Cases** entsteht der interne Projektauftrag. 
 
 > **Business Case** Ist die Darstellung und Abwägung der rechenbaren Aspekte einer  
 Investition. In einem Business Case werden die Kosten für ein Projekt und die mit seinen  
@@ -84,11 +84,10 @@ wie auch die Projektleitung und erste Teammitglieder. Wichtige Stakeholder, die 
 einzubinden sind, ggf. in einem Lenkungsausschuss als übergeordnetes Entscheidungsgremium,
 sollten ebenfalls bestimmt werden. (H. Meyer, H.-J. Reher, Projektmanagement, 2016, S. 45)
 
-In den vergangenen Jahren entwickelten die Autoren ein Muster für einen Projektauftrag
-(Projektcharter), das sich in der praktischen Anwendung bewährte. Im Sinne einer
-generellen Übereinkunft erleichtert diese Form, die auf das Wesentliche konzentrierten
-Informationen strukturiert zu dokumentieren (vgl. Abb. 2.1 und 2.2).  
-(H. Meyer, H.-J. Reher, Projektmanagement, 2016, S. 45)
+Im Laufe der Zeit entwickelt sich ein Muster als Mßstab, für einen einheitlichen, gut  
+strukturierten Projektauftrag, bekannt auch als Projektcharter, der sich in der Praxis bewehrte.  
+Dieses Muster ermöglicht einem, die Daten auf einer einheitlichen, informativen und lückenlosen  
+Form zu dokumentieren. (Siehe Abbl 2.1 und 2.2)  
 
 ![Muster_Projektcharter Abb.2.1](Bilder/EugenKlat/Abb.2.1_Muster_Projektcharter.png)
 
@@ -100,51 +99,38 @@ Projektsteuerung. Der Projektleiter berichtet an den Lenkungsausschuss. Außerde
 sich die Beteiligten mit auftretenden Probleme, z.B. Planabweichungen, in den  
 Lenkungsausschuss- und Meilenstein-Sitzungen.
 
-**Wann sollte der Projektauftrag verabschiedet werden?**
-Der Projektauftrag sollte idealerweise am Ende der Definitionsphase beschlossen werden.  
-Das Ergebnis wird eingefroren, kann jedoch bei Bedarf geändert werden, aber nur nachdem  
-die Änderungen über einen definierten Prozess freigegeben wurden.
-
 **Grenzen des Projekts** Mit dem Begriff Grenze soll geklärt werden, welche Aufgaben der  
 Auftraggeber erledigen muss und welche Voraussetzungen und Rahmenbedingungen vorliegen  
 müssen, damit die Projektarbeit beginnen kann und welche Aufgaben nicht der Gegenstand  
 der Projektarbeit sind.
+
+**Wann sollte der Projektauftrag verabschiedet werden?**
+Der Projektauftrag sollte idealerweise am Ende der Definitionsphase beschlossen werden.  
+Das Ergebnis wird eingefroren, kann jedoch bei Bedarf geändert werden, aber nur nachdem  
+die Änderungen über einen definierten Prozess freigegeben wurden.
 
 
 ### Stakeholdermanagement
 
 In der Definitionsphase des Projekts müssen Projektumfeld und Kooperationskontext geklärt
 werden. Im Zentrum dieser Frage stehen die sozialen Einflussfaktoren, die Stakeholder
-des Projekts.
+des Projekts. (H. Meyer, H.-J. Reher, Projektmanagement, 2016, S. 58)
 
-**Was ist Stakeholdermanagement?**  
-Stakeholdermanagement befasst sich mit den am Projekt interessierten Personen. Wer sind  
-mögliche Unterstützer, Betroffene, Interessierte oder mögliche Gegner? Was bewegt sie,  
-wie sollen sie eingebunden werden? Diese und andere Fragen gilt es zu lösen. Wer hat  
-nicht schon von aufgebrachten Anwohnern, frustrierten Mitarbeitern, kooperationsunwilligen 
-Linienvorgesetzen oder schwierigen Kunden in Zusammenhang mit Projekten gehört? Je nach Projekt
-wird das Management der Stakeholder verschiedene Dimensionen einnehmen. Fest steht
-jedoch, dass es für den Erfolg des Projekts wichtig ist, sich dieser Aufgabe bereits in frühen
-Projektphasen zu widmen. (H. Meyer, H.-J. Reher, Projektmanagement, 2016, S. 58)
-
-> **Stakeholder – Projektbeteiligte, Interessierte Parteien** Gesamtheit alle Projektteilnehmer, 
--betroffenen und -interessierten, deren Interessen durch den Verlauf oder das Ergebnis des  
-Projekts direkt oder indirekt berührt sind.
-
-> **Stakeholdermanagement**  Stakeholdermanagement hat die Aufgabe die Stakeholder zu identifizieren, 
-analysieren und Entwicklung der Strategien und deren Umsetzung.
+**Was sind Stakeholder?**  
+Stakeholder sind Interessensgruppen/ -personen, die am Projekt direkt oder indirekt teilnehmen.  
 
 **Warum ist Stakeholdermanagement erforderlich?**  
-Durch das Einbeziehen der Stakeholder soll die Wahrscheinlichkeit des Projekterfolgs erhöht werden.  
-Deshalb kann es sinnvoll sein, die Projekterfolgskriterien gemeinsam mit den Stakeholdern  
-zu definieren. Die Schwierigkeit besteht darin, zu entscheiden, welche Stakeholder wie  
-berücksichtigt und eingebunden werden.  
-Stakeholder liefern wichtige Informationen:
+Um die Wahrscheinlichkeit des Projekterfolgs zu erhöhen, müssen alle Interessensgruppen/  
+-personen identifiziert, analysiert, kategorisiert werden. Besteht die Notwendigkeit der
+Einbindung der Stakeholder, werden Strategien für den jeweilige Stakeholder entwickelt  
+und gewisse Maßnahmen eingeleitet.
+ 
+Stakeholder können wichtige Informationsquellen sein:
 - für die Definition der Ziele
 - für die Anforderungsanalyse
 - für die Risikomanagement.
 
-Die fünf Kategorisierungsstufen der Stakeholder:
+Die Stakeholder werden in fünf Kategorien eingestuft und stehen unter ständiger Überwachung.
 - **Förderer**, die sich für das Projekt engagieren. Sie sind Befürworter des Projekts und
 leisten einen wichtigen Beitrag zum Projekt, indem sie Ressourcen liefern und dabei
 helfen, Anforderungen zu definieren.
@@ -166,36 +152,101 @@ dem Projekt einzunehmen. Deswegen ist es wichtig für jeden Stakeholder folgende
 - Einbeziehen, d. h. in den Projektablauf integrieren.
 - Zu einer positiven Verpflichtung (Commitment) gegenüber dem Projekt bewegen.
 
-Stakeholdermanagement umfasst grundsätzlich die Schritte Planen, Umsetzen, Kontrollieren
-und Anpassen. Bezogen auf die Stakeholder bedeutet dies:
-− Stakeholderanalyse
-  − Stakeholder, identifizieren, d. h. wahrnehmen und verstehen.
-  − Stakeholder bewerten.
-− Strategien und Maßnahmen entwickeln, auswählen und umsetzen.
-− Beobachten, in Kontakt bleiben und Stakeholdermanagement verstetigen und anpassen.
+**Wie können die Stakeholder identifiziert werden?**  
+Die Stakeholder können aufgrund der früheren Erfahrungswerte der Projektbeteiligten, sowie Gespräche  
+mit dem Auftraggeber, identifiziert werden. Am Besten hilft dabei die Tabelle 2.3 bei der  
+Ermittlung des Einflusses und der Betroffenheit der Stakeholder.
 
-**Wie können die Stakeholder identifiziert werden?**
-Nicht das Projektteam entscheidet wer Stakeholder ist, sondern jeder, der sich für einen
-Stakeholder des Projekts hält, ist ein Stakeholder. (H. Meyer, H.-J. Reher, Projektmanagement, 2016, S. 61)
+![Einfluss_und_Betroffenheit_der_Stakeholder Tab2.3](Bilder/EugenKlat/Tab.2.3_Einfluss_und_Betroffenheit_der_Stakeholder_ermitteln.png)
 
->  **Stakeholderregister** Das Stakeholderregister ist „ein Projektdokument, das die Identifikation,  
-Einschätzung und Klassifikation der Stakeholder eines Projekts beinhaltet. 
+**Stakeholderregister** ist ein wichtiges Werkzeug/Dokument, welches alle Informationen über den  
+Stakeholder beinhaltet, wie:
+- Daten über den jeweiligen Stakeholder
+- Klassifikation
+- notwendige Strategien, ggf. Maßnahmen  
 
-**Stakeholderstrategien** beschreiben das Verhalten, welches gegenüber dem Stakeholder kurz- oder  
-langfristig eingesetzt werden sollen.
+**Werkzeuge zur Bewertung der Stakeholder**  
+Im Laufe der Zeit haben sich zwei Werkzeuge als hilfreich erwiesen, für die Bewertung und Analyse der  
+Stakeholder. Ein **zweidimensionales Portfolio**, es beschreibt die Macht und das Interesse  
+bzw. die Betroffenheit eines Stakeholder bezogen auf das Projekt. In einer **dreidimensionalen  
+Portfolio** wird analysiert, wie stark ist das Potenzial, das Projekt zu unterstützen  
+oder ihm zu schaden. (Siehe Abb. 2.5)  
+Nach der Analyse stellt sich die Frage:
+- Im positiven Sinne, über welche Möglichkeiten verfügt der Stakeholder, um das Projekt zu stärken.
+- Im negativen Sinne, welche Möglichekeiten hat der Stakeholder, dem Projekt zu schaden.  
+
+![Zwei-Dreidimensionale_Bewertung_der_Stakeholder Abb.2.5](Bilder/EugenKlat/Abb.2.5_Zwei-Dreidimensionale_Bewertung_der_Stakeholder.png)
+
+**Welche Strategien sollen gewählt werden?**  
+Nach der Bewertung und Analyse der Stakeholder, stehen uns die Informationen zur Verfügung, welche  
+Stakeholder von großer Bedeutung sind und welche nicht. Das spiegelt sich in der Aufwands-, Kosten- und  
+Zeitgründen wieder. (Siehe Abb. 2.6) **Stakeholderstrategien** beschreibt die Intensität und die Dauer  
+des Verhaltens, welches gegenüber dem Stakeholder betrieben werden soll.
+
+![Moegliche_Strategien-fuer_den_Umgang_mit_dem_Stakeholdern Abb.2.6](Bilder/EugenKlat/Abb.2.6_Moegliche_Strategien-fuer_den_Umgang_mit_dem_Stakeholdern.png)  
 
 ### Rollen im Projektmanagement
 
-In der Projektpraxis existieren unterschiedliche Rollen und Organisationseinheiten wie
-auch verschiedene Bezeichnungen (vgl. hierzu Abb. 2.12).
+In jedem Projekt werden vielfältige Rollen von den Projektmitarbeitern ausgefüllt. Einige der wichtigen Rollen,  
+und Organisationseinheiten können sie der Abb 2.12 entnehmen.
+
+![Rollen_und_Organisationseinheiten Abb.2.12](Bilder/EugenKlat/Abb.2.12_Moegliche_Rollen_und_Organisationseinheiten_in_Projekten.png)
 
 #### Rolle klären
 
-> **Rolle – Role** „Eine Rolle beinhaltet die Summe der Erwartungen des Umfelds an den
-Inhaber einer bestimmten Stelle. Rollen sind grundsätzlich personenunabhängig“ (Bea
-et al. 2011, S. 54).
+> **Rolle – Role** Eine Rolle ist eine personenunabhängige Bündelung von Aufgaben, Kompetenzen und Verantwortung.  
+Jede Rolle erfordert bestimmte Fähigkeiten und Kenntnisse und ist mit bestimmten Kompetenzen ausgestattet.
 
-### Das Team
+**Weshalb ist es sinnvoll, Rollen zu definieren?**  
+Rollen ist ein wichtiges Werkzeug in einem Projekt. Im Projekt müssen viele Aufgaben, arbeitsteilige Prozesse erfüllt  
+werden, um den Gesamtumfang des Projektes zu erreichen. Welche Rollen von welchen Personen eingenommen werden,  
+wird im Rahmen der Definitionsphase eines Projektes geklärt.
 
-## Quellen
-#### Quelle1 aus Buch A Seite B von Zeile C bis D <a name="quelle1"></a>
+**Welche Rollen sind wichtig in einem Projekt**  
+Da Projekte sehr vielschichtig sind, müssen auch verschiedenste Aspekte betrachtet werden. Im Laufe der Zeit haben  
+sich gewissen Rollen etabliert, die nicht mehr wegzudenken sind. Dazu gehören:
+1. Projektleiter – Project Manager
+2. Projektcontroller – Project Controller
+3. Systemarchitekt – Systems Engineer (Systems Architect), auch Systemverantwortlicher
+4. Qualitätsmanager – Quality Manager
+5. Risikomanager – Risk Manager
+6. Stakeholdermanager – Stakeholder Manager.  
+
+Die Rollen stellen sicher, dass
+- die notwendigen Aufgaben erfüllt werden
+- die Termine eingehalten werden
+- die geforderten Lieferleistungen erfüllt werden
+- die Qualität der Lieferleistungen dem gewünschten Ziel entsprechen
+
+**Projektleiter** nimmt eine eigene Projektrolle ein. Der Projektleiter ist dafür verantwortlich, das Projekt so zu steuern,  
+dass es erfolgreich abgeschlossen wird und die Projektziele erreicht werden. In kleineren Projekten nimmt insbesondere der  
+Projektleiter mehrere Rollen ein. Je größer das Projekt, desto stärker werden die Projektrollen auf unterschiedliche  
+Personen verteilt. Der Projektleiter muss dafür sorgen, dass alle Rollen besetzt sind und definieren, welche  
+Verantwortungsbereiche unter die jeweilige Rolle fallen.
+
+**Projektcontroller** Diese Rolle ist für die Überwachung und Steuerung des Projektfortschrittes zuständig.  
+Teilweise gehört auch die Überwachung der Kosten zu den Hauptaufgaben.
+
+**Systemarchitekt** Er entwirft auf Basis der Gesamtsystemspezifikation die Systemarchitektur und Unterstützungs-Systemarchitektur.
+
+**Qualitätsmanager** Ist dafür verantwortlich, die Erreichung der Qualitätsziele zu überwachen.
+
+**Stakeholdermanager** Ist dafür verantwortlich, die Stakeholder zu identifizieren, analysieren, geforderte Strategien zu  
+entwickeln und stetig in Beobachtung zu halten, um die Wahrscheinlichkeit der Erfolgsrate beim Projekt zu erhöhen.
+
+#### Was ist eine RASCI-Chart und wie kann es bei der Klärung der Rollen helfen 
+Mit RASCI wird eine Technik zur Analyse und Darstellung von Verantwortlichkeiten bezeichnet. Es handelt sich um eine Matrix,  
+aus der hervorgeht, welche Beteiligten wofür verantwortlich sind.
+
+Dabei werden folgende Fragen beantwortet:
+- Welche Aufgaben sind zu erledigen?
+- Welche Rollen sind beteiligt?
+- Wer ist wofür verantwortlich?
+
+Ein mögliches Beispiel für die Rollenklärung mit dem RASCI-Chart zeigt Abb. 2.13
+![RASCI_Tabelle Abb.2.13](Bilder/EugenKlat/Abb.2.13_Beispiel_RASCI-Tabelle.png)
+
+#### Wer ist beteiligt bei der Rollenklärung und wann ist dies am besten zu tun
+Die Rollenklärung muss sehr früh im Projekt passieren. Am besten eignet sich der Projekt-Start-Workshop dazu.  
+Im Laufe des Projektes, können gewissen Veränderungen der Rollen passieren. Deswegen ist es wichtig,  
+beim Beginn einer neuen Phase die Aktualität der Rollen zu besprechen.

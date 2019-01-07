@@ -34,5 +34,16 @@ Datum | Dauer | Tätigkeit
 08.12.18 | 2:55 h   | Ausarbeitung
 09.12.18 | 3:25 h   | Ausarbeitung
 09.12.18 | 0:30 h   | Präsentationshintergrund erstellt
+10.12.18 | 3:00 h   | Ausarbeitung
+11.12.18 | 0:30 h   | 9. Meeting
+14.12.18 | 3:00 h   | Ausarbeitung
+15.12.18 | 7:00 h   | Ausarbeitung
+16.12.18 | 7:30 h   | Ausarbeitung
+17.12.18 | 12:00 h  | Ausarbeitung
+18.12.18 | 5:00 h   | Ausarbeitung
+20.12.18 | 0:30 h   | angefange Präsentationsvorlage zu erstellt
+26.12.18 | 0:15 h   | Weiter an der vorlage gearbeitet
+29.12.18 | 0:30 h   | Vorlage erstellt
+30.12.18 | 0:15 h   | Feedback zur Vorlage umgesetzt
    |   |  
-Summe | 31:00 h  |
+Summe | 70:30 h  |

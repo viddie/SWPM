@@ -66,4 +66,20 @@
 ||
 03.12.18 | 4:00 h | Ausarbeitung schreiben
 ||
-Summe |  43:00 h  | 
+11.12.18 | 0:20 h | Github Pflege & Kommunikation  
+11.12.18 | 0:30 h | ?Meeting
+||
+16.12.18 | 4:00 h | An Jira & Ausarbeitung verzweifelt
+||
+17.12.18 | 1:00 h | Sidebar & Formatierung angepasst
+17.12.18 | 0:15 h | Ausarbeitungs Titelbild
+17.12.18 | 8:25 h | Ausarbeitung fertiggestellt
+||
+18.12.18 | 2:00 h | Letzte Formatierungen
+18.12.18 | 0:45 h | 9. Meeting
+18.12.18 | 0:30 h | Präsentation Aufbau Beprochen
+18.12.18 | 0:15 h | 9. Meeting Nachberabeiten
+||
+26.12.18 | 0:40 h | GitHub Pflege & Kommunikation
+||
+Summe |  61:40 h  | 
