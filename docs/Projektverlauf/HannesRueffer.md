@@ -19,5 +19,10 @@
 11.12.18 | 3:50 h   | Ausarbeitung 3.6 fertig
 17.12.18 | 1:00 h   | Ausarbeitung Kap. 3 Formatierung & Grammatik
 18.12.18 | 1:30 h   | Ausarbeitung 5 fertig
+18.12.18 | 0:45 h   | 9. Meeting
+18.12.18 | 0:30 h   | Präsentation Aufbau Beprochen
+03.01.19 | 0:40 h   | Online-Meeting
+06.01.19 | 0:45 h   | Online-Meeting
+07.01.19 | 3:30 h   | Präsentation 3 & 5 fertig
  |   | 
-Summe | 26:45 h  | 
+Summe | 32:55 h  | 
