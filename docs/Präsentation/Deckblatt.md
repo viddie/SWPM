@@ -1,4 +1,4 @@
-# PRÄSENTATION über IT-Projektmanagement & Projektmanagement
+# IT-Projektmanagement & Projektmanagement
 
 
 .center[Von:]
